@@ -2,3 +2,4 @@
 3d1a755b2076052f4022d7c05cbf3f44ed973cb2 | 2026-05-19T23:22:11+05:30 | chore: update .gitignore
 4d5049607a5f9af4e9210084eb61fc644f47cf90 | 2026-05-19T23:23:28+05:30 | feat: create commit-msg.sh githook
 7295243cc2542e3bf5c766c7cf0029430f1d5b6d | 2026-05-20T21:28:28+05:30 | feat: integrate biome
+14ebaa6319085fe6d12b8205ebcd009c7a98c9f6 | 2026-05-20T21:53:10+05:30 | chore: add bun types
