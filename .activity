@@ -8,3 +8,4 @@
 eef68af3d5e19a6dcbad487973e4d295b368a778 | 2026-05-21T22:49:32+05:30 | feat: implement core frontend logic
 2a094cc70e98e44f88317a6df07d8053934de2aa | 2026-05-21T23:11:35+05:30 | feat: implement core go backend logic
 8abb7e2c533c365699cc699f38ed06c056661b35 | 2026-05-22T00:01:52+05:30 | feat: implement psql database core for the main database
+a0da735c389ad583a879b08e366fdb357f1e16fb | 2026-05-22T00:02:28+05:30 | chore: create staticcheck.conf
