@@ -26,3 +26,4 @@ f7bfe02636991dfc9b6ee99e8af1fe8bfc7fd8da | 2026-05-22T18:41:33+05:30 | feat: imp
 6630b6ec2a9ee1320f7848ca5c2f3997bb21ab5b | 2026-05-22T18:41:51+05:30 | feat: create UUID string generation package
 7730602321814d7c9c41578308268d0815247109 | 2026-05-22T18:42:15+05:30 | feat: implement AWS SES package
 6a4ae76770bd0925e3e11dfd75da66a16a32da5b | 2026-05-22T18:43:14+05:30 | feat: integrate AWS SES, and go validator with the root configuration struct
+38777d03b9346c9cce7a7ac6fc79146c9f5da8b6 | 2026-05-22T18:45:40+05:30 | feat: implement API middlware with log, panics, unique id and rate limiter handeling
