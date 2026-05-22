@@ -29,3 +29,4 @@ f7bfe02636991dfc9b6ee99e8af1fe8bfc7fd8da | 2026-05-22T18:41:33+05:30 | feat: imp
 38777d03b9346c9cce7a7ac6fc79146c9f5da8b6 | 2026-05-22T18:45:40+05:30 | feat: implement API middlware with log, panics, unique id and rate limiter handeling
 adbb787d37923daf8a94fa4e4b6a25ef2ffffb58 | 2026-05-22T18:46:08+05:30 | chore: update go.mod and go.sum
 602fb2ac244573d7e8a0359030a1dcef7699abea | 2026-05-22T18:46:55+05:30 | feat: implement body and query parameter parsing helper functions
+024a3cf1d9fdb0787d887002a4914ca6edd30306 | 2026-05-22T18:47:09+05:30 | feat: implement body and query validation helper functions
