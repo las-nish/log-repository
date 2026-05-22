@@ -34,3 +34,4 @@ d96c63399d138f1e97c7cf182c3cc950286cc7e8 | 2026-05-22T18:47:27+05:30 | feat: imp
 08aa91d849b60f5dbf2e1799495a0278cdbb97b0 | 2026-05-22T18:47:51+05:30 | feat: implement email sending helper package
 30997811f51dfe40ada180b9e7c8129fd072f347 | 2026-05-22T18:48:16+05:30 | feat: implement response handeling helper functions including normal, error, and internal error responses
 40834629d210b19b80a7afbdd78e1f75445e69e6 | 2026-05-22T19:29:27+05:30 | feat: implement email template management files
+1df040441adad473e6b129acb3d070c07d02fffb | 2026-05-22T19:29:54+05:30 | feat: implement sign up verification API
