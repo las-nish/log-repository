@@ -64,3 +64,4 @@ d822a374b005e9191b5b1a93bec53a1a20428d44 | 2026-05-23T01:02:06+05:30 | feat: add
 26e0691f7811ec249aec2daa1fe69f0f95748fd5 | 2026-05-23T02:21:32+05:30 | fix: fix nil return in service
 02334555cb729c558544725d81c21a033d76d35a | 2026-05-23T02:21:51+05:30 | feat: add 16px cross icon
 c736ccc08d70ff2c908e8c1ce859518b5eab4a53 | 2026-05-23T02:22:10+05:30 | refactor: remove `isIconVisible` parameter from the options
+a31151b3cf71e545deca15c0627f5399ceb88da7 | 2026-05-23T02:22:33+05:30 | feat: add code copy to clipboard feature
