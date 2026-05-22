@@ -38,3 +38,4 @@ d96c63399d138f1e97c7cf182c3cc950286cc7e8 | 2026-05-22T18:47:27+05:30 | feat: imp
 cbc44d161e2fffaf9cb21dd7ef7338d5f6f21f2d | 2026-05-22T19:46:03+05:30 | feat: integrate sentry for error tracking
 5c4f0651b31f3fa72bcc6f2d68707ccd8b7c1765 | 2026-05-22T19:51:12+05:30 | feat: integrate sentry with frontend
 613d83a4e90e98db31a957618e49c62898d7b71d | 2026-05-22T19:58:48+05:30 | feat: implement route management utility, and basic frontend with error 404 page
+66081b9a062e8286f37be80e01bfa9e95c28fb4b | 2026-05-22T21:45:18+05:30 | style: integrate core styles
