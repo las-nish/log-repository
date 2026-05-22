@@ -68,3 +68,4 @@ a31151b3cf71e545deca15c0627f5399ceb88da7 | 2026-05-23T02:22:33+05:30 | feat: add
 d386f1fe73b1b1b28a65bef276315600282d9b27 | 2026-05-23T02:22:46+05:30 | fix: fix database env keys
 9eb28bbdf93d089d636c5f9e742a09d0419af131 | 2026-05-23T02:24:33+05:30 | feat: implement fetch util
 f6b8ae7dafd0997e4bbf5175058c9ffe11c961bd | 2026-05-23T02:24:41+05:30 | feat: implement httpError helper
+0b2679f14656a536ff6b63f6c5f29277d5041ebe | 2026-05-23T02:25:02+05:30 | feat: create sign up verification sending flow
