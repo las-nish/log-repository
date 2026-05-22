@@ -16,3 +16,4 @@ d0df670f3c53a28133da634983fc59ef3e5bca11 | 2026-05-22T00:05:57+05:30 | feat: add
 77038eda1bd231af431ab3f33bc8dfd97bf50f77 | 2026-05-22T00:29:35+05:30 | chore: add doppler-based .env file setup script
 f20a32be590a51622b2908adb1edb77d7f912029 | 2026-05-22T00:42:10+05:30 | feat: implement user-related database scripts
 ba2053205ba4375dfa83d0eb57113cba34b739aa | 2026-05-22T00:56:56+05:30 | feat: implement temporary token related database scripts
+5295111746949c06e3ea8a927b1033b831590624 | 2026-05-22T11:26:15+05:30 | docs: remove docs README
