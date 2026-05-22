@@ -53,3 +53,4 @@ de222b602ac7386eefee621d6586872775fea186 | 2026-05-23T00:29:36+05:30 | feat: cre
 044b304387875626c3caa3299f2cbd16c199e692 | 2026-05-23T00:32:42+05:30 | feat: implement nodde utils
 06846415d354523df23f9a90fe1b4e2d0579ff06 | 2026-05-23T00:33:12+05:30 | feat: implement id util
 d4441553fd9c886ba4ea39d6b7e486cefa4ca592 | 2026-05-23T00:33:28+05:30 | feat: create status text component
+738d5021661bb0c74d37c257dea572a81c6f66fd | 2026-05-23T00:33:40+05:30 | feat: create close button component
