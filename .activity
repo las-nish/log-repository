@@ -36,3 +36,4 @@ d96c63399d138f1e97c7cf182c3cc950286cc7e8 | 2026-05-22T18:47:27+05:30 | feat: imp
 40834629d210b19b80a7afbdd78e1f75445e69e6 | 2026-05-22T19:29:27+05:30 | feat: implement email template management files
 1df040441adad473e6b129acb3d070c07d02fffb | 2026-05-22T19:29:54+05:30 | feat: implement sign up verification API
 cbc44d161e2fffaf9cb21dd7ef7338d5f6f21f2d | 2026-05-22T19:46:03+05:30 | feat: integrate sentry for error tracking
+5c4f0651b31f3fa72bcc6f2d68707ccd8b7c1765 | 2026-05-22T19:51:12+05:30 | feat: integrate sentry with frontend
