@@ -59,3 +59,4 @@ b9d05b3a7dcf18192f7df9cfe6bb5cf850c46f21 | 2026-05-23T00:33:55+05:30 | feat: cre
 090ed10dc70fb82ff1acf64d8f1ec00b1da3312c | 2026-05-23T00:34:05+05:30 | feat: create text to link parsing component
 c25b60e8a795d52b2b52a5236a51348083e1d157 | 2026-05-23T00:34:13+05:30 | feat: create authentication form component
 d822a374b005e9191b5b1a93bec53a1a20428d44 | 2026-05-23T01:02:06+05:30 | feat: add translations and implement route middleware
+267d8ec9d833f1959eca67dc260165b2f6bbb7af | 2026-05-23T01:27:40+05:30 | refactor: remove keys.ts
