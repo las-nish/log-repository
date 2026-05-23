@@ -71,3 +71,4 @@ f6b8ae7dafd0997e4bbf5175058c9ffe11c961bd | 2026-05-23T02:24:41+05:30 | feat: imp
 0b2679f14656a536ff6b63f6c5f29277d5041ebe | 2026-05-23T02:25:02+05:30 | feat: create sign up verification sending flow
 596478fa2e050efc6c91541cbfa9333d572d0498 | 2026-05-23T15:02:54+05:30 | feat: implement JWT package
 7741079aec0fbbce39bf3c814087e8a99ba8833d | 2026-05-23T15:03:12+05:30 | feat: implement argon package
+9ddb7c66088875f82f392f5fbb93a0e51673155f | 2026-05-23T15:05:12+05:30 | feat: implement user account creation flow with API, email, and frontend
