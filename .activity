@@ -82,3 +82,4 @@ afa3108551334d102de59099366d0f6080ec0c9c | 2026-05-23T16:52:08+05:30 | feat: imp
 21f4c69b4260d91527f668985bd5c587b8be71a9 | 2026-05-23T21:18:30+05:30 | feat: integrate magic sign in process with APIs and frontend pages
 2e6f2fa6ca538c4ad46c35a37a680b10018b2b1f | 2026-05-23T21:19:29+05:30 | fix: fix translation typos
 2b111b763621f0c0f625dc6885d71cd299cb8b37 | 2026-05-23T21:27:46+05:30 | fix: fix `secret` encoded field in data parameter
+5c34fdef03d273ec1ad09652773ff64ab46877e0 | 2026-05-23T21:31:24+05:30 | fix: add missing public route paths
