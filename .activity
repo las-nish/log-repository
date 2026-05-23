@@ -76,3 +76,4 @@ f6b8ae7dafd0997e4bbf5175058c9ffe11c961bd | 2026-05-23T02:24:41+05:30 | feat: imp
 b06bcb5ded85983bbcd82ad1f5da5e57a7df9bcd | 2026-05-23T16:01:01+05:30 | fix: fix sign up verification API naming convensions
 d5d50002dcc23f9c65d93e684b0b51cba3d60dcb | 2026-05-23T16:20:25+05:30 | refactor: fix page names
 1238ff45816d54d51118a9c1a684a7850d0c88dc | 2026-05-23T16:51:53+05:30 | fix: fix additional button mapping
+afa3108551334d102de59099366d0f6080ec0c9c | 2026-05-23T16:52:08+05:30 | feat: implement sign in api and frontend flow
