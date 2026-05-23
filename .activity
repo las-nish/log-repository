@@ -79,3 +79,4 @@ d5d50002dcc23f9c65d93e684b0b51cba3d60dcb | 2026-05-23T16:20:25+05:30 | refactor:
 afa3108551334d102de59099366d0f6080ec0c9c | 2026-05-23T16:52:08+05:30 | feat: implement sign in api and frontend flow
 6d82327b7b1bcb6011f8f0506803e1652ac7c290 | 2026-05-23T17:30:57+05:30 | refactor: ruen dbQueryOutput struct into a nested struct
 5edc6803e524966c1063394e1684d0f85ace060c | 2026-05-23T17:35:05+05:30 | refactor: refactor handler returns
+21f4c69b4260d91527f668985bd5c587b8be71a9 | 2026-05-23T21:18:30+05:30 | feat: integrate magic sign in process with APIs and frontend pages
