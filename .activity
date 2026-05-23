@@ -84,3 +84,4 @@ afa3108551334d102de59099366d0f6080ec0c9c | 2026-05-23T16:52:08+05:30 | feat: imp
 2b111b763621f0c0f625dc6885d71cd299cb8b37 | 2026-05-23T21:27:46+05:30 | fix: fix `secret` encoded field in data parameter
 5c34fdef03d273ec1ad09652773ff64ab46877e0 | 2026-05-23T21:31:24+05:30 | fix: add missing public route paths
 9105b88266fbee9185dbbc4ab3d55e5f2cbadeb6 | 2026-05-23T21:53:59+05:30 | fix: add missing sign in magic link related routes
+b8fe1a23a1e766061c2b51ed07ba5098d5771394 | 2026-05-23T21:54:32+05:30 | fix: fix magic link temporary token type, and fix page naming convension with the status code
