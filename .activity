@@ -92,3 +92,4 @@ b8fe1a23a1e766061c2b51ed07ba5098d5771394 | 2026-05-23T21:54:32+05:30 | fix: fix 
 cfdacfb116e272a04f85d33fe084e00fbf4e67e5 | 2026-05-24T05:57:29+05:30 | feat: implement jwt authentication to the API middleware
 9f008db20ff518dcb99cee39ee8091638db23d57 | 2026-05-24T06:24:20+05:30 | feat: implement project create API
 d143834b9e90223b1113cc641b3bcda800202999 | 2026-05-24T07:05:31+05:30 | feat: implement project retrieve API
+b03d20e712cec32640cb2ed2e896b6542c4c34da | 2026-05-24T07:16:21+05:30 | feat: implement project update API
