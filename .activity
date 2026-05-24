@@ -107,3 +107,4 @@ b03d20e712cec32640cb2ed2e896b6542c4c34da | 2026-05-24T07:16:21+05:30 | feat: imp
 c8c4856992d0383a3f323fc860c1ec562df3b824 | 2026-05-24T20:49:48+05:30 | feat: add 24px sized autheona logo
 6ea3a3eacde1a1a6b44664e4aca11d65faf769c6 | 2026-05-24T20:50:13+05:30 | feat: implement account overview store
 52616832af0be40d3bab0db6c6e48733bce6d684 | 2026-05-24T22:20:52+05:30 | fix: fix account overview unassigned error
+9222ebe6a797fae29d2c205c96d695f603419051 | 2026-05-24T22:21:01+05:30 | fix: fix api endpoint
