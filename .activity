@@ -90,3 +90,4 @@ b8fe1a23a1e766061c2b51ed07ba5098d5771394 | 2026-05-23T21:54:32+05:30 | fix: fix 
 1f501652f541fcf4b48cc2b785b70889fca96f76 | 2026-05-23T22:39:49+05:30 | Merge branch 'las-nish/implement-authentication-feature' into 'main'
 3d5a78a63410a284af759b73acb06be5fe076a76 | 2026-05-24T00:01:49+05:30 | feat: create project-related database scripts including table, functions, indexes, and foreign keys
 cfdacfb116e272a04f85d33fe084e00fbf4e67e5 | 2026-05-24T05:57:29+05:30 | feat: implement jwt authentication to the API middleware
+9f008db20ff518dcb99cee39ee8091638db23d57 | 2026-05-24T06:24:20+05:30 | feat: implement project create API
