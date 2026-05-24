@@ -101,3 +101,4 @@ b03d20e712cec32640cb2ed2e896b6542c4c34da | 2026-05-24T07:16:21+05:30 | feat: imp
 2e7dfa733b6d8ae0cad863bfeebbf17cf04ab90e | 2026-05-24T19:49:53+05:30 | feat: create project frontend api call files
 2bb436ba9fe8b5abb24f9e08735599f5ac9e75b9 | 2026-05-24T19:54:54+05:30 | feat: add content to the error 404 page
 3610f7cbd547fad54bd5bca035781f6afb714827 | 2026-05-24T20:00:49+05:30 | feat: create account overview database function
+1cf8e820aa957bb5d61dce2db3392a4e5676a2b3 | 2026-05-24T20:30:07+05:30 | feat: implement account overview db function, api, and
