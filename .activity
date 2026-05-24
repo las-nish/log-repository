@@ -97,3 +97,4 @@ b03d20e712cec32640cb2ed2e896b6542c4c34da | 2026-05-24T07:16:21+05:30 | feat: imp
 19f6a7cecb9760b9784ff4e50be50a68fb5d9a37 | 2026-05-24T16:02:00+05:30 | feat: implement memory store package
 78733cca34748933f1c880d88ef7108f90a94e7a | 2026-05-24T16:02:19+05:30 | feat: add project rule update to the memory store for fast access
 94c6a9cc6f124e94623999515d36415a58b94eca | 2026-05-24T16:09:34+05:30 | fix: fix api path prefix
+6d8cd90a01684c7627ce049cd5b7b63ca038c014 | 2026-05-24T16:09:59+05:30 | fix: fix project patch API method
