@@ -119,3 +119,4 @@ dcad2e3dd82878ac14b06b3b7b6f561b96fda658 | 2026-05-25T00:59:01+05:30 | feat: imp
 5ec323386244130028c6b024b83600ef2b74824e | 2026-05-25T12:18:27+05:30 | feat: add chevron up/down icons
 fd1bd70ba63a9a74b1e332da8ca244018b92226a | 2026-05-25T12:18:34+05:30 | feat: create menu component
 3a1f69a52ee0980da311b9247f687104f02bd939 | 2026-05-25T12:18:50+05:30 | feat: create modal component and its controller
+85a4aa73ed2e4ccfd53a566bb7370a8fd09e8454 | 2026-05-25T12:19:00+05:30 | feat: create sidebar comopnent and its controller
