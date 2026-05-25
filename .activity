@@ -132,3 +132,4 @@ c285685f79a101dd55406a251a1027c70c9f308b | 2026-05-25T20:14:29+05:30 | feat: set
 e16efa0118f6f8587ab96724cdd73aced06ace4a | 2026-05-25T20:14:43+05:30 | feat: implement account sign out helper
 0a4ea6cffe287ad22ae2541fba8059f238c1de97 | 2026-05-25T20:22:07+05:30 | feat: add more dump icons
 0a87ad829c40bf19816aacc8cc0983446dad2be1 | 2026-05-25T20:22:51+05:30 | feat: add complete page structure with side bar, and otop menu components
+c2c9e762efdf6714f78e409e49ec77a2dc612d79 | 2026-05-25T20:56:58+05:30 | fix: fix class names
