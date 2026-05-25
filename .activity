@@ -126,3 +126,4 @@ c164993fd986e446e5fe9d96cdb71e4da9f10c32 | 2026-05-25T17:28:26+05:30 | refactor:
 55613cb08ae5523c469e496dcabef338ce022a7e | 2026-05-25T17:46:00+05:30 | refactor: refactor menu item component into another file
 287450f4117a106ad90b250086c36480b0ac73e7 | 2026-05-25T18:14:20+05:30 | feat: implement project selector menu to the top bar
 04a81fb47ecfb6a07525bc1c00c003bdca608f2d | 2026-05-25T18:36:54+05:30 | fix: fix top bar controller
+0108c36b5649b0c112637c8336a99b657055ba49 | 2026-05-25T19:45:18+05:30 | refactor: remove unnecessary codes and optimize the top bar component, and its controller
