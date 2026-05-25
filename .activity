@@ -144,3 +144,4 @@ dcc93204403d4630df1e986ec12db71a3f98ffc3 | 2026-05-25T22:57:59+05:30 | feat: imp
 ed04ec51dfb843ad116075270999d0d48b435129 | 2026-05-26T00:18:17+05:30 | feat: create access token list component
 2de5604aea7e06ebad04e40a3ca35c7dce16bf11 | 2026-05-26T00:18:37+05:30 | feat: implement settings item component
 4ffb6236d062f178cbbbea8d623c03b9e8311737 | 2026-05-26T00:18:57+05:30 | feat: implement settings section component
+857b97ae581f067c1a1ab270235af5aebf297f65 | 2026-05-26T00:43:02+05:30 | fix: remove unnecessary fields from settings items
