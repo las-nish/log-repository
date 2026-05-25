@@ -113,3 +113,4 @@ c8c4856992d0383a3f323fc860c1ec562df3b824 | 2026-05-24T20:49:48+05:30 | feat: add
 7e8bd128b273cb6bd7f678fc19d2e53dc0435c33 | 2026-05-25T00:57:44+05:30 | feat: implement text area component
 ffad44d2d3588d3897faaff206399d27381a261b | 2026-05-25T00:57:58+05:30 | feat: implement project creation form
 dcad2e3dd82878ac14b06b3b7b6f561b96fda658 | 2026-05-25T00:59:01+05:30 | feat: implement project page redirect logic and project create page
+9642da076fdf54bfb02448367f7be8bce6b03f45 | 2026-05-25T12:17:20+05:30 | refactor: remove close button component and add direct close button to the alert
