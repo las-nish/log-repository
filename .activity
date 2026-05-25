@@ -121,3 +121,4 @@ fd1bd70ba63a9a74b1e332da8ca244018b92226a | 2026-05-25T12:18:34+05:30 | feat: cre
 3a1f69a52ee0980da311b9247f687104f02bd939 | 2026-05-25T12:18:50+05:30 | feat: create modal component and its controller
 85a4aa73ed2e4ccfd53a566bb7370a8fd09e8454 | 2026-05-25T12:19:00+05:30 | feat: create sidebar comopnent and its controller
 584cee1e0786e6a1ba18d0cc5215316ea99786ec | 2026-05-25T12:19:11+05:30 | feat: create topbar component and its controller
+c164993fd986e446e5fe9d96cdb71e4da9f10c32 | 2026-05-25T17:28:26+05:30 | refactor: turn all icons into dump circle icons
