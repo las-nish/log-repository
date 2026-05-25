@@ -145,3 +145,4 @@ ed04ec51dfb843ad116075270999d0d48b435129 | 2026-05-26T00:18:17+05:30 | feat: cre
 2de5604aea7e06ebad04e40a3ca35c7dce16bf11 | 2026-05-26T00:18:37+05:30 | feat: implement settings item component
 4ffb6236d062f178cbbbea8d623c03b9e8311737 | 2026-05-26T00:18:57+05:30 | feat: implement settings section component
 857b97ae581f067c1a1ab270235af5aebf297f65 | 2026-05-26T00:43:02+05:30 | fix: remove unnecessary fields from settings items
+2ceb85cd815ca70c326a776708101d0a7a5ff44f | 2026-05-26T01:02:15+05:30 | feat: implement debounce utility
