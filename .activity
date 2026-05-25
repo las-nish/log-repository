@@ -124,3 +124,4 @@ fd1bd70ba63a9a74b1e332da8ca244018b92226a | 2026-05-25T12:18:34+05:30 | feat: cre
 c164993fd986e446e5fe9d96cdb71e4da9f10c32 | 2026-05-25T17:28:26+05:30 | refactor: turn all icons into dump circle icons
 4c5c09ce771e8270cedfc63e47730fdac4bf6382 | 2026-05-25T17:41:53+05:30 | refactor: refactor top bar nested elements into separate component files
 55613cb08ae5523c469e496dcabef338ce022a7e | 2026-05-25T17:46:00+05:30 | refactor: refactor menu item component into another file
+287450f4117a106ad90b250086c36480b0ac73e7 | 2026-05-25T18:14:20+05:30 | feat: implement project selector menu to the top bar
