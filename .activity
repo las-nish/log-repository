@@ -129,3 +129,4 @@ c164993fd986e446e5fe9d96cdb71e4da9f10c32 | 2026-05-25T17:28:26+05:30 | refactor:
 0108c36b5649b0c112637c8336a99b657055ba49 | 2026-05-25T19:45:18+05:30 | refactor: remove unnecessary codes and optimize the top bar component, and its controller
 aaafe72293bae80df5921dddf32af7e9db45f56d | 2026-05-25T20:13:36+05:30 | refactor: optimize menu item by passing size as a separate function parameter
 c285685f79a101dd55406a251a1027c70c9f308b | 2026-05-25T20:14:29+05:30 | feat: set icon in the project selector menu item as optional
+e16efa0118f6f8587ab96724cdd73aced06ace4a | 2026-05-25T20:14:43+05:30 | feat: implement account sign out helper
