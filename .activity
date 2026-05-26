@@ -176,3 +176,4 @@ d7bd7cd3b3ae76ade99bb98449ce2613a78849a8 | 2026-05-27T01:23:38+05:30 | refactor:
 163241a6542de355ee2cde631a48ac91a2b2e5e1 | 2026-05-27T01:56:41+05:30 | feat: implement access token to the memstore, and to the API middleware with rate limitation
 79c2c3a42dcafccd983a790cc721db2ce4ef49e3 | 2026-05-27T01:56:55+05:30 | feat: implement `GetAccessTokenFromContext()` function
 f77f7e9767d12931fb9a5083a49bfccfa0801d8a | 2026-05-27T02:04:48+05:30 | feat: implement sqlite package
+ad3723c05f1dd29676fbd1d481b023443fbdd573 | 2026-05-27T02:06:22+05:30 | feat: add custom function to set default project rules when creating a new project
