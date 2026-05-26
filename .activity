@@ -159,3 +159,4 @@ eda4ca0739141402394e457507fa821177dc045e | 2026-05-26T11:57:55+05:30 | fix: set 
 d339c5468051940e878d024b8938d92915f1d149 | 2026-05-26T12:14:55+05:30 | Merge branch 'las-nish/implement-project-feature' into 'main'
 02a34d61719f6cacd91167471c194832f8ef8262 | 2026-05-26T13:04:09+05:30 | feat: implement access token related database scripts
 d7650ad8b10204cd3d2969eccb613d67b817c329 | 2026-05-26T14:50:47+05:30 | feat: implement access token related APIs including, create, retrieve list, and update APIs
+8dda6a7bf35b810c928c3e96cf0625ac8185db37 | 2026-05-26T22:55:15+05:30 | fix: remove color from the dropdown component
