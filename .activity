@@ -160,3 +160,4 @@ d339c5468051940e878d024b8938d92915f1d149 | 2026-05-26T12:14:55+05:30 | Merge bra
 02a34d61719f6cacd91167471c194832f8ef8262 | 2026-05-26T13:04:09+05:30 | feat: implement access token related database scripts
 d7650ad8b10204cd3d2969eccb613d67b817c329 | 2026-05-26T14:50:47+05:30 | feat: implement access token related APIs including, create, retrieve list, and update APIs
 8dda6a7bf35b810c928c3e96cf0625ac8185db37 | 2026-05-26T22:55:15+05:30 | fix: remove color from the dropdown component
+8fea537e9743f95cb44d95cacab6808abc3dc1a9 | 2026-05-26T22:55:30+05:30 | feat: create `formatData()` utility
