@@ -153,3 +153,4 @@ bd6c1aaaa45496a1f0a8a39a4c3021fe4c42562d | 2026-05-26T02:51:53+05:30 | feat: imp
 a4dd4ebf7fc00ae3f75dc56bd4a331614a0b4120 | 2026-05-26T11:00:56+05:30 | feat: check update status for non-active (pending deletion) projects
 7bd27ee04b8e077ba180102d8f87cb2332156ba5 | 2026-05-26T11:20:06+05:30 | feat: add page notices to project related pages
 ab76786ed4668c4e03c8b29c6842cf7f65235fe1 | 2026-05-26T11:22:39+05:30 | feat: add condition to hide project rules update flow in non-active projects
+eda4ca0739141402394e457507fa821177dc045e | 2026-05-26T11:57:55+05:30 | fix: set unique name to be lowercase
