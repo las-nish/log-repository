@@ -172,3 +172,4 @@ a38b4b2db8712ebd78452fb50ac8e966136cb8f1 | 2026-05-27T00:47:54+05:30 | feat: imp
 882dcb39f1c0fe967bbd5b8b0c8ed8ae07ac0ecd | 2026-05-27T00:52:18+05:30 | feat: implement fingerprint API
 780a2fe363d002cccc4872ad60d643a25563f524 | 2026-05-27T01:06:18+05:30 | refactor: optimize repository function by returning `err` directly
 0f66a31da8e694a4225fddd3142774960a42b569 | 2026-05-27T01:22:22+05:30 | refactor: remove `CaptureSentryError()` function, and create `CaptureAndFlush()` function
+d7bd7cd3b3ae76ade99bb98449ce2613a78849a8 | 2026-05-27T01:23:38+05:30 | refactor: optimize sentry capture to use `CaptureAndFlush()` function
