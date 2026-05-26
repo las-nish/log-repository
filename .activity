@@ -162,3 +162,4 @@ d7650ad8b10204cd3d2969eccb613d67b817c329 | 2026-05-26T14:50:47+05:30 | feat: imp
 8dda6a7bf35b810c928c3e96cf0625ac8185db37 | 2026-05-26T22:55:15+05:30 | fix: remove color from the dropdown component
 8fea537e9743f95cb44d95cacab6808abc3dc1a9 | 2026-05-26T22:55:30+05:30 | feat: create `formatData()` utility
 910ba1600cd6ec38b6b8c3093fba0a741b1dd5c4 | 2026-05-26T22:55:56+05:30 | fix: fix help circle icon name typo
+9eb3b8af5501e02c3f148ff9fdfa67d038c3b590 | 2026-05-26T22:56:20+05:30 | fix: fix token code query parameter param
