@@ -174,3 +174,4 @@ a38b4b2db8712ebd78452fb50ac8e966136cb8f1 | 2026-05-27T00:47:54+05:30 | feat: imp
 0f66a31da8e694a4225fddd3142774960a42b569 | 2026-05-27T01:22:22+05:30 | refactor: remove `CaptureSentryError()` function, and create `CaptureAndFlush()` function
 d7bd7cd3b3ae76ade99bb98449ce2613a78849a8 | 2026-05-27T01:23:38+05:30 | refactor: optimize sentry capture to use `CaptureAndFlush()` function
 163241a6542de355ee2cde631a48ac91a2b2e5e1 | 2026-05-27T01:56:41+05:30 | feat: implement access token to the memstore, and to the API middleware with rate limitation
+79c2c3a42dcafccd983a790cc721db2ce4ef49e3 | 2026-05-27T01:56:55+05:30 | feat: implement `GetAccessTokenFromContext()` function
