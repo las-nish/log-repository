@@ -168,3 +168,4 @@ df5afb111eca3a14ccaf817f85fd1fb25b333812 | 2026-05-26T22:56:47+05:30 | feat: imp
 03f1571c2e92e67b05ba53b7accfff4dd7b71272 | 2026-05-26T23:42:16+05:30 | Merge branch 'las-nish/implement-access-token-feature' into 'main'
 9aa7c54d9b0bb4cdc5adfaff5d0722368f92207b | 2026-05-27T00:47:40+05:30 | feat: implement cha20 secret key generation bash script
 a38b4b2db8712ebd78452fb50ac8e966136cb8f1 | 2026-05-27T00:47:54+05:30 | feat: implement JWT token generation bash script
+44644c866d24dc93b96230597f083d93f937cf18 | 2026-05-27T00:52:10+05:30 | feat: create utility function to extract IPv4 and IPv6
