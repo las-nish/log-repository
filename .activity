@@ -150,3 +150,4 @@ b84975bef57b12c403b35e50082fd78bb4d4f818 | 2026-05-26T02:50:18+05:30 | refactor:
 78a8277799eccadc3c63c448ce066a28af5ecdaa | 2026-05-26T02:51:09+05:30 | feat: add project update in store functions
 bd6c1aaaa45496a1f0a8a39a4c3021fe4c42562d | 2026-05-26T02:51:53+05:30 | feat: implement project settings including unique name update, name update, description update, and project deletion
 854f247f8d92299ccded4a74f2f85d0b40b586b8 | 2026-05-26T10:46:58+05:30 | chore: add `.DS_Store`
+a4dd4ebf7fc00ae3f75dc56bd4a331614a0b4120 | 2026-05-26T11:00:56+05:30 | feat: check update status for non-active (pending deletion) projects
