@@ -179,3 +179,4 @@ f77f7e9767d12931fb9a5083a49bfccfa0801d8a | 2026-05-27T02:04:48+05:30 | feat: imp
 ad3723c05f1dd29676fbd1d481b023443fbdd573 | 2026-05-27T02:06:22+05:30 | feat: add custom function to set default project rules when creating a new project
 c41b5d485891b647abd8d432aab513b78abb5d9a | 2026-05-27T16:13:00+05:30 | refactor: change project `rules` term into project `policy`
 78a892cb7eb97771ede6f4ccb53c00b33ee9626f | 2026-05-27T16:42:41+05:30 | refactor: fix package directory name
+d64deb0659c014b3eb7a5210fe42fb64d6c0d518 | 2026-05-27T16:44:49+05:30 | fix: fix memstore package path
