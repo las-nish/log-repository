@@ -177,3 +177,4 @@ d7bd7cd3b3ae76ade99bb98449ce2613a78849a8 | 2026-05-27T01:23:38+05:30 | refactor:
 79c2c3a42dcafccd983a790cc721db2ce4ef49e3 | 2026-05-27T01:56:55+05:30 | feat: implement `GetAccessTokenFromContext()` function
 f77f7e9767d12931fb9a5083a49bfccfa0801d8a | 2026-05-27T02:04:48+05:30 | feat: implement sqlite package
 ad3723c05f1dd29676fbd1d481b023443fbdd573 | 2026-05-27T02:06:22+05:30 | feat: add custom function to set default project rules when creating a new project
+c41b5d485891b647abd8d432aab513b78abb5d9a | 2026-05-27T16:13:00+05:30 | refactor: change project `rules` term into project `policy`
