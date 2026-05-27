@@ -183,3 +183,4 @@ d64deb0659c014b3eb7a5210fe42fb64d6c0d518 | 2026-05-27T16:44:49+05:30 | fix: fix 
 126f621dc63f09da4a1e8237a6d793eb21362cdd | 2026-05-28T00:30:30+05:30 | feat: implement policy engine
 6f2a98e9a5735a21aef64613df6853c5d35f131e | 2026-05-28T00:30:48+05:30 | feat: fix projectpolicy into policyengine
 fa919d4fcc10dc02948cf8bf5031970e5bda88de | 2026-05-28T00:48:25+05:30 | feat: create empty results struct
+4529eb275954a27cbd67a73415b064d4ccc1c2a5 | 2026-05-28T00:49:16+05:30 | feat: create a dump email check function
