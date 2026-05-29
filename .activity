@@ -197,3 +197,4 @@ f8ab66ba21ca93571610208e2e3e57902f1d363a | 2026-05-29T17:29:34+05:30 | feat: add
 a892dce07b9f2226a1cc0dc6ecbc3b6eb5a8dab0 | 2026-05-29T21:00:57+05:30 | feat: add basic email local validation flow with action analysis, and results analysis
 c278c07bd90f3452df1550009982036b234c1ad5 | 2026-05-29T23:15:53+05:30 | feat: add flow stop when ActionBlock to policy rules and fix some bugs identified like typo, float issues.
 c76203f4cb92f1bbe495f4a162cdfe4d8e5f936e | 2026-05-29T23:51:44+05:30 | Merge branch 'las-nish/implement-trust-intelligence-api' into 'main'
+f7c72aa39966b51e433372566d9e4b6013619837 | 2026-05-30T00:35:54+05:30 | fix: remove project rules from the overview retrieve function
