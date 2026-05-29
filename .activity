@@ -187,3 +187,4 @@ fa919d4fcc10dc02948cf8bf5031970e5bda88de | 2026-05-28T00:48:25+05:30 | feat: cre
 47df2e90cd00095c629298698b1291284952c0b6 | 2026-05-28T00:49:37+05:30 | feat: implement basic trust intelligence API
 ed28df02ab071c3c2bc1f7bccd223dc00103a5d6 | 2026-05-29T12:45:44+05:30 | docs: write policy engine architecture decisions
 1cd706fd6d269f59744003c3e5d61846856de38f | 2026-05-29T12:47:43+05:30 | docs: update policy engine summary, and remove TOC from sidebar
+4ccdf5142f902ed69e1792e91e7e07dd87347491 | 2026-05-29T13:02:23+05:30 | chore: update cognitive complexity check to `15`, and cyclomatic complexity to `10`
