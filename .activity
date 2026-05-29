@@ -202,3 +202,4 @@ e01446b295f71e9560c6e5780ee279c981c08bba | 2026-05-30T01:06:22+05:30 | fix: fix 
 478568a754ef0e5c1997b5e05636e9a7987e9338 | 2026-05-30T01:06:39+05:30 | refactor: change access token to use X-API-KEY, and fix memstore issue
 18d76c50412ca1afb725e94d36930c1698c6f219 | 2026-05-30T01:09:21+05:30 | fix: fix policy retrieve and mapping issue
 44f76b1e477ff8e3b1c8fe011f52e4a0203a29c6 | 2026-05-30T01:17:06+05:30 | fix: fix policy nil return issue
+d71f06d8c4b6bfb1bc6b1f4e5664ac691877def6 | 2026-05-30T01:24:59+05:30 | fix: turn `custom_policy` parameter type to `json.RawMessage`
