@@ -185,3 +185,4 @@ d64deb0659c014b3eb7a5210fe42fb64d6c0d518 | 2026-05-27T16:44:49+05:30 | fix: fix 
 fa919d4fcc10dc02948cf8bf5031970e5bda88de | 2026-05-28T00:48:25+05:30 | feat: create empty results struct
 4529eb275954a27cbd67a73415b064d4ccc1c2a5 | 2026-05-28T00:49:16+05:30 | feat: create a dump email check function
 47df2e90cd00095c629298698b1291284952c0b6 | 2026-05-28T00:49:37+05:30 | feat: implement basic trust intelligence API
+ed28df02ab071c3c2bc1f7bccd223dc00103a5d6 | 2026-05-29T12:45:44+05:30 | docs: write policy engine architecture decisions
