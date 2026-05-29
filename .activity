@@ -191,3 +191,4 @@ ed28df02ab071c3c2bc1f7bccd223dc00103a5d6 | 2026-05-29T12:45:44+05:30 | docs: wri
 9a35de5cbb9b2f489f48e9093d95a12aeb6106a6 | 2026-05-29T13:04:27+05:30 | feat: implement policy engine core
 bd6aa99c4f5a5fdd39fdded95758b90e20f85f43 | 2026-05-29T14:08:09+05:30 | refactor: divide policy engine into separate packages to fix import cycle issue
 6baeb5e92bdae06639f54f86acc5e418d18c1a74 | 2026-05-29T17:24:33+05:30 | feat: implement results analyzer and email/ip parsing functions in policy helper
+e27d94707afc6630b5c647115478569ec1b772c4 | 2026-05-29T17:26:20+05:30 | refactor: change project code into a pointer, and integrate result analyzer with the API
