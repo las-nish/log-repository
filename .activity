@@ -211,3 +211,4 @@ d71f06d8c4b6bfb1bc6b1f4e5664ac691877def6 | 2026-05-30T01:24:59+05:30 | fix: turn
 e7475f0b0764a038e1a0c5bbb66976ad6700be4e | 2026-05-30T15:17:39+05:30 | fix: fix comments
 a69132850762ed4c02c98b86ab5c6e9ffebbfe7b | 2026-05-30T17:09:57+05:30 | refactor: restructure the entire engine
 e4d23b45c824a955edb2f75040564535e0a1eac3 | 2026-05-30T17:21:26+05:30 | feat: set email address as an optional parameter
+6cd773b00a06b96b377151d603f88726c045ed98 | 2026-05-30T22:10:09+05:30 | feat: add more email validation logics
