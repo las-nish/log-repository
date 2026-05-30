@@ -215,3 +215,4 @@ e4d23b45c824a955edb2f75040564535e0a1eac3 | 2026-05-30T17:21:26+05:30 | feat: set
 fe1675781ed998d819e1d7d52c8964e40c38d489 | 2026-05-30T23:36:18+05:30 | feat: implement AWS S3 package
 4c2697ad92d3be1d6f373a24de7f55fce8c2db5e | 2026-05-31T01:54:13+05:30 | docs: create data list architecture decisions document
 36939c32404525a6296446539a62de94be475ab3 | 2026-05-31T01:54:58+05:30 | docs: add iam, and s3 setup guidelines
+63c42010031d1a550aec9937c7ca7578efd56dcd | 2026-05-31T01:55:10+05:30 | docs: update sidebar
