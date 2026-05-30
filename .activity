@@ -205,3 +205,4 @@ e01446b295f71e9560c6e5780ee279c981c08bba | 2026-05-30T01:06:22+05:30 | fix: fix 
 d71f06d8c4b6bfb1bc6b1f4e5664ac691877def6 | 2026-05-30T01:24:59+05:30 | fix: turn `custom_policy` parameter type to `json.RawMessage`
 63d0b40989bb6be35de3b19b6a15b268ecc58d5a | 2026-05-30T01:32:19+05:30 | fix: fix dot variation identification function
 817ae7e4e30834d5083b521e099477a1e889690c | 2026-05-30T09:32:22+05:30 | refactor: divide email local checking logics into separate files from a single file
+0c1ea495961a45f0fcb9fc454a969b504a439d53 | 2026-05-30T10:40:53+05:30 | feat: add role based checking
