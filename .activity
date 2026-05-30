@@ -209,3 +209,4 @@ d71f06d8c4b6bfb1bc6b1f4e5664ac691877def6 | 2026-05-30T01:24:59+05:30 | fix: turn
 3e7311e12a0501f6e59ce394145bb9f76b64b67b | 2026-05-30T14:35:26+05:30 | feat: add subdomain related logics, and add EvalOutput to every logic
 304e8658a4adf725a915a30c0f45d5ac02c42518 | 2026-05-30T14:41:34+05:30 | fix: fix subdomain website check to domain website check
 e7475f0b0764a038e1a0c5bbb66976ad6700be4e | 2026-05-30T15:17:39+05:30 | fix: fix comments
+a69132850762ed4c02c98b86ab5c6e9ffebbfe7b | 2026-05-30T17:09:57+05:30 | refactor: restructure the entire engine
