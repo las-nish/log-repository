@@ -221,3 +221,4 @@ c2468d146578d62e6871b789893b7f6ffb4e3bfd | 2026-05-31T01:51:49+05:30 | feat: cre
 de1ee6a973620ab97974c2576194df071eb73945 | 2026-05-31T02:11:34+05:30 | feat: add project code to the ctx payload
 b9fbfa15049cb81752fc96e13ff330d7db10b793 | 2026-05-31T12:43:00+05:30 | feat: create project references related psql database scripts
 8874e0e40be33228f344cfab60a29f747af0be4f | 2026-05-31T12:43:37+05:30 | feat: create project references related sqlite database schema
+defa677d113315c85b791495d46a2e7c6f09f597 | 2026-05-31T13:30:13+05:30 | feat: add `_busy_timeout`
