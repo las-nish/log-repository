@@ -234,3 +234,4 @@ d31fdfbb68acf610cf0e9a3f8ae27c34badf21d4 | 2026-05-31T18:40:56+05:30 | fix: fix 
 eff95570b3b6b5a197cedc656318a8d33d6ff606 | 2026-05-31T21:42:00+05:30 | feat: integrate email velocity sqlite database
 5552378ff6b42f66edaa41300603843ea4f71c94 | 2026-05-31T21:43:37+05:30 | feat: add email velocity sqlite database to the context
 9d133589acc1dc140539d6c04ed9d46708684398 | 2026-05-31T21:46:13+05:30 | fix: fix `sqlite` typo to `SQLite`
+6c75532d33c7ec2ffd276c6117e2019a98b5f0b9 | 2026-05-31T23:27:26+05:30 | refactor: create helper function
