@@ -241,3 +241,4 @@ f3d565258de337f9f039d66ee28c21cf895656e3 | 2026-05-31T23:35:23+05:30 | feat: cre
 92a30799d5e5c428d46da549629912b28e3c7b84 | 2026-06-01T01:03:09+05:30 | feat: add details section to the email response in analyzed results
 93ec5e94f6055789f4a690f99c1f6e7e0020f374 | 2026-06-01T01:04:08+05:30 | docs: update iam document title
 09478ef7dec2fce7f7c78d267eb9b00ff83a7bd9 | 2026-06-01T01:04:31+05:30 | docs: create base email guide
+cfd7c4f0d31ec951402ea0811f69b3bd5bdb79fd | 2026-06-01T01:15:26+05:30 | refactor: format code
