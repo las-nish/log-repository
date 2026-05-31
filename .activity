@@ -227,3 +227,4 @@ defa677d113315c85b791495d46a2e7c6f09f597 | 2026-05-31T13:30:13+05:30 | feat: add
 c99c5d233c8baaa39c20c0b4309d17f020c25fa3 | 2026-05-31T14:24:32+05:30 | fix: fix sqlite `_busy_timeout` setup flow
 98d1890669e0a5acca9cec6909f0f9da8a0dce85 | 2026-05-31T14:25:29+05:30 | fix: fix database name
 f55c03c94bd214edaa6d57c78df71d5bfd80bc4c | 2026-05-31T14:25:35+05:30 | feat: implement project reference create, update, and retrieve list APIs
+81d2886fec0601dd589c1113d8598ae2134e4a81 | 2026-05-31T14:42:14+05:30 | feat: update fetch function to handle undefined query params as undefined
