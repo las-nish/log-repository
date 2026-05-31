@@ -223,3 +223,4 @@ b9fbfa15049cb81752fc96e13ff330d7db10b793 | 2026-05-31T12:43:00+05:30 | feat: cre
 8874e0e40be33228f344cfab60a29f747af0be4f | 2026-05-31T12:43:37+05:30 | feat: create project references related sqlite database schema
 defa677d113315c85b791495d46a2e7c6f09f597 | 2026-05-31T13:30:13+05:30 | feat: add `_busy_timeout`
 1328591217b20c39ce0cabf0dda2325d5c164c26 | 2026-05-31T13:38:40+05:30 | feat: implement reference retrieve from db feature
+59cb8cf3acd46603c4cf2dfa22d644a82bad1889 | 2026-05-31T14:09:33+05:30 | feat: update project reference update function parameters to match other update functions
