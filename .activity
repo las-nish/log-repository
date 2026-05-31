@@ -232,3 +232,4 @@ c67b2681180d1f9dd177c7b69636aeada3bb2f93 | 2026-05-31T14:42:38+05:30 | feat: add
 94619a7158d19e045ebd5ee2a981c76b4eb6745a | 2026-05-31T15:58:20+05:30 | feat: add pending deletion status to the project references update API
 d31fdfbb68acf610cf0e9a3f8ae27c34badf21d4 | 2026-05-31T18:40:56+05:30 | fix: fix in list logics error and introduct `DynamicOutput` to the `EvalContext` to handle string based dynamic output details
 eff95570b3b6b5a197cedc656318a8d33d6ff606 | 2026-05-31T21:42:00+05:30 | feat: integrate email velocity sqlite database
+5552378ff6b42f66edaa41300603843ea4f71c94 | 2026-05-31T21:43:37+05:30 | feat: add email velocity sqlite database to the context
