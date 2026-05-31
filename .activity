@@ -225,3 +225,4 @@ defa677d113315c85b791495d46a2e7c6f09f597 | 2026-05-31T13:30:13+05:30 | feat: add
 1328591217b20c39ce0cabf0dda2325d5c164c26 | 2026-05-31T13:38:40+05:30 | feat: implement reference retrieve from db feature
 59cb8cf3acd46603c4cf2dfa22d644a82bad1889 | 2026-05-31T14:09:33+05:30 | feat: update project reference update function parameters to match other update functions
 c99c5d233c8baaa39c20c0b4309d17f020c25fa3 | 2026-05-31T14:24:32+05:30 | fix: fix sqlite `_busy_timeout` setup flow
+98d1890669e0a5acca9cec6909f0f9da8a0dce85 | 2026-05-31T14:25:29+05:30 | fix: fix database name
