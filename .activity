@@ -243,3 +243,4 @@ f3d565258de337f9f039d66ee28c21cf895656e3 | 2026-05-31T23:35:23+05:30 | feat: cre
 09478ef7dec2fce7f7c78d267eb9b00ff83a7bd9 | 2026-06-01T01:04:31+05:30 | docs: create base email guide
 cfd7c4f0d31ec951402ea0811f69b3bd5bdb79fd | 2026-06-01T01:15:26+05:30 | refactor: format code
 ce72d84f1ce5dfa8c26b230aa561bd228a89557e | 2026-06-01T01:20:04+05:30 | chore: ignore `*.txt` from the count lines command
+0501d1b222080e69410280d07a4b50f359991a33 | 2026-06-01T01:26:54+05:30 | refactor: remove ipv4, ipv6, and fingerprint from the body params
