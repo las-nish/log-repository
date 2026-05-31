@@ -236,3 +236,4 @@ eff95570b3b6b5a197cedc656318a8d33d6ff606 | 2026-05-31T21:42:00+05:30 | feat: int
 9d133589acc1dc140539d6c04ed9d46708684398 | 2026-05-31T21:46:13+05:30 | fix: fix `sqlite` typo to `SQLite`
 6c75532d33c7ec2ffd276c6117e2019a98b5f0b9 | 2026-05-31T23:27:26+05:30 | refactor: create helper function
 67c5ca2a5a77f901d0e4ec99ea94d77ebc9d098e | 2026-05-31T23:27:31+05:30 | refactor: create helper function
+bb80bda4526b6fde3906959596ded129c428aacd | 2026-05-31T23:32:21+05:30 | feat: improve results response structure and add normalized email results
