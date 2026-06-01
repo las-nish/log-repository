@@ -262,3 +262,4 @@ a487d3f283fb72c515ce6de116e7551681e6d1f6 | 2026-06-01T22:01:40+05:30 | feat: int
 e9952c52d1b8d444bc20858e28058f89b6750c9b | 2026-06-01T23:16:31+05:30 | feat: implement email analytics results, and api volume analytics APIs
 2ce9e33cfed1f0c603c1072e88ef444209397494 | 2026-06-01T23:26:26+05:30 | feat: implement email analytics ensure partition function and a seed script with cronjob to generate partitions
 8ec84ca777ab12815aab87e7326815295bb3b1ea | 2026-06-01T23:31:45+05:30 | feat: add condition to only add velocity checks in non-playground API calls
+44270f0260cd23148c85310db3091438c95584b6 | 2026-06-01T23:36:57+05:30 | refactor: move email velocity batch insert file to `batch` package for consistency
