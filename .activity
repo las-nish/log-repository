@@ -247,3 +247,4 @@ ce72d84f1ce5dfa8c26b230aa561bd228a89557e | 2026-06-01T01:20:04+05:30 | chore: ig
 e9759e6cb3a1a563bac665c4812424a0d61e1769 | 2026-06-01T10:17:26+05:30 | docs: add email velocity tracking gide
 ccef0d36c0741df9678220240b421fddbecd720a | 2026-06-01T10:22:29+05:30 | docs: add batch buffer doc
 3c9b3297643242541a74b558c892cc143b9049d2 | 2026-06-01T10:23:22+05:30 | docs: add overview title
+3b087c7e753f324685f2fe91956d33df15a481d8 | 2026-06-01T10:26:11+05:30 | fix: fix mermaid diagram related to 'Combined Behavior'
