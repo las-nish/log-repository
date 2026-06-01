@@ -263,3 +263,4 @@ e9952c52d1b8d444bc20858e28058f89b6750c9b | 2026-06-01T23:16:31+05:30 | feat: imp
 2ce9e33cfed1f0c603c1072e88ef444209397494 | 2026-06-01T23:26:26+05:30 | feat: implement email analytics ensure partition function and a seed script with cronjob to generate partitions
 8ec84ca777ab12815aab87e7326815295bb3b1ea | 2026-06-01T23:31:45+05:30 | feat: add condition to only add velocity checks in non-playground API calls
 44270f0260cd23148c85310db3091438c95584b6 | 2026-06-01T23:36:57+05:30 | refactor: move email velocity batch insert file to `batch` package for consistency
+f77ad36db1e4efb5e7cf6a31ce68d9f7e41488ff | 2026-06-02T00:29:52+05:30 | chore: add `3`, and `5` to constant checking
