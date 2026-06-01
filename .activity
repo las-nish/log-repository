@@ -254,3 +254,4 @@ c34c51159b53b80c70993fa54e1dd6c5c691811c | 2026-06-01T10:27:43+05:30 | fix: fix 
 db312c5e7b328e39110d1b9702e4468b809c8678 | 2026-06-01T11:42:05+05:30 | refactor: format document
 585cd0b5173bd4e8309513bffd6d1153b3ce7e53 | 2026-06-01T13:08:36+05:30 | feat: integrate email based velocity flow
 97a3e8585e5623a84bbfda4c126a68dff7bb9080 | 2026-06-01T14:53:08+05:30 | feat: implement velocity rule by adding a new field called `parameter` to the policy rule
+8fa512c6afbe9f28a91593949c18048eb1a31f67 | 2026-06-01T21:09:29+05:30 | feat: write api volume and email analytics results database scripts
