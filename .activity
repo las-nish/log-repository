@@ -259,3 +259,4 @@ a487d3f283fb72c515ce6de116e7551681e6d1f6 | 2026-06-01T22:01:40+05:30 | feat: int
 067ba1dc20af1763cfb22b4c37aeb7eba70059f0 | 2026-06-01T22:05:57+05:30 | feat: add batch name parameter to the `New()` function
 3c3d9ff4075920cfe784001d605b3949b8dd68de | 2026-06-01T22:09:47+05:30 | fix: fix iana data list duplicate initialize and add disposable list initialize
 8346420576f8c7dbfda0ffbd298c893c677f50fb | 2026-06-01T23:03:28+05:30 | refactor: remove `BULK` constant
+e9952c52d1b8d444bc20858e28058f89b6750c9b | 2026-06-01T23:16:31+05:30 | feat: implement email analytics results, and api volume analytics APIs
