@@ -258,3 +258,4 @@ db312c5e7b328e39110d1b9702e4468b809c8678 | 2026-06-01T11:42:05+05:30 | refactor:
 a487d3f283fb72c515ce6de116e7551681e6d1f6 | 2026-06-01T22:01:40+05:30 | feat: integrate api volume, and email results insert via batch insert
 067ba1dc20af1763cfb22b4c37aeb7eba70059f0 | 2026-06-01T22:05:57+05:30 | feat: add batch name parameter to the `New()` function
 3c3d9ff4075920cfe784001d605b3949b8dd68de | 2026-06-01T22:09:47+05:30 | fix: fix iana data list duplicate initialize and add disposable list initialize
+8346420576f8c7dbfda0ffbd298c893c677f50fb | 2026-06-01T23:03:28+05:30 | refactor: remove `BULK` constant
