@@ -253,3 +253,4 @@ c34c51159b53b80c70993fa54e1dd6c5c691811c | 2026-06-01T10:27:43+05:30 | fix: fix 
 1637ea11187dc5aa419e5c930a18252048a20216 | 2026-06-01T11:17:27+05:30 | chore: add constant conditions to ignore basic numbers, empty strings, and 0.0 float
 db312c5e7b328e39110d1b9702e4468b809c8678 | 2026-06-01T11:42:05+05:30 | refactor: format document
 585cd0b5173bd4e8309513bffd6d1153b3ce7e53 | 2026-06-01T13:08:36+05:30 | feat: integrate email based velocity flow
+97a3e8585e5623a84bbfda4c126a68dff7bb9080 | 2026-06-01T14:53:08+05:30 | feat: implement velocity rule by adding a new field called `parameter` to the policy rule
