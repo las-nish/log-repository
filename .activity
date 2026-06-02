@@ -283,3 +283,4 @@ af6f21d11932e0ac38fc4498d840dcf47c5a8c7c | 2026-06-02T21:11:27+05:30 | feat: imp
 bb4b0723c8959442cbbd5c624163a7b4f112c398 | 2026-06-02T21:19:04+05:30 | feat: implement polar link generation APIs in frontend
 c4430f20f6c318481e31fd67b6f2211b9bec7598 | 2026-06-02T22:38:28+05:30 | refactor: remove yearly polar product plan configs
 cdea0393ed64c987b9e934a72169f110c21b01e0 | 2026-06-02T23:49:47+05:30 | chore: update go
+03f2ddce6b48688712b9586ccb1ffc2ee21a3419 | 2026-06-03T00:36:08+05:30 | feat: create db function to get customer ID from the project code
