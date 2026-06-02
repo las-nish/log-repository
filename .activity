@@ -279,3 +279,4 @@ dce3f6c1864cff7fee04055561b427ef2bc5d0f8 | 2026-06-02T17:27:03+05:30 | feat: imp
 3c9e832275797d5fcd345fd7b062428b0c5b71e2 | 2026-06-02T17:48:33+05:30 | feat: add subscription details to the account overview
 3cc514fe12f294f42a6805ff2c16646e9d175abe | 2026-06-02T18:01:35+05:30 | feat: implement smee webhook access to polar.sh webhooks
 af6f21d11932e0ac38fc4498d840dcf47c5a8c7c | 2026-06-02T21:11:27+05:30 | feat: implement polar APIs
+5bf55536ad6e6d93d8955ed90259dd246552f17f | 2026-06-02T21:13:08+05:30 | fix: fix polar payment link routes
