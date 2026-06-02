@@ -285,3 +285,4 @@ c4430f20f6c318481e31fd67b6f2211b9bec7598 | 2026-06-02T22:38:28+05:30 | refactor:
 cdea0393ed64c987b9e934a72169f110c21b01e0 | 2026-06-02T23:49:47+05:30 | chore: update go
 03f2ddce6b48688712b9586ccb1ffc2ee21a3419 | 2026-06-03T00:36:08+05:30 | feat: create db function to get customer ID from the project code
 eefb76e540a8e30d2657b0c1e6bb6f76a2ec56e1 | 2026-06-03T00:36:32+05:30 | feat: add new batch buffer and implement ingest flow to the Polar
+0fb2e10dcd3d21a9ef18c6fdf9d0c2e8daa16b2e | 2026-06-03T00:49:58+05:30 | refactor: remove unnecessary comments
