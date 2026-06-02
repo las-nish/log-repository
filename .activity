@@ -289,3 +289,4 @@ eefb76e540a8e30d2657b0c1e6bb6f76a2ec56e1 | 2026-06-03T00:36:32+05:30 | feat: add
 e266f5590b3f8d6a5b710bf22c10542257c9e127 | 2026-06-03T01:02:19+05:30 | feat: add a new parameter to the `v1_subscription_customer_id_from_project_code()` function to determine whether the subscription status should be checked
 fb3c27c64e4d27e4a5083d7e0dcf8f449aa40771 | 2026-06-03T01:03:47+05:30 | Merge branch 'las-nish/implement-subscription-feature' into 'main'
 44cd905085be7d40f6e093eaf48133a3b1834d9a | 2026-06-03T01:25:05+05:30 | feat: add not found (error 404) API route to the backend
+4b624e892632b14dafd18e39e540e45cacdee512 | 2026-06-03T01:26:28+05:30 | Merge branch 'las-nish/implement-not-found-api' into 'main'
