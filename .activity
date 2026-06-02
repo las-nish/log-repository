@@ -266,3 +266,4 @@ e9952c52d1b8d444bc20858e28058f89b6750c9b | 2026-06-01T23:16:31+05:30 | feat: imp
 f77ad36db1e4efb5e7cf6a31ce68d9f7e41488ff | 2026-06-02T00:29:52+05:30 | chore: add `3`, and `5` to constant checking
 c019d9cf2e2eb42388495ea75209465a2dc14b06 | 2026-06-02T00:30:18+05:30 | feat: add domain age checking to the email engine
 74b414aa6e47a3d24c9846569660d22e247a6510 | 2026-06-02T13:03:07+05:30 | feat: implement JSON translation layer (DTO mapping) to the policy field, action, and operator
+930878fb08c6d6ef408c8dfadb9cd3e1a6298c81 | 2026-06-02T13:27:06+05:30 | fix: fix unique key error
