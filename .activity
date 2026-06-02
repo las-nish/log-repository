@@ -287,3 +287,4 @@ cdea0393ed64c987b9e934a72169f110c21b01e0 | 2026-06-02T23:49:47+05:30 | chore: up
 eefb76e540a8e30d2657b0c1e6bb6f76a2ec56e1 | 2026-06-03T00:36:32+05:30 | feat: add new batch buffer and implement ingest flow to the Polar
 0fb2e10dcd3d21a9ef18c6fdf9d0c2e8daa16b2e | 2026-06-03T00:49:58+05:30 | refactor: remove unnecessary comments
 e266f5590b3f8d6a5b710bf22c10542257c9e127 | 2026-06-03T01:02:19+05:30 | feat: add a new parameter to the `v1_subscription_customer_id_from_project_code()` function to determine whether the subscription status should be checked
+fb3c27c64e4d27e4a5083d7e0dcf8f449aa40771 | 2026-06-03T01:03:47+05:30 | Merge branch 'las-nish/implement-subscription-feature' into 'main'
