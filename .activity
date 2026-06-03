@@ -293,3 +293,4 @@ fb3c27c64e4d27e4a5083d7e0dcf8f449aa40771 | 2026-06-03T01:03:47+05:30 | Merge bra
 f749c719c9e4cf3bee4c8699641fc37f4eb96c82 | 2026-06-03T14:55:21+05:30 | refactor: turn normal psql pool variables into pointers
 3aff9ba709409649f2381f5c5b2188284ef4f591 | 2026-06-03T14:56:27+05:30 | refactor: turn validator into a pointer in global config
 d4b439bdcd3d972d5aca50ca3c426486906fbcc0 | 2026-06-03T14:57:45+05:30 | refactor: turn aws related fields into pointers
+08e2b39f291b3467589b5b80929e773663b30157 | 2026-06-03T14:58:22+05:30 | refactor: turn flag into pointer in global struct
