@@ -322,3 +322,4 @@ beb6602af08fb2fa91fb825aebf6d0fffbdac033 | 2026-06-04T22:28:05+05:30 | feat: add
 b13ce44af206bebd52ac846d5303a723cb834837 | 2026-06-04T22:29:20+05:30 | feat: add subscription add to the account sign up API
 4a9927603ead4869c72c8fa4351a1cf091754363 | 2026-06-04T22:30:34+05:30 | feat: implement usage tracking api middleware with intelligence api count
 c0dbcaf0ecbf025bf846875d6c037f162bb2abe4 | 2026-06-04T22:32:41+05:30 | fix: fix lint command
+f753f7aea767a6b269c799247f753aeff5f1e15b | 2026-06-04T22:35:53+05:30 | fix: add typecheckin
