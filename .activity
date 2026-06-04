@@ -318,3 +318,4 @@ f551118b5dc74594f5c07cf597338f7fbe024617 | 2026-06-04T22:17:41+05:30 | feat: add
 8dea3c04dccacb4fa721a060c00a6a3623ceeaa5 | 2026-06-04T22:27:00+05:30 | feat: add account code and created time field to the access token, and rename
 b8f25f96418527734effaa3e013edfb5c25b239c | 2026-06-04T22:27:12+05:30 | feat: add subscription constants
 beb6602af08fb2fa91fb825aebf6d0fffbdac033 | 2026-06-04T22:28:05+05:30 | feat: add intelligence API call count, and account subscription memstores
+9ec320a0425b196ba1e74869ff84d3d67b0b7a0c | 2026-06-04T22:28:42+05:30 | feat: add `SetNumber()` store function, and create `notifyUpdate()` helper function
