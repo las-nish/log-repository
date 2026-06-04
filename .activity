@@ -333,3 +333,4 @@ b854b187fde017e1aaa041e2f35d15b8991c33e6 | 2026-06-04T23:02:24+05:30 | feat: add
 cd943f2b3813c0dbb78992e6067addaf554b4978 | 2026-06-04T23:07:08+05:30 | feat: add reaper function to all stores
 6bb6ffc0bc31f232edb8042472eff4dbd5d91ece | 2026-06-04T23:52:43+05:30 | refactor: ser project environment memstore as boolean
 8336d871691b448a2241d94df704cb708824d5aa | 2026-06-05T00:15:44+05:30 | fix: fix customer id return condition
+9e034c8000bb154739c8ea26144df25a25fb6c47 | 2026-06-05T00:22:40+05:30 | feat: create constants for email resutls table checked type
