@@ -321,3 +321,4 @@ beb6602af08fb2fa91fb825aebf6d0fffbdac033 | 2026-06-04T22:28:05+05:30 | feat: add
 9ec320a0425b196ba1e74869ff84d3d67b0b7a0c | 2026-06-04T22:28:42+05:30 | feat: add `SetNumber()` store function, and create `notifyUpdate()` helper function
 b13ce44af206bebd52ac846d5303a723cb834837 | 2026-06-04T22:29:20+05:30 | feat: add subscription add to the account sign up API
 4a9927603ead4869c72c8fa4351a1cf091754363 | 2026-06-04T22:30:34+05:30 | feat: implement usage tracking api middleware with intelligence api count
+c0dbcaf0ecbf025bf846875d6c037f162bb2abe4 | 2026-06-04T22:32:41+05:30 | fix: fix lint command
