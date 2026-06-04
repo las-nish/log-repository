@@ -326,3 +326,4 @@ f753f7aea767a6b269c799247f753aeff5f1e15b | 2026-06-04T22:35:53+05:30 | fix: add 
 f55a87eb003e332c6bb3ca76960433c8542b3362 | 2026-06-04T22:36:01+05:30 | fix: fix error handeling
 f2660b94f88964b0325342fcc62ab7e00c2804a0 | 2026-06-04T22:36:20+05:30 | refactor: creat a const for db name
 1dbc86e5552c025d9b858a05d1f43c6f867ca13a | 2026-06-04T22:36:25+05:30 | refactor: format file
+c066f2fc04bcc536d09c4d66a023c29ccf246f42 | 2026-06-04T22:42:36+05:30 | feat: add `ResetAllValues()` store function
