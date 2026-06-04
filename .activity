@@ -313,3 +313,4 @@ e719ddf85268aa4875e50020102e30afdabd794d | 2026-06-04T17:48:32+05:30 | feat: cre
 115f2dc3a892144b2094d093e689371917c1cce9 | 2026-06-04T18:00:44+05:30 | feat: add permission as a parameter to the mkdir utility
 f551118b5dc74594f5c07cf597338f7fbe024617 | 2026-06-04T22:17:41+05:30 | feat: add `v1_subscription_status_from_account_code` function
 8b1f6bce5ca69f276a615c3c403113f8f9d20861 | 2026-06-04T22:25:03+05:30 | feat: add subscription create to the user creation function
+819259c9ab5035d03f9aabde3d329995183186b3 | 2026-06-04T22:25:37+05:30 | feat: implement `IsAuthenticatedUsingJWT()` helper
