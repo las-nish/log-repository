@@ -307,3 +307,4 @@ adfeaaaa57447163ad3b4b1111e6b419a5d94009 | 2026-06-04T00:35:08+05:30 | chore: up
 59ad8cdf72677a1a96a731c8abb58e7475a56392 | 2026-06-04T00:52:09+05:30 | chore: update taskfiles to run gatekeeper
 5482f8ef75ca112e7e6c7962ea63b5f92f2b8662 | 2026-06-04T02:14:04+05:30 | feat: split the main backend into core and gatekeeper components while keeping a shared codebase for both
 9095fe6569b67f6182795a2d420d586380279229 | 2026-06-04T02:21:46+05:30 | Merge branch 'las-nish/refactor-gatekeeper' into 'main'
+b8230db8b96d03c382df449c0ea70e45eb078d25 | 2026-06-04T17:48:14+05:30 | feat: implement a custom memstore from scratch
