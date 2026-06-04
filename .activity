@@ -316,3 +316,4 @@ f551118b5dc74594f5c07cf597338f7fbe024617 | 2026-06-04T22:17:41+05:30 | feat: add
 819259c9ab5035d03f9aabde3d329995183186b3 | 2026-06-04T22:25:37+05:30 | feat: implement `IsAuthenticatedUsingJWT()` helper
 0446612fe74929961f46531aa4e6b75d96e1ba7d | 2026-06-04T22:26:02+05:30 | feat: add subscription table status psql codes
 8dea3c04dccacb4fa721a060c00a6a3623ceeaa5 | 2026-06-04T22:27:00+05:30 | feat: add account code and created time field to the access token, and rename
+b8f25f96418527734effaa3e013edfb5c25b239c | 2026-06-04T22:27:12+05:30 | feat: add subscription constants
