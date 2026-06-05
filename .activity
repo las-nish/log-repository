@@ -352,3 +352,4 @@ dddcb9c3f1d77aeebbf17a4918278cb972b32b0b | 2026-06-05T21:31:38+05:30 | Merge bra
 3029c867701a915f38b8c1f38058a62a40fcc6c1 | 2026-06-06T02:27:05+05:30 | fix: fix file name typo
 c4e74f63bc0611d0724f1b4f0d2121310978f69d | 2026-06-06T02:47:46+05:30 | feat: implement member related APIs
 cc59064f2f7e33f93f92b2e277ab76644ed1eac3 | 2026-06-06T03:14:39+05:30 | feat: implement unique identifier in user details (to use in member fucking sign up flow)
+e1f7c14ac1a2a7ddc5552d436bf55106d66b803b | 2026-06-06T03:35:27+05:30 | feat: implement sign in member API
