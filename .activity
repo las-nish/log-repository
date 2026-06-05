@@ -348,3 +348,4 @@ dddcb9c3f1d77aeebbf17a4918278cb972b32b0b | 2026-06-05T21:31:38+05:30 | Merge bra
 295da69a5875f62387726921e412cc3799b5a9f3 | 2026-06-06T00:33:55+05:30 | docs: create account members architecture decision document
 19fa739df02f4ebd6ca95c52ff3d2d1f6258b841 | 2026-06-06T01:20:05+05:30 | feat: implement member-related database scripts
 38d07c651942d7c1ec29de3f8797b34cf7de9e78 | 2026-06-06T01:40:06+05:30 | refactor: update member-related db scripts a little bit haha :D
+4d35650a8c187fa9f54b4979384504bda6bc357c | 2026-06-06T01:40:21+05:30 | feat: separate member and member project db status codes
