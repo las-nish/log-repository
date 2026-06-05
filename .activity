@@ -339,3 +339,4 @@ f3b307282b5efdc13dd31f0237d45450822f353f | 2026-06-05T17:57:07+05:30 | rector: a
 01d0fe301256aa275961076ae101b11e98d808f4 | 2026-06-05T18:24:23+05:30 | refactor: optimize error handeling
 82b14d3a08900c267de552d56b7eb726c5e9248c | 2026-06-05T19:35:56+05:30 | refactor: refactor document structure
 b17608e7ae9e20197b553cadb1d04861efd9dd00 | 2026-06-05T19:37:35+05:30 | docs: update sidebar
+b2c87c0b1d595ccd13e480da915e2dc42d2ffeca | 2026-06-05T20:07:12+05:30 | refactor: implement a helper to identify free plan, and use it in usage checking flow
