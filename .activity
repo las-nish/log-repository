@@ -350,3 +350,4 @@ dddcb9c3f1d77aeebbf17a4918278cb972b32b0b | 2026-06-05T21:31:38+05:30 | Merge bra
 38d07c651942d7c1ec29de3f8797b34cf7de9e78 | 2026-06-06T01:40:06+05:30 | refactor: update member-related db scripts a little bit haha :D
 4d35650a8c187fa9f54b4979384504bda6bc357c | 2026-06-06T01:40:21+05:30 | feat: separate member and member project db status codes
 3029c867701a915f38b8c1f38058a62a40fcc6c1 | 2026-06-06T02:27:05+05:30 | fix: fix file name typo
+c4e74f63bc0611d0724f1b4f0d2121310978f69d | 2026-06-06T02:47:46+05:30 | feat: implement member related APIs
