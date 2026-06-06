@@ -366,3 +366,4 @@ bb5ae3167720389cb3f531b4db9044426b78d0d7 | 2026-06-06T18:44:30+05:30 | feat: cha
 280e11f4db4883a544be9864ff40ea1d45be4a60 | 2026-06-06T19:51:42+05:30 | docs: add frontend access control architecture decisions document
 92c373b90d76ba9af7befbcad6a9420c4fc71fcd | 2026-06-06T18:45:58+05:30 | Merge branch 'las-nish/implement-member-apis' into 'main'
 26bd1f5d574770815f07705d8ee40d0ff79c494a | 2026-06-06T23:26:21+05:30 | feat: update account overview retrieve flow to retrieve both owner and member account details
+266a9281cd592041f35ffd3ff580f3714977f71b | 2026-06-07T00:19:01+05:30 | feat: add member code to the return response
