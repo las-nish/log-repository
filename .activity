@@ -355,3 +355,4 @@ cc59064f2f7e33f93f92b2e277ab76644ed1eac3 | 2026-06-06T03:14:39+05:30 | feat: imp
 e1f7c14ac1a2a7ddc5552d436bf55106d66b803b | 2026-06-06T03:35:27+05:30 | feat: implement sign in member API
 de40799b4bf3ca159c74e58e4df2ee88002b85fa | 2026-06-06T14:04:51+05:30 | docs: format document
 c35b52453a73b96311a048c6c73e86ab6f2c47b7 | 2026-06-06T17:04:42+05:30 | feat: create member access retrieve db function
+2c87b427953817b7d50e6a31aa64a9b4df578a14 | 2026-06-06T17:05:01+05:30 | feat: implement basic member access checking middleware
