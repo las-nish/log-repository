@@ -361,3 +361,4 @@ c35b52453a73b96311a048c6c73e86ab6f2c47b7 | 2026-06-06T17:04:42+05:30 | feat: cre
 356bcaf75f335566202fc2ae1b1110bea6d2ebd9 | 2026-06-06T17:37:13+05:30 | refactor: move api permission package to the inside of middleware package
 a17c85322aedc3d75ceee5c8330458839de27aa1 | 2026-06-06T18:16:30+05:30 | refactor: update JWT token generation structure by adding member code to the claims
 134089485960e51f953f829ba13960110f5fb683 | 2026-06-06T18:21:36+05:30 | feat: add separate condition to billing admins to ignore unnecessary checks
+db49318c0867a7cca858312537a7dce6283417ff | 2026-06-06T18:23:19+05:30 | feat: add basic permissions to the roles
