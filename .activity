@@ -354,3 +354,4 @@ c4e74f63bc0611d0724f1b4f0d2121310978f69d | 2026-06-06T02:47:46+05:30 | feat: imp
 cc59064f2f7e33f93f92b2e277ab76644ed1eac3 | 2026-06-06T03:14:39+05:30 | feat: implement unique identifier in user details (to use in member fucking sign up flow)
 e1f7c14ac1a2a7ddc5552d436bf55106d66b803b | 2026-06-06T03:35:27+05:30 | feat: implement sign in member API
 de40799b4bf3ca159c74e58e4df2ee88002b85fa | 2026-06-06T14:04:51+05:30 | docs: format document
+c35b52453a73b96311a048c6c73e86ab6f2c47b7 | 2026-06-06T17:04:42+05:30 | feat: create member access retrieve db function
