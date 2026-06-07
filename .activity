@@ -372,3 +372,4 @@ bb5ae3167720389cb3f531b4db9044426b78d0d7 | 2026-06-06T18:44:30+05:30 | feat: cha
 bc1b2686579ecef3850f13b65cc7f6d2041ff867 | 2026-06-07T10:45:39+05:30 | refactor: remove type constants
 9e3ee0e683535025eb714da062063e86b31d7f2a | 2026-06-07T10:46:45+05:30 | feat: create subscription entity with subscription status
 2f92ace4acb1ac73c4d87fbc7edbed7b7948fe0c | 2026-06-07T10:47:25+05:30 | feat: create basic account entity
+b52dfca5bb417a263996a345d696bc1d5b57d86f | 2026-06-07T10:47:55+05:30 | feat: create member entity types
