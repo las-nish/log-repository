@@ -370,3 +370,4 @@ bb5ae3167720389cb3f531b4db9044426b78d0d7 | 2026-06-06T18:44:30+05:30 | feat: cha
 814f39339c0a09f70892b5a47b7db62c0f990665 | 2026-06-07T01:00:05+05:30 | feat: update ovewrview retrieve API to return project details with member role details
 5659fa42ccdf7dcc85121e4b8ff766d308f37eb8 | 2026-06-07T10:45:15+05:30 | refactor: remove type constants
 bc1b2686579ecef3850f13b65cc7f6d2041ff867 | 2026-06-07T10:45:39+05:30 | refactor: remove type constants
+9e3ee0e683535025eb714da062063e86b31d7f2a | 2026-06-07T10:46:45+05:30 | feat: create subscription entity with subscription status
