@@ -376,3 +376,4 @@ b52dfca5bb417a263996a345d696bc1d5b57d86f | 2026-06-07T10:47:55+05:30 | feat: cre
 993ceee5ff2fc2e8629d947e2d2fe9b56a38a29b | 2026-06-07T10:51:08+05:30 | feat: create project entity with store
 b960b37ce23e4861ceef9c2b67e3de453a42ae90 | 2026-06-07T10:51:48+05:30 | feat: create permission entity with basic permission management
 0282f6cebe94af0884b93686cf593f1e9a178e1c | 2026-06-07T10:54:15+05:30 | refactor: update middleware to to support new loading mechanism and new account, and project stores
+bd2d7a5ce40def006ae9fe09c49dc08184b7eada | 2026-06-07T10:57:44+05:30 | refactor: update parent directory of access token inside to the account entity
