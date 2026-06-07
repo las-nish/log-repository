@@ -390,3 +390,4 @@ a65bf492918b0b0fe5fb8e88444b4954dbc11f49 | 2026-06-07T11:45:30+05:30 | fix: fix 
 c286f35e9607de2061f6b35a60ff7d244caaad5d | 2026-06-07T12:47:19+05:30 | fix: fix frontend debug server port
 ac9aec46d736a962a3fa3a3f1858cdc52ad0bf3b | 2026-06-07T13:12:28+05:30 | fix: fix duplicate core header issue in core and gatekeeper microservices
 6385a7c738b4cfc6fe74a644eee4df23ec87d64b | 2026-06-07T13:13:51+05:30 | fix: fix typo
+3fad5de0e7862011f6c8776f990d35be0e77bef5 | 2026-06-07T13:24:23+05:30 | fix: fic db overview retrieve function `user` to `owner` typo issue and subscription data type mismatch issue
