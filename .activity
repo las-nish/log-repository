@@ -387,3 +387,4 @@ e38253f79224a86a0bebbcec4a742dcafa7085a2 | 2026-06-07T10:59:30+05:30 | refactor:
 a65bf492918b0b0fe5fb8e88444b4954dbc11f49 | 2026-06-07T11:45:30+05:30 | fix: fix variable not-defined issue
 30f5c8055d0c8cc79c0819e629d53315ce647724 | 2026-06-07T12:38:08+05:30 | fix: fix member checking condition issue in middleware flow
 74c66646bd965e5a27f43bf033e4f7bd65f3aaba | 2026-06-07T12:45:34+05:30 | fix: fix unique ID error in gatekeeper API request by implementing error response helper function without requiring unique ID
+c286f35e9607de2061f6b35a60ff7d244caaad5d | 2026-06-07T12:47:19+05:30 | fix: fix frontend debug server port
