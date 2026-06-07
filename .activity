@@ -397,3 +397,4 @@ c153ff99399a245c026707c5161673b0d046bb8a | 2026-06-07T14:29:18+05:30 | fix: fix 
 6cd675db0ded5dccff3e72751cbb79dc93de5e33 | 2026-06-07T14:45:25+05:30 | refactor: move project retirect when opening project without and code, into the layout
 952f5d3f0cdbc4f297d1e48a5668bbd950e719d2 | 2026-06-07T17:13:45+05:30 | refactor: remove IP address related page
 31e76404fe01adf666ce6b03eadf8743cfdb6bca | 2026-06-07T20:09:05+05:30 | refactor: remove unnecessary comment
+0f7f0647f1e3f425653be33d5aca4ffdeaa0e21a | 2026-06-07T21:03:18+05:30 | feat: divide user update function into separate function to track email update and unique identifier update
