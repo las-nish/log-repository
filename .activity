@@ -383,3 +383,4 @@ e38253f79224a86a0bebbcec4a742dcafa7085a2 | 2026-06-07T10:59:30+05:30 | refactor:
 545bc6d4d8617a639c0d1f560fab63e85b10667b | 2026-06-07T11:36:31+05:30 | feat: add more permissions to the billing admin
 524c5f493f3ba450a35ce1a41c2e0d4b3b1156fd | 2026-06-07T11:38:14+05:30 | feat: add these new helper functions:
 785efc94881b7614e141b26a2873882db74a9809 | 2026-06-07T11:38:38+05:30 | refactor: update project-related source to match the new store, and structure
+59bdea03e070ad2facedad8d21840ed813dc20ac | 2026-06-07T11:42:27+05:30 | refactor: move all apis into root /api/v1 directory for better scalability
