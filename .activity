@@ -394,3 +394,4 @@ ac9aec46d736a962a3fa3a3f1858cdc52ad0bf3b | 2026-06-07T13:12:28+05:30 | fix: fix 
 3ce151150b2cb48505758db345b2121422aa680e | 2026-06-07T14:03:11+05:30 | fix: fix subscription status
 0ddbb3cf5d005bad51dc63b0b367e19e5a70b964 | 2026-06-07T14:26:59+05:30 | feat: add condition to move to project creation page if have no projects.
 c153ff99399a245c026707c5161673b0d046bb8a | 2026-06-07T14:29:18+05:30 | fix: fix return success log in dump error
+6cd675db0ded5dccff3e72751cbb79dc93de5e33 | 2026-06-07T14:45:25+05:30 | refactor: move project retirect when opening project without and code, into the layout
