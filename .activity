@@ -380,3 +380,4 @@ bd2d7a5ce40def006ae9fe09c49dc08184b7eada | 2026-06-07T10:57:44+05:30 | refactor:
 67585ec6691647bbef5b5bf4784dae86a2374456 | 2026-06-07T10:59:14+05:30 | refactor: move unique identifier generation file into string utils
 e38253f79224a86a0bebbcec4a742dcafa7085a2 | 2026-06-07T10:59:30+05:30 | refactor: remove files
 78e251ad2875f904480ad7b03d24b90fb2f32b15 | 2026-06-07T11:00:51+05:30 | refactor: update access token generation payload based on the new structure
+545bc6d4d8617a639c0d1f560fab63e85b10667b | 2026-06-07T11:36:31+05:30 | feat: add more permissions to the billing admin
