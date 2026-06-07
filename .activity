@@ -384,3 +384,4 @@ e38253f79224a86a0bebbcec4a742dcafa7085a2 | 2026-06-07T10:59:30+05:30 | refactor:
 524c5f493f3ba450a35ce1a41c2e0d4b3b1156fd | 2026-06-07T11:38:14+05:30 | feat: add these new helper functions:
 785efc94881b7614e141b26a2873882db74a9809 | 2026-06-07T11:38:38+05:30 | refactor: update project-related source to match the new store, and structure
 59bdea03e070ad2facedad8d21840ed813dc20ac | 2026-06-07T11:42:27+05:30 | refactor: move all apis into root /api/v1 directory for better scalability
+a65bf492918b0b0fe5fb8e88444b4954dbc11f49 | 2026-06-07T11:45:30+05:30 | fix: fix variable not-defined issue
