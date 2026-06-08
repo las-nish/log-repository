@@ -406,3 +406,4 @@ c1ab82fddb9c96950d72fc5a0da78a5e4dd1333b | 2026-06-08T19:49:07+05:30 | refactor:
 afb12c1fb006c445d3df9b7d6ff224e7028cc5b7 | 2026-06-08T19:49:24+05:30 | refactor: remove previous paths
 3300003f88af125883e481c422e61408df292731 | 2026-06-08T19:51:04+05:30 | Merge branch 'las-nish/complete-mvp-functionalities' into 'main'
 bb7659328d57bf2f554d158a4b6dd924adb87a61 | 2026-06-08T23:36:10+05:30 | feat: create font size ration detection design system HTML file
+59fe4488d383289401e3e5d2d072f545f82e0fda | 2026-06-09T00:50:58+05:30 | fix: fix linter issues
