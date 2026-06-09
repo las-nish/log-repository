@@ -409,3 +409,4 @@ bb7659328d57bf2f554d158a4b6dd924adb87a61 | 2026-06-08T23:36:10+05:30 | feat: cre
 59fe4488d383289401e3e5d2d072f545f82e0fda | 2026-06-09T00:50:58+05:30 | fix: fix linter issues
 6bfe58bdb648fe897344e417b57f95a09edc547d | 2026-06-09T11:55:52+05:30 | style: add typography settings variables
 d0c350c140598504c43ae515f247bb54d93e9d9e | 2026-06-09T11:57:38+05:30 | style: add delta text color and change gamma text color
+64651ef5c28c2d8ffb63162d01cd66a3801db202 | 2026-06-09T12:05:52+05:30 | style: add number tokens
