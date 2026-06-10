@@ -420,3 +420,4 @@ e1b48f64b60287068e8d22724e6f7e9638984de8 | 2026-06-10T18:29:24+05:30 | feat: add
 eacf31822dfcc90e2b573cb2effab53a32a04931 | 2026-06-11T00:44:47+05:30 | style: add missing spacing variables and tracking, opacity, blur, transorm, and animation-related number variables
 ffa0532b3d3de812277cb0e7d9427ae59d8b5bad | 2026-06-11T00:45:03+05:30 | style: add font weight variables
 73cadadf2b4872fdc742e5b15e91769a457c0722 | 2026-06-11T00:46:06+05:30 | style: add FigTree, and JetBrains Mono fonts locally
+e48e96c2933259048b2c867db103fb0df87af20f | 2026-06-11T00:46:17+05:30 | fix: fix class namde construction function
