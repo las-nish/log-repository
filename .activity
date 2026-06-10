@@ -434,3 +434,4 @@ eddecc16f0849bab067f42cf1fc6575f843aa955 | 2026-06-11T02:11:00+05:30 | feat: add
 52af60f8aedb0c97c7a27a4df48ac346d5288f57 | 2026-06-11T02:11:43+05:30 | feat: create `ParseLinkInText` helper component
 d7fd3ecf3f77c3885e11081ec399b3dbfa8a3f4f | 2026-06-11T02:25:18+05:30 | style: change inline button focus outline into a dashed outline
 a03b4cd8e04ba61262a9974bb1fb071d550da32c | 2026-06-11T02:25:37+05:30 | fix: fix outline button hover text color issue
+b24b288226cda3ed759e9e1eef63bfb2fbc44529 | 2026-06-11T02:48:53+05:30 | feat: create authentication form component
