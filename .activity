@@ -418,3 +418,4 @@ e2224badfa1d0f33326ef3741c1a0e04657739ae | 2026-06-10T01:57:05+05:30 | feat: imp
 e1b48f64b60287068e8d22724e6f7e9638984de8 | 2026-06-10T18:29:24+05:30 | feat: add `4px` to the spacing map
 2e747273b3afed9aea939ef91a5fae464cb3465d | 2026-06-11T00:44:09+05:30 | style: add `formFadeIn` keyframe
 eacf31822dfcc90e2b573cb2effab53a32a04931 | 2026-06-11T00:44:47+05:30 | style: add missing spacing variables and tracking, opacity, blur, transorm, and animation-related number variables
+ffa0532b3d3de812277cb0e7d9427ae59d8b5bad | 2026-06-11T00:45:03+05:30 | style: add font weight variables
