@@ -433,3 +433,4 @@ d910d25230fbd63a1849fb653226c63765954945 | 2026-06-11T02:10:33+05:30 | feat: imp
 eddecc16f0849bab067f42cf1fc6575f843aa955 | 2026-06-11T02:11:00+05:30 | feat: add eye-related icons
 52af60f8aedb0c97c7a27a4df48ac346d5288f57 | 2026-06-11T02:11:43+05:30 | feat: create `ParseLinkInText` helper component
 d7fd3ecf3f77c3885e11081ec399b3dbfa8a3f4f | 2026-06-11T02:25:18+05:30 | style: change inline button focus outline into a dashed outline
+a03b4cd8e04ba61262a9974bb1fb071d550da32c | 2026-06-11T02:25:37+05:30 | fix: fix outline button hover text color issue
