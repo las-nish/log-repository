@@ -426,3 +426,4 @@ e48e96c2933259048b2c867db103fb0df87af20f | 2026-06-11T00:46:17+05:30 | fix: fix 
 e428c15f63cd6cc6cdbebc7cc185de82723480b9 | 2026-06-11T00:48:17+05:30 | feat: create flat icon component
 421eae1ef2424330ca0f0f1451cd3664e43260b6 | 2026-06-11T00:48:33+05:30 | feat: create animated icon component
 89b4258bfcf6bb026c99b440edb1ee643de4a089 | 2026-06-11T00:50:13+05:30 | feat: create error message component, and its controller
+6dcb5025cfa9248694d4f41d67691a46b745aa70 | 2026-06-11T00:52:49+05:30 | feat: create dark button component
