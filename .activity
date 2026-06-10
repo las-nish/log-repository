@@ -422,3 +422,4 @@ ffa0532b3d3de812277cb0e7d9427ae59d8b5bad | 2026-06-11T00:45:03+05:30 | style: ad
 73cadadf2b4872fdc742e5b15e91769a457c0722 | 2026-06-11T00:46:06+05:30 | style: add FigTree, and JetBrains Mono fonts locally
 e48e96c2933259048b2c867db103fb0df87af20f | 2026-06-11T00:46:17+05:30 | fix: fix class namde construction function
 4ce4b14cb9db6bb9271cb371970901780de4b0e3 | 2026-06-11T00:46:38+05:30 | chore: remove `@fontsource` packages
+03dd1b39d5f4835812222516292786fa5995fb0b | 2026-06-11T00:46:54+05:30 | style: add light 25 missing color
