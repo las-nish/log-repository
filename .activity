@@ -457,3 +457,4 @@ aec4c5eac985e8243563a3d4a4a4226e943e1248 | 2026-06-11T14:44:23+05:30 | refactor:
 1a47baa9403096832a5ecc244f60b5a8d4b54774 | 2026-06-11T14:45:17+05:30 | refactor: update loading indicator handeling with error message and change `navigate` into `navigateHard` function call
 68fa52d238ebf86a0f47ee12130087710531cecc | 2026-06-11T15:06:43+05:30 | feat: update divider show condition to render if both buttons defined
 740ca900e66b45f243bb3472502865fdc41e0ce8 | 2026-06-11T15:09:39+05:30 | fix: fix invitation sent page `data` parameter
+963265cc490b8af238283595dde51f4a75e9b29c | 2026-06-11T15:32:08+05:30 | fix: fix sign up verification path issue, expiration value passing issue, button loading issues, and module function false return in true issue
