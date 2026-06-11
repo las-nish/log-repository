@@ -450,3 +450,4 @@ f5ea641c1908d1a79442a7a7ed50d05ce4647eb0 | 2026-06-11T14:32:29+05:30 | fix: fix 
 81801bc892bfc68bea5da08ce3e3912483001bfc | 2026-06-11T14:32:41+05:30 | feat: add status text long timeout
 c9ea3ba5aaa5a8f17c72634880d00b139a0c8293 | 2026-06-11T14:32:51+05:30 | feat: add `PARENT_IDENTIFIER` REGEX
 e3e4fa6a66f32fed683a7ea1410954dc16ef4f5b | 2026-06-11T14:33:16+05:30 | style: add dark button disable status styles
+4eebd840dfbcab59b338636002f79f7dc84c73a3 | 2026-06-11T14:33:38+05:30 | fix: fix error message logo color
