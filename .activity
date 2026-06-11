@@ -453,3 +453,4 @@ e3e4fa6a66f32fed683a7ea1410954dc16ef4f5b | 2026-06-11T14:33:16+05:30 | style: ad
 4eebd840dfbcab59b338636002f79f7dc84c73a3 | 2026-06-11T14:33:38+05:30 | fix: fix error message logo color
 c0ba604fd6f42f180bda9bb9455466f4660f070e | 2026-06-11T14:34:32+05:30 | feat: implement authentication layout and their pages with all nevessary components
 2ea734d745893f56836f61dfd0be193df8e1c282 | 2026-06-11T14:37:58+05:30 | fix: fix missing icon switch statement
+aec4c5eac985e8243563a3d4a4a4226e943e1248 | 2026-06-11T14:44:23+05:30 | refactor: remove tooltip, and toast timeouts
