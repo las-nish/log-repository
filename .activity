@@ -447,3 +447,4 @@ b4421b8102a7435a2e5d8c8d504d531ce161895d | 2026-06-11T14:30:17+05:30 | feat: add
 44a7d34fc29b5714dd571e28b497432d61bc0d44 | 2026-06-11T14:31:41+05:30 | feat: implement basic authentication verification results component
 e7bcea775ecd2091bca142f4a4ba80ef5610a530 | 2026-06-11T14:31:56+05:30 | feat: create member sign in API fetch file
 f5ea641c1908d1a79442a7a7ed50d05ce4647eb0 | 2026-06-11T14:32:29+05:30 | fix: fix verification sent path and add verification path
+81801bc892bfc68bea5da08ce3e3912483001bfc | 2026-06-11T14:32:41+05:30 | feat: add status text long timeout
