@@ -439,3 +439,4 @@ b24b288226cda3ed759e9e1eef63bfb2fbc44529 | 2026-06-11T02:48:53+05:30 | feat: cre
 ef902cc789dd15b8427c603bb4612e3b24b35423 | 2026-06-11T10:15:01+05:30 | fix: fix jetbrains mono output
 4dcadf61cbfc772f629550a18681839df98d1677 | 2026-06-11T10:15:44+05:30 | refactor: remove transform related variables
 e0339892a2a2c19bfdb0c35e02235e6de53a4f53 | 2026-06-11T13:39:11+05:30 | feat: add disable status
+4027d5baa156fa26d63de874d77ba7bb4e67c74d | 2026-06-11T13:39:23+05:30 | feat: add check and cross 16px icons
