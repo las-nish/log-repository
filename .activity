@@ -455,3 +455,4 @@ c0ba604fd6f42f180bda9bb9455466f4660f070e | 2026-06-11T14:34:32+05:30 | feat: imp
 2ea734d745893f56836f61dfd0be193df8e1c282 | 2026-06-11T14:37:58+05:30 | fix: fix missing icon switch statement
 aec4c5eac985e8243563a3d4a4a4226e943e1248 | 2026-06-11T14:44:23+05:30 | refactor: remove tooltip, and toast timeouts
 1a47baa9403096832a5ecc244f60b5a8d4b54774 | 2026-06-11T14:45:17+05:30 | refactor: update loading indicator handeling with error message and change `navigate` into `navigateHard` function call
+68fa52d238ebf86a0f47ee12130087710531cecc | 2026-06-11T15:06:43+05:30 | feat: update divider show condition to render if both buttons defined
