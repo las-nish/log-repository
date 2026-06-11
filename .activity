@@ -452,3 +452,4 @@ c9ea3ba5aaa5a8f17c72634880d00b139a0c8293 | 2026-06-11T14:32:51+05:30 | feat: add
 e3e4fa6a66f32fed683a7ea1410954dc16ef4f5b | 2026-06-11T14:33:16+05:30 | style: add dark button disable status styles
 4eebd840dfbcab59b338636002f79f7dc84c73a3 | 2026-06-11T14:33:38+05:30 | fix: fix error message logo color
 c0ba604fd6f42f180bda9bb9455466f4660f070e | 2026-06-11T14:34:32+05:30 | feat: implement authentication layout and their pages with all nevessary components
+2ea734d745893f56836f61dfd0be193df8e1c282 | 2026-06-11T14:37:58+05:30 | fix: fix missing icon switch statement
