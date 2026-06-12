@@ -459,3 +459,4 @@ aec4c5eac985e8243563a3d4a4a4226e943e1248 | 2026-06-11T14:44:23+05:30 | refactor:
 740ca900e66b45f243bb3472502865fdc41e0ce8 | 2026-06-11T15:09:39+05:30 | fix: fix invitation sent page `data` parameter
 963265cc490b8af238283595dde51f4a75e9b29c | 2026-06-11T15:32:08+05:30 | fix: fix sign up verification path issue, expiration value passing issue, button loading issues, and module function false return in true issue
 597bee71bdcd545787ac06b49dadbc8668a300a1 | 2026-06-12T12:19:44+05:30 | style: update colors
+bf4363382e4686b8857915412d82419b157b1737 | 2026-06-12T17:35:12+05:30 | feat: add AI-based prompt export support
