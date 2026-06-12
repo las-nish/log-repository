@@ -485,3 +485,4 @@ ede0b7ae7e899ccefe7d91d379d5224c8ed8d68d | 2026-06-13T02:15:48+05:30 | style: up
 a06aa82d28017ae88555370b755bb41d3208150f | 2026-06-13T02:17:29+05:30 | feat: add 12px filled chevron icons
 08d5c6cf69fcdacb7e24360cf2073a1b00e85e37 | 2026-06-13T02:17:53+05:30 | style: add side bar style pages
 325b6756252ac85b53ff052b0321772c0255f34a | 2026-06-13T02:18:22+05:30 | refactor: remove main layout
+5bb6c6e3276f0470edb1a987ae2dd9a0f7b47e49 | 2026-06-13T02:20:12+05:30 | feat: create project side bar setup function
