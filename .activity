@@ -466,3 +466,4 @@ a8bb2e12c63794c45985bb355a45dad7137badd7 | 2026-06-12T17:35:58+05:30 | feat: add
 644db9988fba29d6225cdafd1ad205f2959bad25 | 2026-06-12T17:36:23+05:30 | feat: create main layout
 24e422cd949ce6a6719bf53366a3645e7512c457 | 2026-06-12T17:36:33+05:30 | feat: create empty project creation page
 5f4852a8cd1992fc039cf98f2e7092d3f9dcae6e | 2026-06-12T17:36:51+05:30 | style: create main layout styles
+ee1a9555df7cbbad6cea732c7163bcad27e85a13 | 2026-06-12T17:37:19+05:30 | feat: divide routes into separate files for more scalability
