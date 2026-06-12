@@ -475,3 +475,4 @@ c4c08122f19d6dec673b6751ca1b5d884c338c1a | 2026-06-12T22:52:12+05:30 | feat: opt
 c548f1d6d84d7df2650867944e604678a1cb593d | 2026-06-12T22:55:32+05:30 | style: add menu shadow variable
 8b036f11b9d4d6392fc79028ee97132885ee7a82 | 2026-06-12T22:55:56+05:30 | style: add top bar related style files
 70a93e5de4c49a21e9e66e79281ed90ea8ef898d | 2026-06-12T23:09:01+05:30 | feat: add project icon
+38c7e75f8daf1bc064c6315fc50f77f69b8cdef3 | 2026-06-12T23:09:24+05:30 | feat: setup minimal top bar with empty project selecot menu into the main layout
