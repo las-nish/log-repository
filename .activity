@@ -495,3 +495,4 @@ df79fbb259300c25205d98281131afda4ed75acd | 2026-06-13T02:22:09+05:30 | feat: cre
 e31c988b80248032ed477773cca96341257ab457 | 2026-06-13T02:42:52+05:30 | style: add variable for form inline padding in responsive
 6121ce37da5ca31f87f12158cfb447fc1972c82d | 2026-06-13T03:01:11+05:30 | feat: create project creation form and sandbox/production pages
 2de410718507386250c1126b066a9c071e742282 | 2026-06-13T03:02:01+05:30 | refactor: re-order keys
+ed6e30853a957da4661a9bda06ee17e0d60c5ebe | 2026-06-13T03:35:33+05:30 | fix: add authoena logo spinner animation
