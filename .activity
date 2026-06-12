@@ -480,3 +480,4 @@ c548f1d6d84d7df2650867944e604678a1cb593d | 2026-06-12T22:55:32+05:30 | style: ad
 50beca7d2b4ff6ce176173abe48be0493c83476e | 2026-06-13T02:15:11+05:30 | feat: create sidebar component, its nested components, and the controller
 7fd3d800a4e64932748fd9448a075b5143592565 | 2026-06-13T02:15:31+05:30 | feat: create `parseProjectCodeFromURL()` helper function
 ede0b7ae7e899ccefe7d91d379d5224c8ed8d68d | 2026-06-13T02:15:48+05:30 | style: update font weight values
+3c387a50c34aab69b79c0239b8de96052a4f34f2 | 2026-06-13T02:17:04+05:30 | style: update styles to match the design system updates
