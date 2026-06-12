@@ -481,3 +481,4 @@ c548f1d6d84d7df2650867944e604678a1cb593d | 2026-06-12T22:55:32+05:30 | style: ad
 7fd3d800a4e64932748fd9448a075b5143592565 | 2026-06-13T02:15:31+05:30 | feat: create `parseProjectCodeFromURL()` helper function
 ede0b7ae7e899ccefe7d91d379d5224c8ed8d68d | 2026-06-13T02:15:48+05:30 | style: update font weight values
 3c387a50c34aab69b79c0239b8de96052a4f34f2 | 2026-06-13T02:17:04+05:30 | style: update styles to match the design system updates
+790c3c11e0ec13d79f7ae502b9692af968e7845d | 2026-06-13T02:17:15+05:30 | feat: add more project-related paths
