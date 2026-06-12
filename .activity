@@ -491,3 +491,4 @@ a06aa82d28017ae88555370b755bb41d3208150f | 2026-06-13T02:17:29+05:30 | feat: add
 6527848f588281f6b25397122062c15639f8d806 | 2026-06-13T02:21:58+05:30 | refactor: change mainTopBar setup function into projectTopBar
 df79fbb259300c25205d98281131afda4ed75acd | 2026-06-13T02:22:09+05:30 | feat: create project layout
 07433600c5f2cf42bf1a60b09fa607782726a773 | 2026-06-13T02:27:05+05:30 | fix: fix project layout styles
+110d675af2b28e4d03ae864f7a443b088a4aaad4 | 2026-06-13T02:32:17+05:30 | feat: add main layout
