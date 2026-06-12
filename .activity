@@ -492,3 +492,4 @@ a06aa82d28017ae88555370b755bb41d3208150f | 2026-06-13T02:17:29+05:30 | feat: add
 df79fbb259300c25205d98281131afda4ed75acd | 2026-06-13T02:22:09+05:30 | feat: create project layout
 07433600c5f2cf42bf1a60b09fa607782726a773 | 2026-06-13T02:27:05+05:30 | fix: fix project layout styles
 110d675af2b28e4d03ae864f7a443b088a4aaad4 | 2026-06-13T02:32:17+05:30 | feat: add main layout
+e31c988b80248032ed477773cca96341257ab457 | 2026-06-13T02:42:52+05:30 | style: add variable for form inline padding in responsive
