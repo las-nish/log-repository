@@ -472,3 +472,4 @@ cfd51bddad701a5f4a70af0ca29a899e697d61c4 | 2026-06-12T20:50:06+05:30 | fix: fix 
 fb0278a36b65fbd1faac244c1d0d8f653e2e3972 | 2026-06-12T20:51:30+05:30 | feat: create top bar component, controller, and its nested components
 c4c08122f19d6dec673b6751ca1b5d884c338c1a | 2026-06-12T22:52:12+05:30 | feat: optimize input even listners
 8ac472344538716ae05d5d20b0e2b4a28969232a | 2026-06-12T22:52:57+05:30 | feat: optimize project selector menu by separating it into multiple nested components
+c548f1d6d84d7df2650867944e604678a1cb593d | 2026-06-12T22:55:32+05:30 | style: add menu shadow variable
