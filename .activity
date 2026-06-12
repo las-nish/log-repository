@@ -468,3 +468,4 @@ a8bb2e12c63794c45985bb355a45dad7137badd7 | 2026-06-12T17:35:58+05:30 | feat: add
 5f4852a8cd1992fc039cf98f2e7092d3f9dcae6e | 2026-06-12T17:36:51+05:30 | style: create main layout styles
 ee1a9555df7cbbad6cea732c7163bcad27e85a13 | 2026-06-12T17:37:19+05:30 | feat: divide routes into separate files for more scalability
 cfd51bddad701a5f4a70af0ca29a899e697d61c4 | 2026-06-12T20:50:06+05:30 | fix: fix chevron icon names
+9a9c3a727440345e755e56b040cabec7e420fc8d | 2026-06-12T20:50:45+05:30 | feat: add content and page
