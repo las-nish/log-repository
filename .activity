@@ -498,3 +498,4 @@ e31c988b80248032ed477773cca96341257ab457 | 2026-06-13T02:42:52+05:30 | style: ad
 ed6e30853a957da4661a9bda06ee17e0d60c5ebe | 2026-06-13T03:35:33+05:30 | fix: add authoena logo spinner animation
 7f7d7a9c6c6220f022aabeb368e784a74ac962db | 2026-06-13T03:36:14+05:30 | feat: create page loading indicator
 ac85b04f62a03d8cae1ba7775c68e125349b11cb | 2026-06-13T03:36:49+05:30 | feat: create sample account overview page
+421bda68c94271c7af75e2ea119c4d9d5dff2fea | 2026-06-13T10:36:45+05:30 | refactor: replace optional parameters in payloads with undefined type
