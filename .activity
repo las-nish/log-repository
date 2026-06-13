@@ -501,3 +501,4 @@ ac85b04f62a03d8cae1ba7775c68e125349b11cb | 2026-06-13T03:36:49+05:30 | feat: cre
 421bda68c94271c7af75e2ea119c4d9d5dff2fea | 2026-06-13T10:36:45+05:30 | refactor: replace optional parameters in payloads with undefined type
 ab2a746e56f386b82747158ce0b5c14aee6edc55 | 2026-06-13T11:35:12+05:30 | fix: add conflict response
 ebe3aafa8d0c0133df264c9cdb86576bb182f687 | 2026-06-13T11:35:49+05:30 | feat: add production/sandbox project creation flow
+dc8ef05cfc5fcfc72aff2841af951dc252ac5d21 | 2026-06-13T11:55:42+05:30 | feat: add empty project-related pages and fix sidebar page item selection
