@@ -504,3 +504,4 @@ ebe3aafa8d0c0133df264c9cdb86576bb182f687 | 2026-06-13T11:35:49+05:30 | feat: add
 dc8ef05cfc5fcfc72aff2841af951dc252ac5d21 | 2026-06-13T11:55:42+05:30 | feat: add empty project-related pages and fix sidebar page item selection
 458e8e2edc1e4b058b0ae0138765e5474ca027da | 2026-06-14T02:27:52+05:30 | feat: update grayscale tint color
 e62ed9ac6dc4c1d3b55d79e6def04fd6f2deedce | 2026-06-15T02:59:05+05:30 | style: update color styles to match gawe design system
+ef7d1d1898879f4830720a38c33f1411771f24cb | 2026-06-15T03:06:08+05:30 | style: update variables to match new design system
