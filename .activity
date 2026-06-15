@@ -521,3 +521,4 @@ a02c6c5725356a6135108cade1fc4bbf3218f46a | 2026-06-15T15:15:58+05:30 | fix: add 
 4f6424757a11f4a1f9c86e9c82462b572b766bd0 | 2026-06-15T15:46:49+05:30 | feat: create pictogram component
 cae7857cdc5bc0aaaf3dc4fd70230d8033dff19a | 2026-06-15T15:56:10+05:30 | feat: add error pictogram to the error message component calls
 b78ee49bb1320a47485b0f04622755660cbe0d00 | 2026-06-15T21:49:07+05:30 | style: fix class names
+635500eb4495d018d56cb132335806c168225062 | 2026-06-15T21:49:45+05:30 | feat: add pointer event to the onclick
