@@ -526,3 +526,4 @@ f6bf6a358657e4306ea200681a3811304fcb13d9 | 2026-06-15T21:50:09+05:30 | fix: add 
 f0863e2e45a8cb52c60078061974651e48e97a60 | 2026-06-15T21:50:54+05:30 | fix: update div tag to `menu` in menu component
 621e7ed964fbd4f1be4beeac1e0830e779acda97 | 2026-06-15T21:52:01+05:30 | feat: create menu component
 c835049b0adf5fb561456f795479ba23db36045a | 2026-06-15T21:53:05+05:30 | feat: add user, and add menu to the parent top bar
+c7a82b126e5f5bc8da2e3bbcc82b49fc2a65b6fb | 2026-06-15T21:53:12+05:30 | refactor: refactor file
