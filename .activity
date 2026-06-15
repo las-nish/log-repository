@@ -533,3 +533,4 @@ adaebffc87ccc355f73b8c79c5065889d60f15a4 | 2026-06-15T21:53:26+05:30 | style: ad
 a97198bd705c41f41d6a8a6ab2b1514aaa11322e | 2026-06-15T21:55:32+05:30 | feat: add account menu to the main top bar
 a1c84ec10e388fcf2a481aa7ed0d0dd9b22489f4 | 2026-06-15T21:58:13+05:30 | style: fix project creation page layout
 988d5e1b83357822cb39d4ad8958a5edde61c329 | 2026-06-15T21:59:41+05:30 | style: remove unnecessary border radius styles (from the old design system)
+98ec9a68b33ca20a50e5ee487a24989123846fb7 | 2026-06-15T22:11:24+05:30 | style: fix heading gap
