@@ -512,3 +512,4 @@ cc1778f6de94564bd863250ba725fcac75ee36ed | 2026-06-15T12:19:10+05:30 | feat: upd
 4f2b4a0dfdd70fc0e6817a0a97850386066d1c98 | 2026-06-15T12:52:24+05:30 | fix: fix raw svg import
 c3c9b4095cf3f7cc59cc8f486545623639e0ac44 | 2026-06-15T14:27:24+05:30 | style: update sidebar component styles to match new design system
 8f8947ad319ffaea7610ade6d342d6905f9b68a1 | 2026-06-15T14:28:34+05:30 | refactor: change path of the authentication component directory, and removed unused auth-related components, and implement authentication header component.
+44160fa4dd456a60f7040945893c5617f9b31e15 | 2026-06-15T14:28:58+05:30 | style: change dark button styles to matcht the new design system
