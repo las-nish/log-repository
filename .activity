@@ -515,3 +515,4 @@ c3c9b4095cf3f7cc59cc8f486545623639e0ac44 | 2026-06-15T14:27:24+05:30 | style: up
 44160fa4dd456a60f7040945893c5617f9b31e15 | 2026-06-15T14:28:58+05:30 | style: change dark button styles to matcht the new design system
 7effdc1d7367c24bf4efa8968b3d819ccea8c967 | 2026-06-15T14:29:05+05:30 | style: change input styles to matcht the new design system
 7d3a8f65d17b57a4867c7d266394447a43ead5eb | 2026-06-15T14:29:15+05:30 | style: change status text styles to matcht the new design system
+a0ae6613f49c1d40c56d1686b5f24b2c5015e3b3 | 2026-06-15T14:29:28+05:30 | refactor: remove unnevessary files
