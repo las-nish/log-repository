@@ -506,3 +506,4 @@ dc8ef05cfc5fcfc72aff2841af951dc252ac5d21 | 2026-06-13T11:55:42+05:30 | feat: add
 e62ed9ac6dc4c1d3b55d79e6def04fd6f2deedce | 2026-06-15T02:59:05+05:30 | style: update color styles to match gawe design system
 ef7d1d1898879f4830720a38c33f1411771f24cb | 2026-06-15T03:06:08+05:30 | style: update variables to match new design system
 a995bb4d90a0272aec48842c9bb401ebbb0efdcf | 2026-06-15T10:24:51+05:30 | refactor: change autheona logo to the new one and update rotating animation into opacity one
+3800ea53c43177ec28a776dd82179ded293244ef | 2026-06-15T10:25:04+05:30 | style: refactor css file
