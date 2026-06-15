@@ -529,3 +529,4 @@ c835049b0adf5fb561456f795479ba23db36045a | 2026-06-15T21:53:05+05:30 | feat: add
 c7a82b126e5f5bc8da2e3bbcc82b49fc2a65b6fb | 2026-06-15T21:53:12+05:30 | refactor: refactor file
 adaebffc87ccc355f73b8c79c5065889d60f15a4 | 2026-06-15T21:53:26+05:30 | style: add z-index to the menu
 41afdf43d6f371b0e1c57283db472334b981a99f | 2026-06-15T21:53:53+05:30 | fix: add missing menu index
+056b6da46963d719f0cd589a32e2d9bad92e2c51 | 2026-06-15T21:54:20+05:30 | feat: integrate top bars and add pictogram for the error message
