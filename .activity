@@ -509,3 +509,4 @@ a995bb4d90a0272aec48842c9bb401ebbb0efdcf | 2026-06-15T10:24:51+05:30 | refactor:
 3800ea53c43177ec28a776dd82179ded293244ef | 2026-06-15T10:25:04+05:30 | style: refactor css file
 f070c55fd8619fead4a0bfccefdbab3cc46146c3 | 2026-06-15T12:18:37+05:30 | feat: create vite svgo plugin to import svg files and minify
 cc1778f6de94564bd863250ba725fcac75ee36ed | 2026-06-15T12:19:10+05:30 | feat: update flat icon component to use svg files instead of hardcoded svg values
+4f2b4a0dfdd70fc0e6817a0a97850386066d1c98 | 2026-06-15T12:52:24+05:30 | fix: fix raw svg import
