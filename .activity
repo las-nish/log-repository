@@ -518,3 +518,4 @@ c3c9b4095cf3f7cc59cc8f486545623639e0ac44 | 2026-06-15T14:27:24+05:30 | style: up
 a0ae6613f49c1d40c56d1686b5f24b2c5015e3b3 | 2026-06-15T14:29:28+05:30 | refactor: remove unnevessary files
 eb05782d01dd2d31ebb622e4fef84c004ba55733 | 2026-06-15T15:13:33+05:30 | feat: update project top bat related files to match the new design system
 a02c6c5725356a6135108cade1fc4bbf3218f46a | 2026-06-15T15:15:58+05:30 | fix: add missing translations
+4f6424757a11f4a1f9c86e9c82462b572b766bd0 | 2026-06-15T15:46:49+05:30 | feat: create pictogram component
