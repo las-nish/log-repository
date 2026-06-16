@@ -568,3 +568,4 @@ dbad94b2b2ea46b90393c4038c7120868fb5a967 | 2026-06-17T03:02:24+05:30 | feat: cre
 16c89d7216d07c0cfc72fbee1ba59e600f95f917 | 2026-06-17T03:03:20+05:30 | feat: create `updateAccountStoreName`, and `updateAccountStoreUniqueIdentifier` functions
 72dd104248e8898da18632479d95b69695792b13 | 2026-06-17T03:04:10+05:30 | feat: add `ACCOUNT_UNIQUE_IDENTIFIER` regex
 8327d02c078c5a8c312f6226df805bf654e98f34 | 2026-06-17T03:04:25+05:30 | fix: fix duplicate inline button id
+73b89a9b05de0acd50f7eaeea257f70c8f40244c | 2026-06-17T03:04:44+05:30 | feat: implement user settings layout, and their pages
