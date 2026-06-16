@@ -557,3 +557,4 @@ d462e0536d48ccd1d5f77bdd6bbb882a6a99a6f4 | 2026-06-16T22:17:28+05:30 | style: ad
 bb76befc5b6e61ffeb83a358a8a0db2f414cee37 | 2026-06-16T22:17:44+05:30 | style: add project-related page styles
 dd7482cb4a4087949b31dce5d98d00f95aaa1983 | 2026-06-16T22:18:01+05:30 | style: update project layout structure
 9b08354149d778c3422b81d2951ce5b6cfa7427e | 2026-06-16T22:20:55+05:30 | style: add basic modal and modal controller styles
+dbd6344845cdac2b73f48a6f1cd91d32f335c1b3 | 2026-06-16T22:21:11+05:30 | style: add variable for modal shadow
