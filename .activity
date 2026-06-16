@@ -559,3 +559,4 @@ dd7482cb4a4087949b31dce5d98d00f95aaa1983 | 2026-06-16T22:18:01+05:30 | style: up
 9b08354149d778c3422b81d2951ce5b6cfa7427e | 2026-06-16T22:20:55+05:30 | style: add basic modal and modal controller styles
 dbd6344845cdac2b73f48a6f1cd91d32f335c1b3 | 2026-06-16T22:21:11+05:30 | style: add variable for modal shadow
 3d62cb018600b0181aa732062a9cbff6ee01df47 | 2026-06-16T22:21:19+05:30 | style: add modal z-index
+ae512034c389661df3db46b1a25b7aa2f8004221 | 2026-06-16T22:21:30+05:30 | style: add missing files
