@@ -564,3 +564,4 @@ ae512034c389661df3db46b1a25b7aa2f8004221 | 2026-06-16T22:21:30+05:30 | style: ad
 261d1212caa65d820edd72d92ef48a0e2e4d1bd3 | 2026-06-17T00:31:36+05:30 | feat: implement basic project settings
 a77df11624361a61ccfb0f3155b5ceb7b8aca41a | 2026-06-17T03:02:00+05:30 | feat: add `loadingText` to the button opts
 dbad94b2b2ea46b90393c4038c7120868fb5a967 | 2026-06-17T03:02:24+05:30 | feat: create `openInNewTab()` helper function
+7b183568e1ac773fdc2691526220a9cd82998d52 | 2026-06-17T03:03:01+05:30 | feat: add account unique identifier
