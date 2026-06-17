@@ -582,3 +582,4 @@ a33be339d0915986d62a06f7ffb619023c8b4e83 | 2026-06-17T22:59:46+05:30 | feat: add
 a607ed9fa3ba50cfb7c57836280374bc24b114cd | 2026-06-18T02:52:02+05:30 | fix: add conflict handeling when member is already exists in the system
 7b147a352ce0888195f8c81b0cad0ebd57df7e1a | 2026-06-18T02:52:20+05:30 | fix: add missing member routes to the core backend internal API routes
 961b4813e9d2de190c03df97a0f449eda3ee61fb | 2026-06-18T02:52:51+05:30 | feat: add missing access token list settings item and, member list settings item into the settings section
+0f3afd4f4ba1a8f2a6d9ff1623c852f2d50001a3 | 2026-06-18T02:53:17+05:30 | refactor: update access token flow with the updated settings section method
