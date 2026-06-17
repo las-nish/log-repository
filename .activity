@@ -587,3 +587,4 @@ a607ed9fa3ba50cfb7c57836280374bc24b114cd | 2026-06-18T02:52:02+05:30 | fix: add 
 76be0af827a8d9b92e48338f68f57cc6fee9f02b | 2026-06-18T02:54:15+05:30 | feat: add `formatDateTime()` utility function to turn timestamp into readable date/time based string
 a1d73f392848375dce98cda5b16e6cf976ca24b9 | 2026-06-18T02:54:43+05:30 | feat: implement helper function to return UI-related translations for the member related types
 9e7bf63098f84f3940638596eccdac0512faa4d8 | 2026-06-18T03:21:57+05:30 | fix: set password to undefined
+1d3b65d479ac9088c7e017b686e4957cffc9e823 | 2026-06-18T03:22:25+05:30 | feat: update dropdown item to return rowId in the item's onClick
