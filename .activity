@@ -580,3 +580,4 @@ a33be339d0915986d62a06f7ffb619023c8b4e83 | 2026-06-17T22:59:46+05:30 | feat: add
 6ffb05e63b61a6a740917b124bdfaa6f20a36009 | 2026-06-17T23:01:28+05:30 | fix: add missing status text in dropdown
 9965ac7006c41822697235ee9cc7b0bcdcf117ee | 2026-06-17T23:03:16+05:30 | fix: fix page function name
 a607ed9fa3ba50cfb7c57836280374bc24b114cd | 2026-06-18T02:52:02+05:30 | fix: add conflict handeling when member is already exists in the system
+7b147a352ce0888195f8c81b0cad0ebd57df7e1a | 2026-06-18T02:52:20+05:30 | fix: add missing member routes to the core backend internal API routes
