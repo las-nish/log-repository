@@ -575,3 +575,4 @@ dcd161ec8d54c1c5c18318365f02831032c2ac10 | 2026-06-17T14:36:02+05:30 | feat: cre
 6b6622f87df637197552f571d91a7dd47c2d3b0b | 2026-06-17T14:36:28+05:30 | feat: implement access token feature
 273387994ef4dae81d078d0d0cb1a87379c58675 | 2026-06-17T14:55:34+05:30 | feat: add selected state to the dropdown menu
 b254be3c648180daf9144494332032d0fd4df6ef | 2026-06-17T14:58:16+05:30 | feat: create member list settings item component
+fec6f4ffced91e56bbd9c19e4ad5d8dde428bc19 | 2026-06-17T18:35:32+05:30 | feat: add empty member management page
