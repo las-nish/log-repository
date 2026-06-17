@@ -585,3 +585,4 @@ a607ed9fa3ba50cfb7c57836280374bc24b114cd | 2026-06-18T02:52:02+05:30 | fix: add 
 0f3afd4f4ba1a8f2a6d9ff1623c852f2d50001a3 | 2026-06-18T02:53:17+05:30 | refactor: update access token flow with the updated settings section method
 0e429d9d690a09a1d89d2e1def8351eef77ff30d | 2026-06-18T02:53:35+05:30 | fix: fix page name typo
 76be0af827a8d9b92e48338f68f57cc6fee9f02b | 2026-06-18T02:54:15+05:30 | feat: add `formatDateTime()` utility function to turn timestamp into readable date/time based string
+a1d73f392848375dce98cda5b16e6cf976ca24b9 | 2026-06-18T02:54:43+05:30 | feat: implement helper function to return UI-related translations for the member related types
