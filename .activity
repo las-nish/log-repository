@@ -604,3 +604,4 @@ a86f864d1e93bf7b47026402ea39f7a3bee57b43 | 2026-06-19T22:21:03+05:30 | feat: add
 5d4ca024d1f702e3d39afd64677ade06d9e1a843 | 2026-06-19T22:53:28+05:30 | style: add styles to the modal component
 07ce2db8250a5522f2c9b11cf1e24903e2d76c81 | 2026-06-19T23:11:46+05:30 | style: add label, and css styles to the text area component
 6475b655f7a9514a396ac1d4ea5b7a4276c8f7f6 | 2026-06-20T00:01:19+05:30 | style: update modal title and container gap
+d86ecf09c525b667e62b46bdbf13c86ed5bce55e | 2026-06-20T00:12:46+05:30 | feat: add background to the text area component
