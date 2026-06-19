@@ -606,3 +606,4 @@ a86f864d1e93bf7b47026402ea39f7a3bee57b43 | 2026-06-19T22:21:03+05:30 | feat: add
 6475b655f7a9514a396ac1d4ea5b7a4276c8f7f6 | 2026-06-20T00:01:19+05:30 | style: update modal title and container gap
 d86ecf09c525b667e62b46bdbf13c86ed5bce55e | 2026-06-20T00:12:46+05:30 | feat: add background to the text area component
 7b0f16069c40e2c791eeee69d152ec65f8f07430 | 2026-06-20T01:37:09+05:30 | feat: update dropdown button opts, and add styles
+bf6876571740b4b2c22ca458a1944c0b3a8c0148 | 2026-06-20T01:44:03+05:30 | fix: fix text rename in every selection when changing value in the dropdown
