@@ -598,3 +598,4 @@ c9cb50fda1c03c0e76f1779a6634d41e5c6eb294 | 2026-06-19T18:23:13+05:30 | fix: fix 
 3f156fc137c9c922f6269bd602fe7a2eb347059e | 2026-06-19T18:44:10+05:30 | style: update page heading component styles to match new design decisions
 871a0364d6b68851589442320d9aefe566a6754b | 2026-06-19T20:05:24+05:30 | style: add font weight to the heading
 9b304759b35d364eb05803c89a28f9e385b87afe | 2026-06-19T20:19:51+05:30 | refactor: refactor settings pages layout
+0affe110c17e94dee06bac2c8054b17a3450a5f3 | 2026-06-19T20:21:33+05:30 | style: set page heading to uppercase
