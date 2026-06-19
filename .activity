@@ -601,3 +601,4 @@ c9cb50fda1c03c0e76f1779a6634d41e5c6eb294 | 2026-06-19T18:23:13+05:30 | fix: fix 
 0affe110c17e94dee06bac2c8054b17a3450a5f3 | 2026-06-19T20:21:33+05:30 | style: set page heading to uppercase
 cc3ca2055f046d99f8444a306261ca07ceacb5e3 | 2026-06-19T20:29:09+05:30 | feat: update settings section to match new design decisions
 a86f864d1e93bf7b47026402ea39f7a3bee57b43 | 2026-06-19T22:21:03+05:30 | feat: add button background and add button styles
+5d4ca024d1f702e3d39afd64677ade06d9e1a843 | 2026-06-19T22:53:28+05:30 | style: add styles to the modal component
