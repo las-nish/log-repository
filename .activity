@@ -609,3 +609,4 @@ d86ecf09c525b667e62b46bdbf13c86ed5bce55e | 2026-06-20T00:12:46+05:30 | feat: add
 bf6876571740b4b2c22ca458a1944c0b3a8c0148 | 2026-06-20T01:44:03+05:30 | fix: fix text rename in every selection when changing value in the dropdown
 b2b1047b52b82852a8057a07387fb90f47d092a4 | 2026-06-20T02:09:44+05:30 | fix: fix access token creation flow
 ba9f0bb8aa921b34cb2060533f777c041d36a61c | 2026-06-20T02:37:57+05:30 | fix: fix danger outline button hover effect background colors
+de0bd3949b5d339dbc91159833d73720c4bf2b0f | 2026-06-20T02:43:38+05:30 | feat: complete settings access token list item styles and the flow
