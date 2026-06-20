@@ -624,3 +624,4 @@ e17c7ba4d414ea0b39b1af8c0a5561a22fde3f65 | 2026-06-20T21:20:17+05:30 | fix: fix 
 a95caa10506f13eb650b9e27a3fdcbe681684e35 | 2026-06-21T02:35:03+05:30 | refactor: update modal structure
 e0a9fad70571ebbc7b6ba1f45f4308d2f7553c44 | 2026-06-21T02:47:43+05:30 | fix: remove required password parameter to omitempty
 306161ce8bb946be98b62d29a876be19ee3cfb9b | 2026-06-21T02:48:16+05:30 | feat: implement member deletion flow with a confirmation modal
+f57efba1a4c43c349909cfea1118f34c2233f703 | 2026-06-21T02:54:29+05:30 | feat: add missing buttons to the top bars
