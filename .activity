@@ -628,3 +628,4 @@ f57efba1a4c43c349909cfea1118f34c2233f703 | 2026-06-21T02:54:29+05:30 | feat: add
 75797073fd2de0ca75cce9a54cf99db9cb86a937 | 2026-06-21T03:00:49+05:30 | feat: update member creation modal content
 c3978b5e6874a9056b922d568a92765d711fdc28 | 2026-06-21T03:17:19+05:30 | style: update access token list styles
 052b80fa05a2e32ce86ece7c46fae83c0821797d | 2026-06-21T03:28:50+05:30 | feat: add sidebar toggling support
+96e1afb12f11c680f7e2bc0f52009e7bae6c56de | 2026-06-21T03:35:24+05:30 | refactor: add missing icons to the buttons and update some translations
