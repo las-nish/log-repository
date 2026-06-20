@@ -632,3 +632,4 @@ c3978b5e6874a9056b922d568a92765d711fdc28 | 2026-06-21T03:17:19+05:30 | style: up
 c67cea9b0c00f9d6606be9d8409c09ed559e62b1 | 2026-06-21T03:40:08+05:30 | style: set access token list item into row direction from column direction
 dd3653996d6ecd9815b36dba4040d36d6ac6cbe3 | 2026-06-21T03:47:01+05:30 | style: fix column-row setup css
 83f2b8579680957b94d18f2d8257ee25fc14223e | 2026-06-21T03:48:50+05:30 | refactor: update member create and password update modals
+96955d206f6d602dfa8dbaa0ef4d72d725da552a | 2026-06-21T03:53:28+05:30 | feat: add notice to the access token creation modal
