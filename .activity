@@ -622,3 +622,4 @@ e17c7ba4d414ea0b39b1af8c0a5561a22fde3f65 | 2026-06-20T21:20:17+05:30 | fix: fix 
 15d3a160d395501f8f1a6daa5bfcdbb62185f991 | 2026-06-21T02:34:37+05:30 | feat: add `16px` trash icon
 1eb943712b2871d1558bfeca820132d2825042eb | 2026-06-21T02:34:53+05:30 | style: add `tnum` font feature settings
 a95caa10506f13eb650b9e27a3fdcbe681684e35 | 2026-06-21T02:35:03+05:30 | refactor: update modal structure
+e0a9fad70571ebbc7b6ba1f45f4308d2f7553c44 | 2026-06-21T02:47:43+05:30 | fix: remove required password parameter to omitempty
