@@ -612,3 +612,4 @@ ba9f0bb8aa921b34cb2060533f777c041d36a61c | 2026-06-20T02:37:57+05:30 | fix: fix 
 de0bd3949b5d339dbc91159833d73720c4bf2b0f | 2026-06-20T02:43:38+05:30 | feat: complete settings access token list item styles and the flow
 98d8e4d91ceccc19c5c79fd64cf3f7679d52eb72 | 2026-06-20T02:58:11+05:30 | style: fix topbar logo width issue
 ae55ad027f14276dee015b32f1d459a504c89c77 | 2026-06-20T07:50:15+05:30 | feat: add more 16px icons
+d225c134f52393a3b4f7d55c01f26d3cca9595ed | 2026-06-20T07:50:34+05:30 | style: fix padding
