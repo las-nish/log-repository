@@ -619,3 +619,4 @@ d225c134f52393a3b4f7d55c01f26d3cca9595ed | 2026-06-20T07:50:34+05:30 | style: fi
 205b5890d5d3f190ff9a9cd2869d1a7484479727 | 2026-06-20T21:15:32+05:30 | fix: fix translations
 e17c7ba4d414ea0b39b1af8c0a5561a22fde3f65 | 2026-06-20T21:20:17+05:30 | fix: fix access token button and description mismatch
 61748e57550f87d7887fbecc40d015279f623f76 | 2026-06-21T02:18:19+05:30 | feat: add settings item member list table styles
+15d3a160d395501f8f1a6daa5bfcdbb62185f991 | 2026-06-21T02:34:37+05:30 | feat: add `16px` trash icon
