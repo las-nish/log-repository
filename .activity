@@ -629,3 +629,4 @@ f57efba1a4c43c349909cfea1118f34c2233f703 | 2026-06-21T02:54:29+05:30 | feat: add
 c3978b5e6874a9056b922d568a92765d711fdc28 | 2026-06-21T03:17:19+05:30 | style: update access token list styles
 052b80fa05a2e32ce86ece7c46fae83c0821797d | 2026-06-21T03:28:50+05:30 | feat: add sidebar toggling support
 96e1afb12f11c680f7e2bc0f52009e7bae6c56de | 2026-06-21T03:35:24+05:30 | refactor: add missing icons to the buttons and update some translations
+c67cea9b0c00f9d6606be9d8409c09ed559e62b1 | 2026-06-21T03:40:08+05:30 | style: set access token list item into row direction from column direction
