@@ -616,3 +616,4 @@ d225c134f52393a3b4f7d55c01f26d3cca9595ed | 2026-06-20T07:50:34+05:30 | style: fi
 15307bbb759319602d7df217b651e5d7d0764f84 | 2026-06-20T20:30:31+05:30 | feat: update subscription icon and remove members icon
 48b29f70f96b4af36e02e936a7477f1e7a2463e4 | 2026-06-20T20:30:58+05:30 | feat: add new icons to the sidebar icons
 57bb37f3d63cab5ec02448c12a975edce3da3a1b | 2026-06-20T21:15:14+05:30 | fix: fix member action menu
+205b5890d5d3f190ff9a9cd2869d1a7484479727 | 2026-06-20T21:15:32+05:30 | fix: fix translations
