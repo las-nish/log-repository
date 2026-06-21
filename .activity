@@ -637,3 +637,4 @@ dd3653996d6ecd9815b36dba4040d36d6ac6cbe3 | 2026-06-21T03:47:01+05:30 | style: fi
 ae5f50f26c6a5cdee7c9c00ad70474f92493a337 | 2026-06-21T18:24:52+05:30 | fix: fix member retrieve return code
 45150e969028f6832548f9be9c1f5b4cf4bc0625 | 2026-06-21T18:30:10+05:30 | feat: add condition to ignore member check gor account overview retrieval API
 23c84d04eb6670ac9ad29400923923b91f622976 | 2026-06-21T20:52:21+05:30 | feat: add access denied pictogram
+b9e3cf6b37a6eef73a42721bc98273a5b41981fd | 2026-06-21T23:26:58+05:30 | feat: add more permissions
