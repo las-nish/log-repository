@@ -641,3 +641,4 @@ b9e3cf6b37a6eef73a42721bc98273a5b41981fd | 2026-06-21T23:26:58+05:30 | feat: add
 6924816d944055a1d4c2a33a5dc47bf4979f3549 | 2026-06-21T23:30:58+05:30 | feat: update paths with `PATH_PREFIX` and `PATH_POSTFIX`
 2f5dc3d77f66e03f2d0dfb13f33529c8309062d2 | 2026-06-21T23:35:05+05:30 | feat: implement `cleanPath` helper function to clean URLs without qyery params, and hash fragements
 230a9f598b61900bdba3fb323579a1b0f3bf79f6 | 2026-06-21T23:35:24+05:30 | feat: update middleware to support direct dom rendering
+954d33d11dd3af82c9432ce6b9f6c1852046acb3 | 2026-06-21T23:39:15+05:30 | feat: add member page access to the frontend middleware
