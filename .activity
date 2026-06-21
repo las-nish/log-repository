@@ -644,3 +644,4 @@ b9e3cf6b37a6eef73a42721bc98273a5b41981fd | 2026-06-21T23:26:58+05:30 | feat: add
 954d33d11dd3af82c9432ce6b9f6c1852046acb3 | 2026-06-21T23:39:15+05:30 | feat: add member page access to the frontend middleware
 67963b09ffea8f9829b11a9a301a4f8afa028f65 | 2026-06-22T01:35:07+05:30 | style: create scroll bar styles
 cbf0c17683df40f4e300f27b034652f56572ebdf | 2026-06-22T01:35:35+05:30 | feat: implement basic responsiveness and scrollbar to the required layouts, components, and pages
+aaf9cb622b15ab989665d474b8c12f35a54d439d | 2026-06-22T02:18:28+05:30 | feat: add placeholder support to the access token list and member list table
