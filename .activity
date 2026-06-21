@@ -639,3 +639,4 @@ ae5f50f26c6a5cdee7c9c00ad70474f92493a337 | 2026-06-21T18:24:52+05:30 | fix: fix 
 23c84d04eb6670ac9ad29400923923b91f622976 | 2026-06-21T20:52:21+05:30 | feat: add access denied pictogram
 b9e3cf6b37a6eef73a42721bc98273a5b41981fd | 2026-06-21T23:26:58+05:30 | feat: add more permissions
 6924816d944055a1d4c2a33a5dc47bf4979f3549 | 2026-06-21T23:30:58+05:30 | feat: update paths with `PATH_PREFIX` and `PATH_POSTFIX`
+2f5dc3d77f66e03f2d0dfb13f33529c8309062d2 | 2026-06-21T23:35:05+05:30 | feat: implement `cleanPath` helper function to clean URLs without qyery params, and hash fragements
