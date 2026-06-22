@@ -648,3 +648,4 @@ aaf9cb622b15ab989665d474b8c12f35a54d439d | 2026-06-22T02:18:28+05:30 | feat: add
 334482f8534cd1286422e03b5da9b05fdd38ac86 | 2026-06-22T02:29:41+05:30 | feat: update regex validation patterns for stricter access rules, and update error message translations
 8515e269fa65dd637b6ed3b02a1930e07e474a11 | 2026-06-22T02:48:31+05:30 | feat: add global loading state to the middleware function when retrieving user data via account overview retrieve API
 5a3d7335ee47143fe0806e326b51e336a8c1a7e6 | 2026-06-22T11:16:02+05:30 | feat: implement page notice component
+1fea0d9824486eb41a0248f868697e708f5efcf2 | 2026-06-22T11:33:58+05:30 | style: fix class name
