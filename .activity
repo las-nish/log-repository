@@ -674,3 +674,4 @@ f9558e599b7dc02ed5b6b7659fecb66d86c6d01a | 2026-06-23T21:47:25+05:30 | fix: fix 
 daf254df52a938ccc6decd358207acdca58f0ade | 2026-06-23T21:47:53+05:30 | fix: add menu width to the dropdown after adding it in the main component
 030b0dd31d9341736c5b9c48bf981ab327843622 | 2026-06-23T21:48:19+05:30 | style: fix pagination styles
 258fb2cdcccbda4e3fb192fd7a9fbfffae3a4272 | 2026-06-23T21:49:11+05:30 | style: fix action butttons alignment mismatch
+6cc3274efedd486fc7425d79bb2e23a260489749 | 2026-06-23T21:49:28+05:30 | feat: add dropdown button suppport
