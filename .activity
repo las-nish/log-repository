@@ -667,3 +667,4 @@ a36d434f85f408347c5968b6d78ebdd39cf2dfce | 2026-06-23T14:01:25+05:30 | fix: fix 
 24959cacb1c813f404a686f7ae62bb4e81d1f2bc | 2026-06-23T14:03:25+05:30 | refactor: update page heading setup method
 be1992b48fa0318b34b448072fdeb580ab64e82f | 2026-06-23T16:01:00+05:30 | feat: add page headings
 79ec0d29a4c00e041ab89bc34854728a4e33905a | 2026-06-23T20:08:29+05:30 | refactor: refactor code
+c7a6a175e41cf6d04d7651320609c88d112e3195 | 2026-06-23T20:08:46+05:30 | feat: set dropdown action button to 32px
