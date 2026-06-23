@@ -676,3 +676,4 @@ daf254df52a938ccc6decd358207acdca58f0ade | 2026-06-23T21:47:53+05:30 | fix: add 
 258fb2cdcccbda4e3fb192fd7a9fbfffae3a4272 | 2026-06-23T21:49:11+05:30 | style: fix action butttons alignment mismatch
 6cc3274efedd486fc7425d79bb2e23a260489749 | 2026-06-23T21:49:28+05:30 | feat: add dropdown button suppport
 fb6a543f6867a19a87e151470594762f730e0a8c | 2026-06-23T23:09:50+05:30 | feat: optimize table component by self-managing pagination
+7f8402133654de8b2950541b66d216a08c8c04dd | 2026-06-24T00:05:45+05:30 | feat: update page heading component to support neutral ghost button
