@@ -671,3 +671,4 @@ c7a6a175e41cf6d04d7651320609c88d112e3195 | 2026-06-23T20:08:46+05:30 | feat: set
 c92f329e94c0fd6bcaac673726918caaedc8b583 | 2026-06-23T20:10:46+05:30 | feat: update analytics chart, card, and table components
 258886c6b5c0c45d55a4e2c935263639b221a4a4 | 2026-06-23T21:05:00+05:30 | refactor: remove unnecessary classes
 f9558e599b7dc02ed5b6b7659fecb66d86c6d01a | 2026-06-23T21:47:25+05:30 | fix: fix menu width support for the dropdown menu
+daf254df52a938ccc6decd358207acdca58f0ade | 2026-06-23T21:47:53+05:30 | fix: add menu width to the dropdown after adding it in the main component
