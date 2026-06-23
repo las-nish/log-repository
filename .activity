@@ -672,3 +672,4 @@ c92f329e94c0fd6bcaac673726918caaedc8b583 | 2026-06-23T20:10:46+05:30 | feat: upd
 258886c6b5c0c45d55a4e2c935263639b221a4a4 | 2026-06-23T21:05:00+05:30 | refactor: remove unnecessary classes
 f9558e599b7dc02ed5b6b7659fecb66d86c6d01a | 2026-06-23T21:47:25+05:30 | fix: fix menu width support for the dropdown menu
 daf254df52a938ccc6decd358207acdca58f0ade | 2026-06-23T21:47:53+05:30 | fix: add menu width to the dropdown after adding it in the main component
+030b0dd31d9341736c5b9c48bf981ab327843622 | 2026-06-23T21:48:19+05:30 | style: fix pagination styles
