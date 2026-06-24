@@ -690,3 +690,4 @@ e5fca359b779092f931dbf1a5fc331a693502822 | 2026-06-24T16:11:52+05:30 | feat: add
 afe32411bc88c71d14b8c752b01b401746cd0bb4 | 2026-06-24T22:42:38+05:30 | chore: add required codemirror packages
 41aa91fece791e20ad4b5e0ec84de1cf18db515f | 2026-06-24T22:42:56+05:30 | feat: add policy templates link (non-tested)
 0d34e40e4f915c89cf501bb86968f72189a24518 | 2026-06-24T22:43:30+05:30 | feat: implement policy editor with visualization preview component
+8cc4063f868ce0b03df9f946259784217636eb64 | 2026-06-24T22:43:56+05:30 | feat: integrate empty policy editor
