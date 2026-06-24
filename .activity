@@ -684,3 +684,4 @@ ea39a38a5d831d6ed9975f5df2cea333d9c1a998 | 2026-06-24T01:14:44+05:30 | feat: upd
 158fc2d727ca3bdb315d57ba13a27be71e20de94 | 2026-06-24T15:28:26+05:30 | feat: create action button component
 86abeeb6417c587aaa7f6abcd4c930f031977885 | 2026-06-24T15:28:47+05:30 | fix: fix access token creation modal primary button color
 dcb90a621756f07e6ea94bc62903491b772e84d6 | 2026-06-24T15:28:57+05:30 | feat: create reference item list component
+c344f23077e11d9208d6c035b04d0350e8e500d0 | 2026-06-24T15:29:15+05:30 | chore: add codemirror package
