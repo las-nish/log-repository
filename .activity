@@ -682,3 +682,4 @@ acadedbba159397ca27d36466cc6c72d8c0b33bb | 2026-06-24T00:07:43+05:30 | feat: add
 ea39a38a5d831d6ed9975f5df2cea333d9c1a998 | 2026-06-24T01:14:44+05:30 | feat: update policy add, and reference add icons
 71dd58062bbfda0b3d0e79f01c5533d3945c7ee7 | 2026-06-24T01:49:58+05:30 | feat: add rightButton support to the page heading action buttons
 158fc2d727ca3bdb315d57ba13a27be71e20de94 | 2026-06-24T15:28:26+05:30 | feat: create action button component
+86abeeb6417c587aaa7f6abcd4c930f031977885 | 2026-06-24T15:28:47+05:30 | fix: fix access token creation modal primary button color
