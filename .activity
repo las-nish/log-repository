@@ -705,3 +705,4 @@ b605fea3d03a2052a626c57095c1aa2f4ff1b3e2 | 2026-06-25T02:20:18+05:30 | fix: upda
 2c25a1f3c4cf4eb98fcc4c2932c7dab186648d3b | 2026-06-25T02:21:28+05:30 | fix: fix reference delete content translation
 d27e2a4c3289a78aa355879841b92e21552e3f6c | 2026-06-25T02:30:13+05:30 | refactor: pass project code via `currentProject`
 685c10ca5a3259d4019695367fa8e4386126ef74 | 2026-06-25T02:50:36+05:30 | chore: remove json5 package because bun have built-in json5
+2501530c6506243f2568f8cd93ee2efc9f3ee253 | 2026-06-25T02:55:23+05:30 | feat: add edit and save icons
