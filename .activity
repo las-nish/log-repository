@@ -688,3 +688,4 @@ c344f23077e11d9208d6c035b04d0350e8e500d0 | 2026-06-24T15:29:15+05:30 | chore: ad
 218eb51ae27dad33a4dcc8fc309fcc699acc5d94 | 2026-06-24T16:10:22+05:30 | chore: add codemirror-related packages
 e5fca359b779092f931dbf1a5fc331a693502822 | 2026-06-24T16:11:52+05:30 | feat: add codemirror support
 afe32411bc88c71d14b8c752b01b401746cd0bb4 | 2026-06-24T22:42:38+05:30 | chore: add required codemirror packages
+41aa91fece791e20ad4b5e0ec84de1cf18db515f | 2026-06-24T22:42:56+05:30 | feat: add policy templates link (non-tested)
