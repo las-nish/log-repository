@@ -694,3 +694,4 @@ afe32411bc88c71d14b8c752b01b401746cd0bb4 | 2026-06-24T22:42:38+05:30 | chore: ad
 9dcb85b68ce19f8a7fb7397454fde38ebd3d4588 | 2026-06-25T00:01:10+05:30 | style: remove border from placeholder
 ceb48ffa576889b67e2e970888545780302eadb2 | 2026-06-25T01:48:49+05:30 | feat: add `ACTIVE` status checking when retrieving reference list
 79c5cfccd1bdc4625750e9504629112ae0cd4a04 | 2026-06-25T01:49:03+05:30 | fix: remove unnecessary fucking buggy variable names
+0debde284ef42c6338f3da623d549715ef500180 | 2026-06-25T01:53:07+05:30 | fix: fix invalid typecasting number
