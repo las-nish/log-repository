@@ -702,3 +702,4 @@ e24f8db05b5ac4b0eade94e5f579ae7aa303b0a4 | 2026-06-25T01:53:53+05:30 | feat: imp
 a5fb62d89e14e2efc9d152a7cb83853cdc4a87df | 2026-06-25T02:06:26+05:30 | feat: add font state to the text area component
 625862785e64dc904f8a49950318a43d2e3c856f | 2026-06-25T02:19:24+05:30 | fix: update input readonly state
 b605fea3d03a2052a626c57095c1aa2f4ff1b3e2 | 2026-06-25T02:20:18+05:30 | fix: update translation for reference update content
+2c25a1f3c4cf4eb98fcc4c2932c7dab186648d3b | 2026-06-25T02:21:28+05:30 | fix: fix reference delete content translation
