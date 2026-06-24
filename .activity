@@ -698,3 +698,4 @@ ceb48ffa576889b67e2e970888545780302eadb2 | 2026-06-25T01:48:49+05:30 | feat: add
 d8ee2024981dba96e2f0d23229d4d86ca4f1bcc6 | 2026-06-25T01:53:23+05:30 | feat: add `updateItem` helper API function
 d401a747b5bba0d2041af7a0eda570919e974c6a | 2026-06-25T01:53:40+05:30 | style: fix key and description styles
 e24f8db05b5ac4b0eade94e5f579ae7aa303b0a4 | 2026-06-25T01:53:53+05:30 | feat: implement policy reference feature
+43f8c33571b38f018b0c6f4387e8f22fef467218 | 2026-06-25T01:56:40+05:30 | style: add readonly state to the input
