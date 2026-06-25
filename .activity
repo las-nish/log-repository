@@ -738,3 +738,4 @@ bfe251ac892b7cf44859f4c5d969ed089dac38e0 | 2026-06-25T21:53:44+05:30 | feat: upd
 7288fe88479caef7c1bedd9ed07aa32de03ff50e | 2026-06-26T01:40:02+05:30 | refactor: remove email, domain analytics pages and add intelligence signals page
 7e62ba98449b1e939336a71770b96579654a010c | 2026-06-26T02:30:16+05:30 | refactor: update raw to use grid layout instead of flexbox
 6a49b50e1190223151354843abf7536df5e527d7 | 2026-06-26T02:30:31+05:30 | feat: update error messages
+4f3db47e1c479f9d3ce78a66a5d944a0c75ceb73 | 2026-06-26T03:28:17+05:30 | fix: fix intelligence API psql data insert issue
