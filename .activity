@@ -710,3 +710,4 @@ f9b107b6b15ede033bc0fadb3534945abcd0969c | 2026-06-25T02:58:53+05:30 | refactor:
 b0787ea102c0dc102f3b9e6958997f29b45ed3e7 | 2026-06-25T02:59:01+05:30 | feat: add edit icon
 713c4dd825ae07a1af5a722b82bdea03313efdde | 2026-06-25T03:16:55+05:30 | feat: implement policy retrieve and update feature
 88e2fd598147d57da5abb197f8c001348b588af3 | 2026-06-25T03:18:18+05:30 | feat: set reference editor page as a short page
+d1afaa2603766ce495e003e830e5a82b96bf1642 | 2026-06-25T10:31:41+05:30 | feat: add focus API to the text area component
