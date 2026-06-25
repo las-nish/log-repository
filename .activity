@@ -735,3 +735,4 @@ e28908afbef75c3c5121c0bcea5ebcb37e9f10ed | 2026-06-25T20:51:29+05:30 | feat: imp
 bfe251ac892b7cf44859f4c5d969ed089dac38e0 | 2026-06-25T21:53:44+05:30 | feat: update policy schema (partially)
 3899abda6296c458cb52f18d79eaa61991223078 | 2026-06-25T23:29:35+05:30 | refactor: change file name
 8912d147f80637cb5e6aeb28402c0115498db2ea | 2026-06-26T01:39:05+05:30 | feat: add signal icon
+7288fe88479caef7c1bedd9ed07aa32de03ff50e | 2026-06-26T01:40:02+05:30 | refactor: remove email, domain analytics pages and add intelligence signals page
