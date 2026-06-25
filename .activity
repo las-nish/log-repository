@@ -714,3 +714,4 @@ d1afaa2603766ce495e003e830e5a82b96bf1642 | 2026-06-25T10:31:41+05:30 | feat: add
 7cd758830cf588ef998f3e6d622c0d72e3c3f0bd | 2026-06-25T10:32:09+05:30 | feat: add input/text area focus to the modals when opening
 e02aad8fd224bd4931f95da89631e11c2be00a92 | 2026-06-25T10:54:38+05:30 | feat: add copy icon
 452843c32ed771542866051233887678ba6f53f9 | 2026-06-25T10:54:47+05:30 | style: fix button disable status
+d4212f7fd628d393aae22adadeec4f06819df7fd | 2026-06-25T10:55:06+05:30 | style: remove pointer event field from the inpyt readonly class
