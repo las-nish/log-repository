@@ -726,3 +726,4 @@ ad693371081faf64bc5c0f34b393b84d61342e3f | 2026-06-25T10:59:16+05:30 | fix: fix 
 50460994c2a6c87751d65e56264cd3cc4a54b2a0 | 2026-06-25T13:35:09+05:30 | fix: fix sidebar toggle responsive issue
 ef36db64f6657ad717c96439f2e43acd7b90c218 | 2026-06-25T15:08:34+05:30 | fix: fix reference item list skeleton issue
 b24cc72800e64eeecb849b3b1605c4fdd6946ded | 2026-06-25T15:42:59+05:30 | feat: add side bar toggle state store, and side bar section store feature
+6cbdbd1aacac559cd5ac8bdb70845a655adceb97 | 2026-06-25T15:48:12+05:30 | refactor: format file
