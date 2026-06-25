@@ -716,3 +716,4 @@ e02aad8fd224bd4931f95da89631e11c2be00a92 | 2026-06-25T10:54:38+05:30 | feat: add
 452843c32ed771542866051233887678ba6f53f9 | 2026-06-25T10:54:47+05:30 | style: fix button disable status
 d4212f7fd628d393aae22adadeec4f06819df7fd | 2026-06-25T10:55:06+05:30 | style: remove pointer event field from the inpyt readonly class
 b0a19592d61291018ec936b8dc758fb30d005e0a | 2026-06-25T10:55:24+05:30 | feat: add access token copy feature to the modal
+ad693371081faf64bc5c0f34b393b84d61342e3f | 2026-06-25T10:59:16+05:30 | fix: fix tranlsation
