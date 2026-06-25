@@ -723,3 +723,4 @@ ad693371081faf64bc5c0f34b393b84d61342e3f | 2026-06-25T10:59:16+05:30 | fix: fix 
 5cf19e792a3d2360b025bbaa839b89201eb1aa5f | 2026-06-25T12:47:51+05:30 | feat: add loading placeholder skeleton
 5c92c68660f0e58a24f8d4ef458c776e5c5637a8 | 2026-06-25T13:14:14+05:30 | fix: fix skeleton position issues
 159f8b8fce3f0635a53189a76c3dcfec0a56391d | 2026-06-25T13:20:58+05:30 | refactor: remove while loop
+50460994c2a6c87751d65e56264cd3cc4a54b2a0 | 2026-06-25T13:35:09+05:30 | fix: fix sidebar toggle responsive issue
