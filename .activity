@@ -720,3 +720,4 @@ ad693371081faf64bc5c0f34b393b84d61342e3f | 2026-06-25T10:59:16+05:30 | fix: fix 
 33f15a7a7b7d5174a869bdd15bddbad30f891f64 | 2026-06-25T10:59:25+05:30 | fix: fix placeholder color setup
 19a7ae72d65447cd03a0256f085bb4628ea635e0 | 2026-06-25T12:34:46+05:30 | feat: create `withDelayedSkeleton()`
 1ed357595746768ee2ebd266a8c15bb1a6fa89d4 | 2026-06-25T12:35:15+05:30 | feat: create skeleton component
+5cf19e792a3d2360b025bbaa839b89201eb1aa5f | 2026-06-25T12:47:51+05:30 | feat: add loading placeholder skeleton
