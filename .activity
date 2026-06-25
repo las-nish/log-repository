@@ -734,3 +734,4 @@ e28908afbef75c3c5121c0bcea5ebcb37e9f10ed | 2026-06-25T20:51:29+05:30 | feat: imp
 1c503d5a97769824aa1cb7619f33c844bf8a2d55 | 2026-06-25T21:48:52+05:30 | fix: fix not equal operator key
 bfe251ac892b7cf44859f4c5d969ed089dac38e0 | 2026-06-25T21:53:44+05:30 | feat: update policy schema (partially)
 3899abda6296c458cb52f18d79eaa61991223078 | 2026-06-25T23:29:35+05:30 | refactor: change file name
+8912d147f80637cb5e6aeb28402c0115498db2ea | 2026-06-26T01:39:05+05:30 | feat: add signal icon
