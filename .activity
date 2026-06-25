@@ -729,3 +729,4 @@ b24cc72800e64eeecb849b3b1605c4fdd6946ded | 2026-06-25T15:42:59+05:30 | feat: add
 6cbdbd1aacac559cd5ac8bdb70845a655adceb97 | 2026-06-25T15:48:12+05:30 | refactor: format file
 ce56020d09961d17a84365d3cfe8e13e3af54657 | 2026-06-25T15:48:39+05:30 | style: add page max width
 606995901d031222127d5deac2e346f6bc26a16c | 2026-06-25T20:51:12+05:30 | feat: create `findFieldValuePosition`
+e28908afbef75c3c5121c0bcea5ebcb37e9f10ed | 2026-06-25T20:51:29+05:30 | feat: implement basic linting to the policy editor
