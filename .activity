@@ -749,3 +749,4 @@ f461655e40ac3d50f25ecfa5a8ce1ab2501bf3e1 | 2026-06-26T16:32:18+05:30 | feat: add
 cc9e5f29c3b1d632978ef44cd9ceb8fd8725f299 | 2026-06-26T18:05:03+05:30 | fix: fix retrieve function to retrieve all data, if no pagination provided
 f8942c61408f4dc46b1a65a725af17099206f937 | 2026-06-26T20:23:23+05:30 | feat: add skeleton placeholder
 8ca5f80267e537571d7507fb47c558f30b905856 | 2026-06-26T20:27:51+05:30 | feat: add more API functions
+36cba8d6a5cd3b15bf6c12614984620ae57f056e | 2026-06-27T02:38:01+05:30 | feat: update autheona logo to the new one
