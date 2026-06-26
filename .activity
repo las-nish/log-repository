@@ -747,3 +747,4 @@ f461655e40ac3d50f25ecfa5a8ce1ab2501bf3e1 | 2026-06-26T16:32:18+05:30 | feat: add
 76a8e942b99c47e919578a996a45dcd5c35e5629 | 2026-06-26T18:04:27+05:30 | feat: add apis to manually append elements
 926615a09ddc02803cd99925790d11a70b292a09 | 2026-06-26T18:04:40+05:30 | feat: add email analytics entitiy types
 cc9e5f29c3b1d632978ef44cd9ceb8fd8725f299 | 2026-06-26T18:05:03+05:30 | fix: fix retrieve function to retrieve all data, if no pagination provided
+f8942c61408f4dc46b1a65a725af17099206f937 | 2026-06-26T20:23:23+05:30 | feat: add skeleton placeholder
