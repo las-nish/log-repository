@@ -745,3 +745,4 @@ f461655e40ac3d50f25ecfa5a8ce1ab2501bf3e1 | 2026-06-26T16:32:18+05:30 | feat: add
 5101414dd0614e12877308d542084ac5062d37ff | 2026-06-26T16:41:22+05:30 | deat: update raw_results with actual values
 2339a5b57d4bf95e692dbe046dae45dab538ef87 | 2026-06-26T18:04:13+05:30 | fix: remove unnecessary required parameters
 76a8e942b99c47e919578a996a45dcd5c35e5629 | 2026-06-26T18:04:27+05:30 | feat: add apis to manually append elements
+926615a09ddc02803cd99925790d11a70b292a09 | 2026-06-26T18:04:40+05:30 | feat: add email analytics entitiy types
