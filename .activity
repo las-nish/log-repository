@@ -754,3 +754,4 @@ c1367922a7bc3e2126749f25a8249c93ed59c380 | 2026-06-27T11:38:57+05:30 | refactor:
 2df1e9bc14952582a9b0ee4b9f9d25c3acf693cb | 2026-06-27T14:21:20+05:30 | feat: add previous data support for the analytics retrieve API and database functions
 6cc935c95b454b0908265649501e5a8fb274405d | 2026-06-27T14:24:38+05:30 | feat: add replace-based API functions
 82c23f2d50ae7fd92238f103836feda6c5fd5ced | 2026-06-27T23:39:46+05:30 | refactor: update email analytics results volume API and structure
+8d000e6c4860c76bea1ec421ffb57ddcd3acb83e | 2026-06-27T23:40:18+05:30 | refactor: change optional fields with required but undefined supported
