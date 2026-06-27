@@ -833,3 +833,4 @@ f736ef592f8e4e9029d58c2dab329dac4b2c9853 | 2026-07-01T12:57:20+05:30 | fix: add 
 1203c4b4a732905c65b2b7daf872a1117d6f2327 | 2026-07-01T22:18:25+05:30 | feat: implement custom validator function for the policy structure
 faf69aeda40376ef295cc329068bc71927c71291 | 2026-07-02T00:38:15+05:30 | feat: add `future improvement` comment to the `Include` operator
 7d976267096753719f3b9220567cae286c9feb7c | 2026-07-02T00:38:29+05:30 | feat: add email-related rule conditions
+625f1c2fd7e532db343324296bb5224875212197 | 2026-06-27T11:19:14+05:30 | docs: add gatekeeper proxy docs
