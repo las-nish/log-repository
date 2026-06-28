@@ -769,3 +769,4 @@ dc789d7bcfd5e90e3e216df74110a85dc9b9365a | 2026-06-28T16:34:04+05:30 | style: ad
 d9cd10d5c341ff1102cb742225727a5fa2a4388f | 2026-06-28T16:34:19+05:30 | fix: fix old data comparison issue
 717800b3fe650da92d9d48fe441bdfa6815666a2 | 2026-06-28T16:46:54+05:30 | feat: create number formatting utility
 982bb69e5971202e18ab9df95db95b38c7907658 | 2026-06-29T00:24:22+05:30 | refactor: update button option
+bc527c047b89580474ef7cac26ecd6f0dd228d73 | 2026-06-29T01:45:23+05:30 | style: add scrollbar to the container
