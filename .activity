@@ -756,3 +756,4 @@ c1367922a7bc3e2126749f25a8249c93ed59c380 | 2026-06-27T11:38:57+05:30 | refactor:
 82c23f2d50ae7fd92238f103836feda6c5fd5ced | 2026-06-27T23:39:46+05:30 | refactor: update email analytics results volume API and structure
 8d000e6c4860c76bea1ec421ffb57ddcd3acb83e | 2026-06-27T23:40:18+05:30 | refactor: change optional fields with required but undefined supported
 56a7e5bbf916ec9bbf53d97d6447baa15a56eef3 | 2026-06-28T03:42:43+05:30 | feat: add `16px` calendar icon
+13546bcbca99c1220d63102210013523ff165583 | 2026-06-28T13:19:24+05:30 | feat: implement date range picker card
