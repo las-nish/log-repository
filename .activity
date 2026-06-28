@@ -763,3 +763,4 @@ bc5b62a514a593125482bf8ab15b6b221164d98e | 2026-06-28T14:29:34+05:30 | feat: add
 7729ddc9261ae674b97392abb96953ab3dbc6bd8 | 2026-06-28T14:39:24+05:30 | fix: fix datetime parameter type
 43e32c613e4aa81afd7766edfcb8b12d85730028 | 2026-06-28T14:54:56+05:30 | fix: fix action component returns
 4fa36e3c89255de5d8bf2e3ccdf2a7fbf524c265 | 2026-06-28T14:58:29+05:30 | feat: implement basic signal card building process
+3121a030193cf33bbd21fe081c526c627066d406 | 2026-06-28T15:02:23+05:30 | style: change date range picker fontsize to `xs`
