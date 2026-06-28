@@ -758,3 +758,4 @@ c1367922a7bc3e2126749f25a8249c93ed59c380 | 2026-06-27T11:38:57+05:30 | refactor:
 56a7e5bbf916ec9bbf53d97d6447baa15a56eef3 | 2026-06-28T03:42:43+05:30 | feat: add `16px` calendar icon
 13546bcbca99c1220d63102210013523ff165583 | 2026-06-28T13:19:24+05:30 | feat: implement date range picker card
 53ba05a38c3038dba5aa2a43f0c65ab6ed2f2571 | 2026-06-28T13:32:08+05:30 | feat: update button actions and, add dropdown, and range picker buttons to the heading
+e485d92ae85a286f47a485a8decc1a5ee898ab40 | 2026-06-28T13:44:01+05:30 | style: fix positioning and responsive issues
