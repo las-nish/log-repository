@@ -771,3 +771,4 @@ d9cd10d5c341ff1102cb742225727a5fa2a4388f | 2026-06-28T16:34:19+05:30 | fix: fix 
 982bb69e5971202e18ab9df95db95b38c7907658 | 2026-06-29T00:24:22+05:30 | refactor: update button option
 bc527c047b89580474ef7cac26ecd6f0dd228d73 | 2026-06-29T01:45:23+05:30 | style: add scrollbar to the container
 ab9e6f3ff72c1c52ffb42c39622923336d5c9af7 | 2026-06-29T01:45:42+05:30 | style: remove unnecessary css styles and update the styling
+9649c21814a12673b1630f54e709c53c23c04911 | 2026-06-29T01:45:50+05:30 | style: update height
