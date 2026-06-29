@@ -792,3 +792,4 @@ dff1258c9ff0da2ff23bc1ecb58308c2c08e0dce | 2026-06-30T00:47:39+05:30 | feat: add
 2c6e26072128b07d9ed16a74c5a748666c564da7 | 2026-06-30T01:38:58+05:30 | feat: add action button
 9950c1d89e275b49c1224eab5b907fdf637e06ee | 2026-06-30T02:46:19+05:30 | fix: fix integer error
 0c306395624d8a361fb5f13466396be3d1d6add3 | 2026-06-30T02:46:38+05:30 | refactor: remove unnecessary await
+fa91a716491ef9a6ec46085fe9b38c7b0b07377a | 2026-06-30T02:49:30+05:30 | style: fix layout issue and add min height to the title
