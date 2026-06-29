@@ -784,3 +784,4 @@ b8512740fefcd30d0d9f30bd4e7fce8770fecbee | 2026-06-29T15:20:05+05:30 | refactor:
 74561e1eaf3c5573642fe5ad9d08d18d2dc406dd | 2026-06-29T19:37:59+05:30 | feat: create action list component
 37b688ca6135f112722bc4b0cbe7528024c4d08e | 2026-06-29T19:57:29+05:30 | fix: fix file name
 61dd02715e88fe7aed712982a6b3ac028242b01d | 2026-06-29T22:57:28+05:30 | feat: create section title component
+b71519f0cab399454a9151ee0193350d3393679a | 2026-06-29T23:27:09+05:30 | feat: restructure email page by categorizing cards and the chart via sections
