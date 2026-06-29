@@ -777,3 +777,4 @@ ab9e6f3ff72c1c52ffb42c39622923336d5c9af7 | 2026-06-29T01:45:42+05:30 | style: re
 2bc49d861302a28122cc6dc9e4ee3f8eb42ad5a8 | 2026-06-29T02:06:03+05:30 | style: set overflow hidden in the html body
 d1873c26e54b114b9b968eab2f903c40574b6dca | 2026-06-29T02:32:55+05:30 | feat: update top bar left side and dropdown button with new logo and new styles
 7b46e6ea05fce592e0f90f3edc2ddaa6ec123800 | 2026-06-29T14:14:36+05:30 | refactor: remove account overview page, and add signal overview page
+94699816fde3709c68a90ae38301b3a6df6a2b96 | 2026-06-29T14:25:21+05:30 | fix: add missing signal overview page to the sidebar
