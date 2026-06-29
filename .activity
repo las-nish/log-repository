@@ -786,3 +786,4 @@ b8512740fefcd30d0d9f30bd4e7fce8770fecbee | 2026-06-29T15:20:05+05:30 | refactor:
 61dd02715e88fe7aed712982a6b3ac028242b01d | 2026-06-29T22:57:28+05:30 | feat: create section title component
 b71519f0cab399454a9151ee0193350d3393679a | 2026-06-29T23:27:09+05:30 | feat: restructure email page by categorizing cards and the chart via sections
 6f9aa89a5aebabd0eefc3f33ceed0136a27526ab | 2026-06-29T23:40:15+05:30 | refactor: remove invalid cross copy icon
+d9e5a48cc3947ffa3110b7e50b238d88c59b3446 | 2026-06-30T00:47:28+05:30 | refactor: remove optional fields and add undefined types
