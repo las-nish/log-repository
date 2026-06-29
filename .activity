@@ -781,3 +781,4 @@ d1873c26e54b114b9b968eab2f903c40574b6dca | 2026-06-29T02:32:55+05:30 | feat: upd
 4fb1175d9a6f33da1d7951481dc2bbd3560c1118 | 2026-06-29T14:35:36+05:30 | refactor: change intelligence signals page into email signals
 6bc416f915256b9d111e3ba4aac6a15c2f2cec4c | 2026-06-29T15:17:59+05:30 | refactor: remove email, and domain analytics icons
 b8512740fefcd30d0d9f30bd4e7fce8770fecbee | 2026-06-29T15:20:05+05:30 | refactor: change signal overview into signal explorer
+74561e1eaf3c5573642fe5ad9d08d18d2dc406dd | 2026-06-29T19:37:59+05:30 | feat: create action list component
