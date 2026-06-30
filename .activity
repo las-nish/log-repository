@@ -811,3 +811,4 @@ c83854ca177bb976a780a5d450f630759945a8b3 | 2026-06-30T22:23:58+05:30 | feat: add
 ec1d31f3fad74a968fe122efa834f059b466c766 | 2026-07-01T00:25:48+05:30 | feat: update date range picker range set API to select the preset is possible
 c2768d4da9178524a615ce568adfa235783b0dd4 | 2026-07-01T00:26:07+05:30 | feat: set date range picker selection to local storage
 9923138d11805f809acf7136f340994be69b98b2 | 2026-07-01T00:30:08+05:30 | feat: create a single variable to store local storage keys
+348792af62b90ad89b321ca614ff43f51b1fa9b9 | 2026-07-01T00:31:23+05:30 | fix: set 7-day preset as the default preset
