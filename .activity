@@ -806,3 +806,4 @@ f57ef6d19d45dc2a0df32d0545e127977fca2fd1 | 2026-06-30T19:46:42+05:30 | feat: imp
 fc6c676c80b9e3c2cae4cd635a124bbfe1b8df9b | 2026-06-30T22:23:27+05:30 | feat: optimize row component to match the parent query instead of the web-view query, and add min width option for items
 6dc597c9c13ef52a786bb16663f1fa13265738c2 | 2026-06-30T22:23:43+05:30 | style: update title styling
 c83854ca177bb976a780a5d450f630759945a8b3 | 2026-06-30T22:23:58+05:30 | feat: add item width options for rows
+5c763ccdad3d39bc8131441f6970b6c74572be71 | 2026-06-30T22:25:59+05:30 | style: fix analytics card title justify content issue
