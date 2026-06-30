@@ -820,3 +820,4 @@ a1ef991aaca47c0b7f4cc1bb1e3e52cf9663388d | 2026-07-01T02:01:38+05:30 | feat: add
 8ef9f4bae3c88ae70d59fdb6ee08a243050d7a42 | 2026-07-01T02:05:40+05:30 | feat: add minimal default policy structure for new projects
 2f870d8de108205565e992ad998d82dad605cdc7 | 2026-07-01T02:13:31+05:30 | fix: set placeholder in charts with no data
 fee05a46ccf01781760d26a8335d09d760ff81e6 | 2026-07-01T02:50:21+05:30 | fix: add account code resolve function to check and get account code from both JWT/X-API-KEY
+e73c21788e002f6c5e4af4a1913eb1ea7d74c10b | 2026-07-01T02:53:47+05:30 | refactor: optimize error message initialization function
