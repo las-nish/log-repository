@@ -818,3 +818,4 @@ d5b5d6a19867408917d9266c134939546f6d67ae | 2026-07-01T01:52:40+05:30 | fix: fix 
 a1ef991aaca47c0b7f4cc1bb1e3e52cf9663388d | 2026-07-01T02:01:38+05:30 | feat: add input inline button disable status changing API function
 89f25fbcf077c74527978a1cfe2c1ba0e9f3f877 | 2026-07-01T02:02:01+05:30 | feat: update inline button disable status change in the access token value input component
 8ef9f4bae3c88ae70d59fdb6ee08a243050d7a42 | 2026-07-01T02:05:40+05:30 | feat: add minimal default policy structure for new projects
+2f870d8de108205565e992ad998d82dad605cdc7 | 2026-07-01T02:13:31+05:30 | fix: set placeholder in charts with no data
