@@ -808,3 +808,4 @@ fc6c676c80b9e3c2cae4cd635a124bbfe1b8df9b | 2026-06-30T22:23:27+05:30 | feat: opt
 c83854ca177bb976a780a5d450f630759945a8b3 | 2026-06-30T22:23:58+05:30 | feat: add item width options for rows
 5c763ccdad3d39bc8131441f6970b6c74572be71 | 2026-06-30T22:25:59+05:30 | style: fix analytics card title justify content issue
 9cc273b2960b409f9a8a33e544e71cb2731e98f8 | 2026-06-30T22:34:04+05:30 | fix: add missing `TReturnRow` to the export
+ec1d31f3fad74a968fe122efa834f059b466c766 | 2026-07-01T00:25:48+05:30 | feat: update date range picker range set API to select the preset is possible
