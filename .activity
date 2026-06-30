@@ -812,3 +812,4 @@ ec1d31f3fad74a968fe122efa834f059b466c766 | 2026-07-01T00:25:48+05:30 | feat: upd
 c2768d4da9178524a615ce568adfa235783b0dd4 | 2026-07-01T00:26:07+05:30 | feat: set date range picker selection to local storage
 9923138d11805f809acf7136f340994be69b98b2 | 2026-07-01T00:30:08+05:30 | feat: create a single variable to store local storage keys
 348792af62b90ad89b321ca614ff43f51b1fa9b9 | 2026-07-01T00:31:23+05:30 | fix: set 7-day preset as the default preset
+16081ba8d0f6c40ba280c73705c7786d578632f2 | 2026-07-01T01:38:18+05:30 | chore: add indexed-db internal package
