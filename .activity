@@ -796,3 +796,4 @@ fa91a716491ef9a6ec46085fe9b38c7b0b07377a | 2026-06-30T02:49:30+05:30 | style: fi
 174942e9df0c4978b04e0f0d2979ace6eb1a94ae | 2026-06-30T02:55:48+05:30 | feat: create `getCSSVar` utility function
 453720c332e2b42607b37d3cf2025d5fddefa675 | 2026-06-30T02:56:00+05:30 | feat: create variable convertion utility functions
 f095bafa6cd128089022d9853c3badd22658c2ef | 2026-06-30T02:56:17+05:30 | feat: update file to use re-usable utils
+00378912ce51cad428ce3196a9ba182f44794ad6 | 2026-06-30T19:42:53+05:30 | feat: create subscription plan retrieve db function
