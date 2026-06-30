@@ -813,3 +813,4 @@ c2768d4da9178524a615ce568adfa235783b0dd4 | 2026-07-01T00:26:07+05:30 | feat: set
 9923138d11805f809acf7136f340994be69b98b2 | 2026-07-01T00:30:08+05:30 | feat: create a single variable to store local storage keys
 348792af62b90ad89b321ca614ff43f51b1fa9b9 | 2026-07-01T00:31:23+05:30 | fix: set 7-day preset as the default preset
 16081ba8d0f6c40ba280c73705c7786d578632f2 | 2026-07-01T01:38:18+05:30 | chore: add indexed-db internal package
+d5b5d6a19867408917d9266c134939546f6d67ae | 2026-07-01T01:52:40+05:30 | fix: fix placeholder not showing issue when updating data via date range picker
