@@ -803,3 +803,4 @@ cc4b0be0e159884ffaea1be8973731bb61dc628b | 2026-06-30T19:44:46+05:30 | refactor:
 f57ef6d19d45dc2a0df32d0545e127977fca2fd1 | 2026-06-30T19:46:42+05:30 | feat: implement API usage page
 63048fd2faa2ca8dc0673cc300379a992493f768 | 2026-06-30T21:31:20+05:30 | fix: fix placeholder automatically set
 0400b165d4673abc91a650975fb37137edb745fa | 2026-06-30T21:31:29+05:30 | feat: update loading behaviour
+fc6c676c80b9e3c2cae4cd635a124bbfe1b8df9b | 2026-06-30T22:23:27+05:30 | feat: optimize row component to match the parent query instead of the web-view query, and add min width option for items
