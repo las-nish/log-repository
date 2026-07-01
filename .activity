@@ -828,3 +828,4 @@ e7e22c9a96478b06c73707be6c80e3afd99865bd | 2026-07-01T03:43:12+05:30 | feat: dis
 f736ef592f8e4e9029d58c2dab329dac4b2c9853 | 2026-07-01T12:57:20+05:30 | fix: add missing delay
 6dc207582c38fa743851951b21b2c533ff12407a | 2026-07-01T22:14:27+05:30 | refactor: remove field position codemirrror utility function
 12e191a62b516e8aa2fad0f5125f46a2e84702e3 | 2026-07-01T22:14:54+05:30 | refactor: remove unnecessary `formatOperator`
+868de79e60991d3fa126939b4cea616689f0a48f | 2026-07-01T22:15:42+05:30 | feat: add `getState()` API functoin and set editor view to undefined instead of null
