@@ -836,3 +836,4 @@ faf69aeda40376ef295cc329068bc71927c71291 | 2026-07-02T00:38:15+05:30 | feat: add
 625f1c2fd7e532db343324296bb5224875212197 | 2026-06-27T11:19:14+05:30 | docs: add gatekeeper proxy docs
 5c7e9cbb13f7ba2b9aa1946445c2c2be6cf7f46c | 2026-07-02T00:05:34+05:30 | docs: add policy rules documentation
 460531831d426da887bbaa4ebe5494cd285c5dc3 | 2026-07-02T00:28:06+05:30 | docs: add email neumeric field limitations
+dbbf10f823ac039fbade62846643b720819dff0a | 2026-07-02T00:30:19+05:30 | fix: fix invalid content
