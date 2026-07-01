@@ -826,3 +826,4 @@ c7f44ae67c99f33e4b073543cebc17352c879f12 | 2026-07-01T03:12:13+05:30 | fix: fix 
 4bb1c9e2830c90ca508b1d10fefe08cbaeac99dc | 2026-07-01T03:36:21+05:30 | style: fix toast left alignment issue
 e7e22c9a96478b06c73707be6c80e3afd99865bd | 2026-07-01T03:43:12+05:30 | feat: disable account email address update feature (for MVP)
 f736ef592f8e4e9029d58c2dab329dac4b2c9853 | 2026-07-01T12:57:20+05:30 | fix: add missing delay
+6dc207582c38fa743851951b21b2c533ff12407a | 2026-07-01T22:14:27+05:30 | refactor: remove field position codemirrror utility function
