@@ -838,3 +838,4 @@ faf69aeda40376ef295cc329068bc71927c71291 | 2026-07-02T00:38:15+05:30 | feat: add
 460531831d426da887bbaa4ebe5494cd285c5dc3 | 2026-07-02T00:28:06+05:30 | docs: add email neumeric field limitations
 dbbf10f823ac039fbade62846643b720819dff0a | 2026-07-02T00:30:19+05:30 | fix: fix invalid content
 102c647100f7b79775ade0b8ac57aff4ab45f9b8 | 2026-07-02T00:40:01+05:30 | fix: fix invalid content
+018bd00ce548e64cfe36ea8c6b66c3d7c3cdcc29 | 2026-07-02T00:50:40+05:30 | style: fix policy editor height issue
