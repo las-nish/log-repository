@@ -843,3 +843,4 @@ dbbf10f823ac039fbade62846643b720819dff0a | 2026-07-02T00:30:19+05:30 | fix: fix 
 c6e3a8fbe16fc94f73c51678eedc097043686179 | 2026-07-02T01:05:36+05:30 | style: update policy editor height
 20bef64ef886fccbf24c8fc3c71545ebf834b0ae | 2026-07-02T02:06:12+05:30 | docs: add debug comment
 e5ae2cc1fe886123959f0ae420462099b47e2fa8 | 2026-07-02T02:07:06+05:30 | fix: fix fucking CPU spike error
+2d5c8ee607680f7fb08b2da0cbd5d553dc16bd73 | 2026-07-02T02:37:51+05:30 | refactor: remove action button
