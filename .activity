@@ -857,3 +857,4 @@ c3288bd500dd41570bd7dc878305bf81b63bdd53 | 2026-07-02T12:17:11+05:30 | refactor:
 a0c7258a02fa0926a8feb4ccf35678a4210f3835 | 2026-07-02T14:32:29+05:30 | feat: implement email analytics table
 4c86938b15fe477c9be04013fded2521dcd12733 | 2026-07-02T14:38:27+05:30 | fix: fix pagination not showing issue
 dec9655a75cb531eb5df1a583dbc1e2f1dd8f49f | 2026-07-02T14:41:58+05:30 | style: fix disable icon color issue
+b2c06de4e62147a413effae68d020096f0fa5add | 2026-07-02T14:44:00+05:30 | fixL fix panel toggle icon position in top bar
