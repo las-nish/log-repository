@@ -863,3 +863,4 @@ eba85f15982ba490cb713c84c61ffceb4ee32c9f | 2026-07-03T03:21:54+05:30 | feat: add
 69cb24721645fe6ae6e6c165ebd8d0787b0f5d7e | 2026-07-03T03:22:31+05:30 | feat: update `goBack()` function to support preferred path
 71ad5c1ba41110a8553fc5fa96288afd35c360d1 | 2026-07-03T03:24:09+05:30 | feat: update UI relted (known) issues, and stylings
 2ef10477f2fe4299c5644eab72df60fe03978c11 | 2026-07-03T03:33:26+05:30 | fix: fix project selector divider showing issue
+20aca0db68178a717bd8f392e3ec3824536d0b33 | 2026-07-03T03:33:37+05:30 | refactor: remove left button
