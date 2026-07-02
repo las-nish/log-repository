@@ -865,3 +865,4 @@ eba85f15982ba490cb713c84c61ffceb4ee32c9f | 2026-07-03T03:21:54+05:30 | feat: add
 2ef10477f2fe4299c5644eab72df60fe03978c11 | 2026-07-03T03:33:26+05:30 | fix: fix project selector divider showing issue
 20aca0db68178a717bd8f392e3ec3824536d0b33 | 2026-07-03T03:33:37+05:30 | refactor: remove left button
 4a38c6912094cc32f4b4144127af39b62e94c631 | 2026-07-03T03:35:05+05:30 | feat: move back button before the side bar toggle button
+57947d0728ff614ede44b7f0e6571914efdf3b32 | 2026-07-03T03:43:48+05:30 | feat: add unknown property warning to the policy validation
