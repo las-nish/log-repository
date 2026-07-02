@@ -851,3 +851,4 @@ a70b6f915bb849d71d8bb555ae3c4e49e97c51e8 | 2026-07-02T12:10:54+05:30 | chore: ad
 5e0aae229ba466a8a5cd6ab7677de83e751da7c0 | 2026-07-02T12:11:30+05:30 | fix: fix id typecasting
 adb67f6857f4c7c045de43429fc7015469ec369b | 2026-07-02T12:15:11+05:30 | feat: update project notie language keys
 d50f7b58c314f0786b7ef2bc7922a846ad8bdf3d | 2026-07-02T12:15:34+05:30 | feat: disable member management feature via feature flag
+e23fb901e74a94fd6df1bff99ed57243137da8b9 | 2026-07-02T12:16:43+05:30 | fix: fix response structure
