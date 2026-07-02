@@ -861,3 +861,4 @@ b2c06de4e62147a413effae68d020096f0fa5add | 2026-07-02T14:44:00+05:30 | fixL fix 
 eba85f15982ba490cb713c84c61ffceb4ee32c9f | 2026-07-03T03:21:54+05:30 | feat: add query param const file
 1cad66e4da9fcaae9be3dc0b9ed5b1a2d3089d7e | 2026-07-03T03:22:07+05:30 | feat: update default gray scale color
 69cb24721645fe6ae6e6c165ebd8d0787b0f5d7e | 2026-07-03T03:22:31+05:30 | feat: update `goBack()` function to support preferred path
+71ad5c1ba41110a8553fc5fa96288afd35c360d1 | 2026-07-03T03:24:09+05:30 | feat: update UI relted (known) issues, and stylings
