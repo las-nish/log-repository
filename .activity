@@ -859,3 +859,4 @@ a0c7258a02fa0926a8feb4ccf35678a4210f3835 | 2026-07-02T14:32:29+05:30 | feat: imp
 dec9655a75cb531eb5df1a583dbc1e2f1dd8f49f | 2026-07-02T14:41:58+05:30 | style: fix disable icon color issue
 b2c06de4e62147a413effae68d020096f0fa5add | 2026-07-02T14:44:00+05:30 | fixL fix panel toggle icon position in top bar
 eba85f15982ba490cb713c84c61ffceb4ee32c9f | 2026-07-03T03:21:54+05:30 | feat: add query param const file
+1cad66e4da9fcaae9be3dc0b9ed5b1a2d3089d7e | 2026-07-03T03:22:07+05:30 | feat: update default gray scale color
