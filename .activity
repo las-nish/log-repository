@@ -867,3 +867,4 @@ eba85f15982ba490cb713c84c61ffceb4ee32c9f | 2026-07-03T03:21:54+05:30 | feat: add
 4a38c6912094cc32f4b4144127af39b62e94c631 | 2026-07-03T03:35:05+05:30 | feat: move back button before the side bar toggle button
 57947d0728ff614ede44b7f0e6571914efdf3b32 | 2026-07-03T03:43:48+05:30 | feat: add unknown property warning to the policy validation
 88fece824381851fcfbe08d6768edecb3033a02a | 2026-07-03T12:33:19+05:30 | fix: fix sandbox project page redirection issue when overview API not working
+8a6a061751c75046680bdb44696d13578010df66 | 2026-07-03T13:15:18+05:30 | feat: add default project loading flow instead of always loading the first project of the list
