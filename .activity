@@ -872,3 +872,4 @@ d84c907722c166046f13ecdc25d4f72d65f20ca5 | 2026-07-03T13:29:51+05:30 | feat: upd
 4e3670e05134f1687f372203fac8bd76e702d8b3 | 2026-07-03T14:24:16+05:30 | fix: fix int64 typecasting error
 d7c550ec7d6f3f9fcf4dd79f37b626f34311ca52 | 2026-07-03T14:24:52+05:30 | feat: add custom types for mem stores
 08b08fa6e9dfbe6dd81db24a108b44416d79c86c | 2026-07-03T14:46:01+05:30 | feat: update intelligence API plan limitations
+ec16ca143c79ab0e2e8a8f191436d9d20c7d89c5 | 2026-07-03T15:21:24+05:30 | refactor: remove unused memory field from eval context
