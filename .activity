@@ -874,3 +874,4 @@ d7c550ec7d6f3f9fcf4dd79f37b626f34311ca52 | 2026-07-03T14:24:52+05:30 | feat: add
 08b08fa6e9dfbe6dd81db24a108b44416d79c86c | 2026-07-03T14:46:01+05:30 | feat: update intelligence API plan limitations
 ec16ca143c79ab0e2e8a8f191436d9d20c7d89c5 | 2026-07-03T15:21:24+05:30 | refactor: remove unused memory field from eval context
 2e15732039683c8502ac0dc4a226065822d82185 | 2026-07-03T16:49:25+05:30 | feat: update email results process to store output data as a JSON in the table, instead of raw results
+c0e0698524bc84ae8fdd0df7cb9d88da5cf877d6 | 2026-07-03T18:43:11+05:30 | feat: update email volume table structure and frontend cards
