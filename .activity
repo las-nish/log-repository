@@ -880,3 +880,4 @@ dbd5dcfdedae42ce2bfc5a1e49fca1e95e945bd6 | 2026-07-03T23:08:32+05:30 | docs: upd
 670b833db138a7682884dc7a3312bc7ba7bb380a | 2026-07-03T22:39:47+05:30 | feat: add local mixed script part and rename subdomain to local
 88efaa5027ed3c5ee9c3415c6d6ea39730ad24e0 | 2026-07-03T22:44:55+05:30 | refactor: fix naming issues on fraud pattern, and punycode detection
 8ada9479236db8fbae3aa620a92482524c32c713 | 2026-07-03T22:48:36+05:30 | refactor: changing namind in email deliverability, and domain website checking
+3c1811f73bacc44bafd8194c067276e095bd5a8b | 2026-07-03T23:05:43+05:30 | refactor: update following naming:
