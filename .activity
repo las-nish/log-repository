@@ -871,3 +871,4 @@ eba85f15982ba490cb713c84c61ffceb4ee32c9f | 2026-07-03T03:21:54+05:30 | feat: add
 d84c907722c166046f13ecdc25d4f72d65f20ca5 | 2026-07-03T13:29:51+05:30 | feat: update project creation form and page layour structure
 4e3670e05134f1687f372203fac8bd76e702d8b3 | 2026-07-03T14:24:16+05:30 | fix: fix int64 typecasting error
 d7c550ec7d6f3f9fcf4dd79f37b626f34311ca52 | 2026-07-03T14:24:52+05:30 | feat: add custom types for mem stores
+08b08fa6e9dfbe6dd81db24a108b44416d79c86c | 2026-07-03T14:46:01+05:30 | feat: update intelligence API plan limitations
