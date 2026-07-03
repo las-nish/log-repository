@@ -877,3 +877,4 @@ ec16ca143c79ab0e2e8a8f191436d9d20c7d89c5 | 2026-07-03T15:21:24+05:30 | refactor:
 c0e0698524bc84ae8fdd0df7cb9d88da5cf877d6 | 2026-07-03T18:43:11+05:30 | feat: update email volume table structure and frontend cards
 94b6e2bccc5b915da6147285c09e2ce4f53652e3 | 2026-07-03T22:25:32+05:30 | feat: add fraud pattern part and punycode domain part to the output
 dbd5dcfdedae42ce2bfc5a1e49fca1e95e945bd6 | 2026-07-03T23:08:32+05:30 | docs: update changed email boolean fields to new ones
+670b833db138a7682884dc7a3312bc7ba7bb380a | 2026-07-03T22:39:47+05:30 | feat: add local mixed script part and rename subdomain to local
