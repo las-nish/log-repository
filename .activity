@@ -883,3 +883,4 @@ dbd5dcfdedae42ce2bfc5a1e49fca1e95e945bd6 | 2026-07-03T23:08:32+05:30 | docs: upd
 3c1811f73bacc44bafd8194c067276e095bd5a8b | 2026-07-03T23:05:43+05:30 | refactor: update following naming:
 8e6632bd8ccaa9a78f804be93b1107f7bacc7eaf | 2026-07-03T23:14:27+05:30 | feat: add mixed script to the email signals page
 810704f8a449c07fc24ab7e265f18f4b4f66b88d | 2026-07-03T23:17:23+05:30 | refactor: remove `containLabel` from chart
+6653cbbf32e7e569834843f53bc88b2a91f04bb0 | 2026-07-04T12:22:42+05:30 | feat: implement core of the IP-based validation
