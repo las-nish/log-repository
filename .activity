@@ -887,3 +887,4 @@ dbd5dcfdedae42ce2bfc5a1e49fca1e95e945bd6 | 2026-07-03T23:08:32+05:30 | docs: upd
 2b7f2e0d9756ed2120ac526f92d2cf948d8b0fe0 | 2026-07-04T12:25:38+05:30 | fix: fix ipv6 datalist check error
 048563b55de2d76e3d390a20e426f68c5cfe63ab | 2026-07-04T12:36:06+05:30 | chore: add .gitkeep
 b08adac99ea14420941853919813371c0837b752 | 2026-07-04T14:58:19+05:30 | refactor: restructure dataceneter IPs into a single file instead of multiple files
+381073f5254a2f9d1e02e77c1b0581f83876d366 | 2026-07-04T19:35:42+05:30 | feat: add favicons
