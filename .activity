@@ -888,3 +888,4 @@ dbd5dcfdedae42ce2bfc5a1e49fca1e95e945bd6 | 2026-07-03T23:08:32+05:30 | docs: upd
 048563b55de2d76e3d390a20e426f68c5cfe63ab | 2026-07-04T12:36:06+05:30 | chore: add .gitkeep
 b08adac99ea14420941853919813371c0837b752 | 2026-07-04T14:58:19+05:30 | refactor: restructure dataceneter IPs into a single file instead of multiple files
 381073f5254a2f9d1e02e77c1b0581f83876d366 | 2026-07-04T19:35:42+05:30 | feat: add favicons
+98bfc2a1354a90def1cbbf41a19044bcd76af3de | 2026-07-04T19:42:24+05:30 | chore: fix `start:sign-up-verification` script path
