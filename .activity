@@ -890,3 +890,4 @@ b08adac99ea14420941853919813371c0837b752 | 2026-07-04T14:58:19+05:30 | refactor:
 381073f5254a2f9d1e02e77c1b0581f83876d366 | 2026-07-04T19:35:42+05:30 | feat: add favicons
 98bfc2a1354a90def1cbbf41a19044bcd76af3de | 2026-07-04T19:42:24+05:30 | chore: fix `start:sign-up-verification` script path
 1373bfc3682379d5cbeec805f2684f75bf505af3 | 2026-07-04T19:45:12+05:30 | chore: isn't her sexy?
+7006a4770290701d9bb3faac98d99228faa9cfa7 | 2026-07-05T20:45:05+05:30 | refactor: remove unnecessary fields from the api response
