@@ -892,3 +892,4 @@ b08adac99ea14420941853919813371c0837b752 | 2026-07-04T14:58:19+05:30 | refactor:
 1373bfc3682379d5cbeec805f2684f75bf505af3 | 2026-07-04T19:45:12+05:30 | chore: isn't her sexy?
 7006a4770290701d9bb3faac98d99228faa9cfa7 | 2026-07-05T20:45:05+05:30 | refactor: remove unnecessary fields from the api response
 59648554b0c14cde2e2fa8422f7d541d9f98c1d8 | 2026-07-05T20:52:13+05:30 | refactor: remove unnecessay data
+9cf73d9de60956eada323770b816e986a236c307 | 2026-07-05T21:17:26+05:30 | Merge branch 'las-nish/implement-frontend' into 'main'
