@@ -896,3 +896,4 @@ b08adac99ea14420941853919813371c0837b752 | 2026-07-04T14:58:19+05:30 | refactor:
 9de6de891dcdee7c310e00cbd93e0a64c54da791 | 2026-07-06T18:37:30+05:30 | chore: create wrangler.jsonc
 7489dd5d9c3d3289644a4546bafa7df505ef19e7 | 2026-07-06T18:38:15+05:30 | chore: update .gitignore
 d871acf7e6a628acd3e887ec6e66c45b7186799b | 2026-07-06T18:39:05+05:30 | chore: create .minify.json
+e52b7c38e04af639b8cab198039e7916ef2fe7fd | 2026-07-06T18:41:34+05:30 | chore: add biome configs
