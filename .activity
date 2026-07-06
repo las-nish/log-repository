@@ -900,3 +900,4 @@ e52b7c38e04af639b8cab198039e7916ef2fe7fd | 2026-07-06T18:41:34+05:30 | chore: ad
 262bad0eab066d29e042bdee2e4b45f46a4f202b | 2026-07-06T18:42:28+05:30 | chore: create postcss.config.js
 c64e564b5301085eba19925e3e325703286efc6a | 2026-07-06T18:46:06+05:30 | chore: create package.json
 5c297c2f4117e6444538f9588815a5ac9cf22335 | 2026-07-06T19:25:47+05:30 | chore: update .gitignore
+e9f87183cf3ae9bca16e1c53aed67e111b7a2df1 | 2026-07-06T20:10:18+05:30 | feat: add `pages` directory support
