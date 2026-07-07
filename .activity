@@ -917,3 +917,4 @@ d8ffd68af83eb48a544dcc083f3597aac6a22dd5 | 2026-07-06T20:51:31+05:30 | chore: cr
 776b5d4efe1fc84fda921bcb5d7648cf0980d5b9 | 2026-07-07T20:38:25+05:30 | feat: add metatags
 9b5df6553ee69498109e5ec97b047855a8feb85a | 2026-07-07T20:39:49+05:30 | style: add hover effect classes
 755a934a075a278c096b0e524ffa673acfdf4d94 | 2026-07-07T20:40:04+05:30 | style: add common layout stylings
+b6c38ffa6f5acbb2cbed563456b02af9644a2fc5 | 2026-07-07T20:41:04+05:30 | feat: create navigation component
