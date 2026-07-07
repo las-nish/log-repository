@@ -908,3 +908,4 @@ ea8b9cc2cd423743bf7e81d9904e124cf60027fa | 2026-07-06T20:11:04+05:30 | chore: cr
 ead985ed355f9b175fdd5c636850a3bf62a25df4 | 2026-07-06T20:28:18+05:30 | chore: remove unnecessary imports
 d8ffd68af83eb48a544dcc083f3597aac6a22dd5 | 2026-07-06T20:51:31+05:30 | chore: create README
 3e9145139e9c8284cf437a1306e2bc3cb39ff3ef | 2026-07-07T16:26:37+05:30 | docs: update server running check API information
+09ad29e828ef62554f3cfc29cc3a6f8d293ee2a4 | 2026-07-07T16:30:06+05:30 | refactor: update public health API parent directory and moved to public routes
