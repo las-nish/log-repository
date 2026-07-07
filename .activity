@@ -922,3 +922,4 @@ b6c38ffa6f5acbb2cbed563456b02af9644a2fc5 | 2026-07-07T20:41:04+05:30 | feat: cre
 f864cd0af668f8558c64f84edaa71f6a255e83aa | 2026-07-07T20:41:23+05:30 | style: create theme.css
 5fea1621ebec65488e004db840a24067588eb9bc | 2026-07-07T20:41:30+05:30 | feat: create theme.js
 2146602f5c56ffb24ebafe943133c843e66a84fb | 2026-07-07T20:41:36+05:30 | feat: add legal pages
+b503a1b7759e4c950da5aecaa68d07532186472a | 2026-07-07T20:45:41+05:30 | feat: add alert, footnote, and deflist support to markdown
