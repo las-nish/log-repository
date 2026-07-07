@@ -919,3 +919,4 @@ d8ffd68af83eb48a544dcc083f3597aac6a22dd5 | 2026-07-06T20:51:31+05:30 | chore: cr
 755a934a075a278c096b0e524ffa673acfdf4d94 | 2026-07-07T20:40:04+05:30 | style: add common layout stylings
 b6c38ffa6f5acbb2cbed563456b02af9644a2fc5 | 2026-07-07T20:41:04+05:30 | feat: create navigation component
 90883cb5c9a807d57ef21eb2054dd0671d488c4d | 2026-07-07T20:41:14+05:30 | feat: create legal component
+f864cd0af668f8558c64f84edaa71f6a255e83aa | 2026-07-07T20:41:23+05:30 | style: create theme.css
