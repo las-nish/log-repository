@@ -934,3 +934,4 @@ e2ba7426d95b98bbbc692064bbef3d0ffcd347c2 | 2026-07-08T23:04:39+05:30 | refactor:
 5985df60a0b075e3f9cc25fd1eed161df47f2c98 | 2026-07-09T00:34:03+05:30 | feat: create navbar component
 88efcac8e330e0e7754ef8f856ee8fe50c9b7ea2 | 2026-07-09T00:34:38+05:30 | style: create theme.css
 0694e6d408a10018ba5cdd5b446c3ddc3bbcc5cb | 2026-07-09T00:51:17+05:30 | fix: fix navbar and footer styling
+d6733d223d46ce556c19b21cbf585e4847ca367c | 2026-07-09T00:51:26+05:30 | style: add common layotu css
