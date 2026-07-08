@@ -937,3 +937,4 @@ e2ba7426d95b98bbbc692064bbef3d0ffcd347c2 | 2026-07-08T23:04:39+05:30 | refactor:
 d6733d223d46ce556c19b21cbf585e4847ca367c | 2026-07-09T00:51:26+05:30 | style: add common layotu css
 89121d6c3b092eaab4550ad46b3b7aae388faef0 | 2026-07-09T01:15:52+05:30 | style: add markdown styles
 462676f6bed908c397081d7194a9307deb1dc925 | 2026-07-09T01:16:06+05:30 | fix: fix contaainer styling
+75c6e62321b5d80298f9ca22c3b248ad28ee1adb | 2026-07-09T01:33:15+05:30 | fix: fix layout
