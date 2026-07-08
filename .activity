@@ -944,3 +944,4 @@ ebee1496a20d297a3886a74a6907875c5844db04 | 2026-07-09T01:33:30+05:30 | style: ad
 f246c6bacbb0146581f7aa515cb45b1f8b2ecdcf | 2026-07-09T01:50:24+05:30 | style: update markdown element gaps
 946864e1a251889f791ce16a0a4baf4ef1b6fb23 | 2026-07-09T01:55:20+05:30 | feat: update legal markdown files with no numbers in headings
 1f918947c335222cba9b25678cb828c256d2005c | 2026-07-09T01:55:29+05:30 | style: set sans font in alerts
+a78231fbb84f518cbda1b2bc8ced41cc1f396814 | 2026-07-09T01:58:08+05:30 | feat: add links to the navigation bar
