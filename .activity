@@ -943,3 +943,4 @@ ebee1496a20d297a3886a74a6907875c5844db04 | 2026-07-09T01:33:30+05:30 | style: ad
 697db1192e3e23597f2fcad0a527dce12bd88ae2 | 2026-07-09T01:50:12+05:30 | feat: add markdown image overaly
 f246c6bacbb0146581f7aa515cb45b1f8b2ecdcf | 2026-07-09T01:50:24+05:30 | style: update markdown element gaps
 946864e1a251889f791ce16a0a4baf4ef1b6fb23 | 2026-07-09T01:55:20+05:30 | feat: update legal markdown files with no numbers in headings
+1f918947c335222cba9b25678cb828c256d2005c | 2026-07-09T01:55:29+05:30 | style: set sans font in alerts
