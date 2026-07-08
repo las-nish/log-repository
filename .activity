@@ -926,3 +926,4 @@ b503a1b7759e4c950da5aecaa68d07532186472a | 2026-07-07T20:45:41+05:30 | feat: add
 a947739b2e15161177b187ada070aff903f4a274 | 2026-07-07T21:02:06+05:30 | style: fix markdown padding
 617664be1518dd4b47536847e807102c39578adf | 2026-07-07T21:31:57+05:30 | feat: add legal links to the footer
 3d91587336316d2ed7094782064e64928fa86610 | 2026-07-08T21:48:03+05:30 | refactor: remove current component, css, and js codes
+e2ba7426d95b98bbbc692064bbef3d0ffcd347c2 | 2026-07-08T23:04:39+05:30 | refactor: update fonts
