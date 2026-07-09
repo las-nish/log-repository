@@ -955,3 +955,4 @@ d0b40b6b1ca33c38e74029d9a104570789055f99 | 2026-07-09T16:41:25+05:30 | feat: add
 2e47f99c4b26f3f56569a46801205397de0980b1 | 2026-07-09T16:46:54+05:30 | style: fix table styling and details icon styles
 3b546c3b295ccb9072b592dce1053957b105a9e0 | 2026-07-09T16:49:02+05:30 | refactor: format markdown file content, and update yaml heading
 2675022b3955aad46d832b4a1fd571182775fbcc | 2026-07-09T19:29:13+05:30 | feat: add basic index page
+1d0820fa356dd0e0e49bf69dac4184297b57b1e0 | 2026-07-09T21:37:23+05:30 | feat: create documentation layout and structure
