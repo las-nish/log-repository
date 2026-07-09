@@ -957,3 +957,4 @@ d0b40b6b1ca33c38e74029d9a104570789055f99 | 2026-07-09T16:41:25+05:30 | feat: add
 2675022b3955aad46d832b4a1fd571182775fbcc | 2026-07-09T19:29:13+05:30 | feat: add basic index page
 1d0820fa356dd0e0e49bf69dac4184297b57b1e0 | 2026-07-09T21:37:23+05:30 | feat: create documentation layout and structure
 28565b29dc36cd6209248b2c00ada47216db4ec7 | 2026-07-09T21:39:39+05:30 | refactor: update eleventy config file names
+22cc98092f12e5e55f6acced3fc282ff3af5c9b4 | 2026-07-09T21:42:18+05:30 | style: fix text color
