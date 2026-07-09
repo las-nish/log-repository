@@ -959,3 +959,4 @@ d0b40b6b1ca33c38e74029d9a104570789055f99 | 2026-07-09T16:41:25+05:30 | feat: add
 28565b29dc36cd6209248b2c00ada47216db4ec7 | 2026-07-09T21:39:39+05:30 | refactor: update eleventy config file names
 22cc98092f12e5e55f6acced3fc282ff3af5c9b4 | 2026-07-09T21:42:18+05:30 | style: fix text color
 8fd181bba8140cc4af23a4cb68e1eb10990932af | 2026-07-09T21:45:46+05:30 | style: update nav link active font weight
+68775de903df81d3f20d65b8f53daf8d2e31f113 | 2026-07-09T21:49:17+05:30 | fix: fix docs link
