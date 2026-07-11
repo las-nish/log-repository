@@ -1002,3 +1002,4 @@ db29e3aa23d41711fcc140552f41108e5ec86760 | 2026-07-11T17:53:47+05:30 | feat: int
 a1969937a3f8d9db424a5f3e20d190625ed7039a | 2026-07-11T18:31:26+05:30 | feat: update biome to `2.5.3`
 ab066a54a5e5438996cd8c90eb95575e89461cfb | 2026-07-12T00:21:31+05:30 | chore: fix plwywright show report cmd
 b044c3e690813713118711f22751fef983031537 | 2026-07-12T00:22:07+05:30 | fix: fix structure checking to match the frontend validator
+2de69f5b7f7d45e57da838da0a91a43d3329beb3 | 2026-07-12T00:23:10+05:30 | fix: fix string nil checking
