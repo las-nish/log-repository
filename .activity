@@ -1004,3 +1004,4 @@ ab066a54a5e5438996cd8c90eb95575e89461cfb | 2026-07-12T00:21:31+05:30 | chore: fi
 b044c3e690813713118711f22751fef983031537 | 2026-07-12T00:22:07+05:30 | fix: fix structure checking to match the frontend validator
 2de69f5b7f7d45e57da838da0a91a43d3329beb3 | 2026-07-12T00:23:10+05:30 | fix: fix string nil checking
 97e841a1d1e961b00dea273fe2a039a8bbfa4768 | 2026-07-12T00:23:29+05:30 | feat: add policy nil result condition
+bfa6edd74558db9579bca524a40f7f58f481a125 | 2026-07-12T00:29:07+05:30 | test: add intelligence api test cases
