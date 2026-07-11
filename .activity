@@ -988,3 +988,4 @@ cd72f341907f151469794c9928d2fb0b965a5610 | 2026-07-11T17:07:40+05:30 | refactor:
 db8ef8299be005ad4aacbab4af24c9e65d17f312 | 2026-07-11T17:13:05+05:30 | feat: add rate limitation checking and intelligence api testing flags
 dd94e01a812a39da5c7fa258062855b5a6aa818d | 2026-07-11T17:13:46+05:30 | feat: add intelligence api testing cmds
 ffc6c3fe7504ae7af05e7c73f269e1e3c157afef | 2026-07-11T17:14:47+05:30 | feat: set hide log field to the searver run checking health API
+07b72164693d83fc036a16e65fbbc1a5fffdd225 | 2026-07-11T17:15:00+05:30 | fix: fix string response
