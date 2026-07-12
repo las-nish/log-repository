@@ -1018,3 +1018,4 @@ c20532a5b314929cac181b68171903e8991b1b8f | 2026-07-12T17:37:07+05:30 | docs: wri
 5b03370034b7560a2134e9ef5069c967869ab663 | 2026-07-12T01:03:55+05:30 | Merge branch 'las-nish/write-api-test-cases' into 'main'
 fe310582886e31cfe30be2a3bba378886ed93e4f | 2026-07-12T18:21:27+05:30 | feat: update intelligence api request limit
 9c5e9b35a056701c5084ce0e1c72760d37e88c5e | 2026-07-12T20:20:49+05:30 | feat: update results structure with more data
+ddd92251980ed32c54789526a83422be6f7322f7 | 2026-07-12T20:43:40+05:30 | docs: add response-related details
