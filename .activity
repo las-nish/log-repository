@@ -1008,3 +1008,4 @@ bfa6edd74558db9579bca524a40f7f58f481a125 | 2026-07-12T00:29:07+05:30 | test: add
 019d00b0f4eb053c07c616d742fa055331198ccd | 2026-07-12T00:53:16+05:30 | fix: set intelligence api testing flag default value to false
 40eb8e35f64a5fc9c4fae2111ae895631f05f447 | 2026-07-12T00:56:12+05:30 | chore: update `run:core:intelligence-testing` description
 bec527599ab59e361653306ac5e4d9bfb592b2d4 | 2026-07-12T15:22:46+05:30 | fix: update url codeblock language
+9a5be18a28c9242b749cd238d031f52a741fa2a0 | 2026-07-12T15:23:35+05:30 | style: add docs class
