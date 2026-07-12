@@ -1013,3 +1013,4 @@ dde7ec7110e28dfa057661c8a28e527af660da02 | 2026-07-12T15:23:43+05:30 | fix: fix 
 86a286a9c585860e45c212e495033d53c29489ba | 2026-07-12T15:24:03+05:30 | feat: add font, and doc setup classes for markdown
 32656ee638eba9957e0c9112cf225db86e9c4b40 | 2026-07-12T15:28:05+05:30 | docs: add getting started pages
 ee0671811e8f97cd4c97f7617822d01dd3c74dfe | 2026-07-12T15:41:41+05:30 | docs: create changelogs file
+c20532a5b314929cac181b68171903e8991b1b8f | 2026-07-12T17:37:07+05:30 | docs: write user trust api documentation partially
