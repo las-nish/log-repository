@@ -1026,3 +1026,4 @@ ff1edc65c962ec05f81ff3b9585b95de19516cbf | 2026-07-12T21:49:00+05:30 | style: se
 ea3fcf96afdba5a9aea8c5aeef7858d01981b21d | 2026-07-12T20:34:09+05:30 | Merge branch 'las-nish/improve-intelligence-api-struct' into 'main'
 03e56504b8e42cbf2a65c747279fb875e5f99efb | 2026-07-12T23:15:58+05:30 | feat: update logo size
 ab5e3bef565381ba6740432198305804c1614438 | 2026-07-12T23:16:11+05:30 | style: add borders
+c0b5892d28d476c367391522bb3b0ecec46141d9 | 2026-07-13T00:30:20+05:30 | feat: remove friction from signup invitation sending
