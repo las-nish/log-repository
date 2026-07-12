@@ -1012,3 +1012,4 @@ bec527599ab59e361653306ac5e4d9bfb592b2d4 | 2026-07-12T15:22:46+05:30 | fix: upda
 dde7ec7110e28dfa057661c8a28e527af660da02 | 2026-07-12T15:23:43+05:30 | fix: fix layout structure
 86a286a9c585860e45c212e495033d53c29489ba | 2026-07-12T15:24:03+05:30 | feat: add font, and doc setup classes for markdown
 32656ee638eba9957e0c9112cf225db86e9c4b40 | 2026-07-12T15:28:05+05:30 | docs: add getting started pages
+ee0671811e8f97cd4c97f7617822d01dd3c74dfe | 2026-07-12T15:41:41+05:30 | docs: create changelogs file
