@@ -1051,3 +1051,4 @@ c8a35d8bdac62f4ff853f2db264236a7811c5dc4 | 2026-07-14T01:36:03+05:30 | fix: fix 
 c75f77732a8239282d8ea3e27e0a36efb1c77976 | 2026-07-14T02:22:26+05:30 | fix: fix unique key error by adding unique UUID field
 f02d71bcda19d5d882cd8e33fee84a6fb9228202 | 2026-07-14T02:24:37+05:30 | fix: fix upsert count and, api count insertion error
 9162ef6ae35b842af8fb6f217274d006c5584a75 | 2026-07-14T02:24:44+05:30 | fix: fix field names
+af791f7f02b6519069051baac9f5b1d44b679846 | 2026-07-14T02:24:58+05:30 | feat: add results status error handeling
