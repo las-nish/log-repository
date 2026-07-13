@@ -1043,3 +1043,4 @@ b8b380de352761b9dd1869f336f5150a75f6302f | 2026-07-13T21:29:28+05:30 | feat: imp
 4787f68e6a0c26706c9405c5adb265a30b10defa | 2026-07-13T21:36:25+05:30 | feat: update policy editor page link
 7f944d5ab5579275f8798f11b99ff2f61102cc23 | 2026-07-13T21:54:53+05:30 | feat: remove `whout dot base` field
 9a514c9909394e38dc1d7fbc05ae0c9b60a1cac1 | 2026-07-13T21:55:00+05:30 | feat: add notice
+9b9ede8c27f75cce1a2823efdba2e91fd6f2ed70 | 2026-07-13T21:56:27+05:30 | docs: remove `without_dot_variations_base` related details
