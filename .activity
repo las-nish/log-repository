@@ -1063,3 +1063,4 @@ da72e44f13ee67c594c09825cacc454b6704926a | 2026-07-14T15:15:06+05:30 | fix: fix 
 0d568adf2842c50ba6fe5b4e36e255131a075a81 | 2026-07-14T15:43:18+05:30 | feat: optimize website checking flow
 b519e7184044e9cb08a04356467bbd82c00c7c3b | 2026-07-14T16:01:41+05:30 | feat: add response time notice
 d06910e18dcecb4edf7e05ec311445d821f7950c | 2026-07-14T16:11:19+05:30 | fix: fix free tier api count always zero issue
+5f8710e13fd0eb6289aed447cab7905eb0f78c66 | 2026-07-14T16:13:15+05:30 | style: fix hover outline state icon color not changing issue
