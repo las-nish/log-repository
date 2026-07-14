@@ -1071,3 +1071,4 @@ c65a8fc19daa222ceecff0234260ae9e0403fb97 | 2026-07-14T20:43:59+05:30 | fix: fix 
 b2caf06381561ba27a5a2438c00b527ecd2898b6 | 2026-07-14T20:54:47+05:30 | feat: create dpa
 e92aa36437f2a99bbf7f3a4284e189c645246845 | 2026-07-14T21:04:18+05:30 | feat: add status link
 dff0a4de026807dfad1a8a3758701a8b50ef8f30 | 2026-07-14T21:15:44+05:30 | feat: add heading metrics
+34ddf1ae1e08783cb1726fd7b2045e68d6c82567 | 2026-07-14T21:17:25+05:30 | feat: add developer blog link to the navbar
