@@ -1058,3 +1058,4 @@ b18b2331773185b2c4e382e5a6e86819b7a2f3d7 | 2026-07-14T02:52:58+05:30 | fix: impr
 a24509f91498dae9e89060286ce4e3fc5cfd78d2 | 2026-07-14T03:33:12+05:30 | feat: re-add `pprof` comment
 352c6c3f1594aca01f9d75a3930d0feb4b5c7b48 | 2026-07-14T03:36:13+05:30 | Merge branch 'las-nish/implement-onboarding-flow' into 'main'
 c6788cb886ec1e587a41368634810ade32310f7d | 2026-07-14T14:42:55+05:30 | refactor: move results struct to another package, and fix empty velocity results error
+da72e44f13ee67c594c09825cacc454b6704926a | 2026-07-14T15:15:06+05:30 | fix: fix base email return in velocity results
