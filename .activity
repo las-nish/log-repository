@@ -1077,3 +1077,4 @@ dff0a4de026807dfad1a8a3758701a8b50ef8f30 | 2026-07-14T21:15:44+05:30 | feat: add
 d20ca374222ba1333ac80612b576169c9c20963a | 2026-07-15T00:00:21+05:30 | feat: write pulumi scripts
 d1bbdb2a02a0d55535d2656f7fda8c24ac11e6ca | 2026-07-15T12:54:30+05:30 | feat: create go build script for linux, arm architecture
 b52e735a13de1bcacc5d31411b13975a4edae58a | 2026-07-15T12:58:47+05:30 | feat: update user data JSON structure, and bash script to match fucking changes
+63fa73f4fa9b2fe1a30eb58c5f7f59da8ecf6c7e | 2026-07-15T13:13:28+05:30 | feat: write deployment scripts
