@@ -1083,3 +1083,4 @@ f0a479ba10c6a0cbe3d96dedce7fb648d1643b80 | 2026-07-15T14:59:07+05:30 | feat: add
 9d5ba1ca346158ca0505523f876d76bedf73f355 | 2026-07-15T15:37:40+05:30 | fix: fix port to use the gatekeeper's port
 86e0598624815f07a57616f95b5bdf7510cc87a9 | 2026-07-15T15:55:34+05:30 | fix: fix plan quota showing error
 f66e9dc3e5d460d8246dccb165e9ef676f45a66d | 2026-07-15T16:48:50+05:30 | feat: change default subscription status
+62c39bcd3dde266d44eae37f9b97b83cd3b1ec21 | 2026-07-15T16:49:18+05:30 | fix: fix invalid parameter passing in order paid API
