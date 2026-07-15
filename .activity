@@ -1088,3 +1088,4 @@ f66e9dc3e5d460d8246dccb165e9ef676f45a66d | 2026-07-15T16:48:50+05:30 | feat: cha
 4dfcc84803ca9a0db628d4b19474f212ae473862 | 2026-07-15T18:29:37+05:30 | fix: plan quota show issue by updating account overview API to return subscription plan
 05d4c501c7b8c289a5bb8a06853210de6ec1b5bd | 2026-07-15T18:46:20+05:30 | feat: update `GLOBAL_API_USAGE_PAGE_HEADING_SUBTITLE` content
 6e6fd1afbea6de757862e7e3ed89f27387392f9e | 2026-07-15T19:31:12+05:30 | feat: create `isAccountInFreePlan()`
+d5999edfc604f8e5f1089ad15edebcb3689eeda8 | 2026-07-15T19:52:35+05:30 | feat: add umami, clarity, and bing seo metatags
