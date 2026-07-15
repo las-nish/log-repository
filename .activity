@@ -1080,3 +1080,4 @@ b52e735a13de1bcacc5d31411b13975a4edae58a | 2026-07-15T12:58:47+05:30 | feat: upd
 63fa73f4fa9b2fe1a30eb58c5f7f59da8ecf6c7e | 2026-07-15T13:13:28+05:30 | feat: write deployment scripts
 c47358327657c68ec68a195fc2225bbd268a247d | 2026-07-15T14:09:56+05:30 | Merge branch 'las-nish/implement-deployment-scripts' into 'main'
 f0a479ba10c6a0cbe3d96dedce7fb648d1643b80 | 2026-07-15T14:59:07+05:30 | feat: add biome
+9d5ba1ca346158ca0505523f876d76bedf73f355 | 2026-07-15T15:37:40+05:30 | fix: fix port to use the gatekeeper's port
