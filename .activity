@@ -1090,3 +1090,4 @@ f66e9dc3e5d460d8246dccb165e9ef676f45a66d | 2026-07-15T16:48:50+05:30 | feat: cha
 6e6fd1afbea6de757862e7e3ed89f27387392f9e | 2026-07-15T19:31:12+05:30 | feat: create `isAccountInFreePlan()`
 d5999edfc604f8e5f1089ad15edebcb3689eeda8 | 2026-07-15T19:52:35+05:30 | feat: add umami, clarity, and bing seo metatags
 84113f107d04990c764977c6e585ee7a9f401912 | 2026-07-15T20:40:29+05:30 | feat: improve SEO
+8502d0267b8de158a1a5c43eb8bf3c95d6256e21 | 2026-07-15T22:12:08+05:30 | chore: add `all:build` cmd
