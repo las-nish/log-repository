@@ -1102,3 +1102,4 @@ a9759e0314c3f68274e90a3db34073eae6051814 | 2026-07-16T13:01:00+05:30 | feat: add
 94e9fd5bc0fe2486df00f1084c17bfa534822cc1 | 2026-07-16T14:16:16+05:30 | chore: fix environment variable names
 e74dd8e66535f5a4445c9fccfa29d7e0c1849859 | 2026-07-16T14:16:20+05:30 | fix: fix environment variable names
 6bd54536a387ed76f913e87db672406259679c7e | 2026-07-16T14:16:41+05:30 | feat: add production env setup, all download/publish, and fix environment variable prefixes
+e4d9fe6e4f3ff0be648a5ae1df705e7d9247b22d | 2026-07-16T19:13:39+05:30 | chore: downgrade typescript package
