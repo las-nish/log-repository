@@ -1106,3 +1106,4 @@ e4d9fe6e4f3ff0be648a5ae1df705e7d9247b22d | 2026-07-16T19:13:39+05:30 | chore: do
 4a210208c1dbfb8cd89e3ef7a8ae87460ba18374 | 2026-07-16T19:25:29+05:30 | feat: update sqlite package to use `modernc.org/sqlite`
 741d5ade9f884cc0235c14113b722829a6fd7d8a | 2026-07-16T19:49:35+05:30 | chore: add JSON5 package
 243131c8a6cee6e1dc29528fd1079ab0454a3186 | 2026-07-16T19:57:58+05:30 | chore: add `*.tar.gz`
+93bb16ed8a290b5ee9a12dd42b1584231143539e | 2026-07-16T20:05:06+05:30 | feat: add `availabilityZone` to the instance structure
