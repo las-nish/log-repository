@@ -1094,3 +1094,4 @@ d5999edfc604f8e5f1089ad15edebcb3689eeda8 | 2026-07-15T19:52:35+05:30 | feat: add
 bb65e377a798b48a8a099fa94006178e185a10a6 | 2026-07-15T22:58:58+05:30 | Merge branch 'las-nish/fix-polar-webhook' into 'main'
 e5247969eee3f083f8866ee4cae3e5cff0435eb6 | 2026-07-16T00:09:48+05:30 | feat: create server.ts
 e44da5ba4902334afb0c90a4206d4ebb31703864 | 2026-07-16T09:29:46+05:30 | Merge branch 'las-nish/create-fe-server' into 'main'
+38e1a6dd417f202b06959fc8221938797c6fb69a | 2026-07-16T11:15:02+05:30 | feat: update environment variables prefix to match the microservice
