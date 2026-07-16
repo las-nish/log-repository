@@ -1116,3 +1116,4 @@ fbd9f2cd02e62280b0372cc2481d98dcce8abbec | 2026-07-16T20:12:03+05:30 | Merge bra
 6f019294d057625a764fac1e3102a213aab1dce6 | 2026-07-16T22:57:07+05:30 | feat: integrate bird.com email sending
 0eee6e23951e38f2c3314fe20fce5fcca12efe6b | 2026-07-16T23:08:46+05:30 | feat: add `Core` prefix to the bird configs
 8c6d088fd7dfc6facd1e67c44c3fe18896d0b9ab | 2026-07-16T23:12:45+05:30 | docs: add RDS setup instructions
+6bf1eff813ada10721e99f460e1da6071db0d6f9 | 2026-07-16T23:09:27+05:30 | Merge branch 'las-nish/integrate-bird-mail' into 'main'
