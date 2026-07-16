@@ -1114,3 +1114,4 @@ e4d9fe6e4f3ff0be648a5ae1df705e7d9247b22d | 2026-07-16T19:13:39+05:30 | chore: do
 589976350a3d377bb39a52e565df5dd32975786a | 2026-07-16T20:06:30+05:30 | feat: create sqlite setup file
 fbd9f2cd02e62280b0372cc2481d98dcce8abbec | 2026-07-16T20:12:03+05:30 | Merge branch 'las-nish/fix-deployment-issues' into 'main'
 6f019294d057625a764fac1e3102a213aab1dce6 | 2026-07-16T22:57:07+05:30 | feat: integrate bird.com email sending
+0eee6e23951e38f2c3314fe20fce5fcca12efe6b | 2026-07-16T23:08:46+05:30 | feat: add `Core` prefix to the bird configs
