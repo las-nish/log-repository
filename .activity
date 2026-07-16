@@ -1112,3 +1112,4 @@ e4d9fe6e4f3ff0be648a5ae1df705e7d9247b22d | 2026-07-16T19:13:39+05:30 | chore: do
 4028c8355acb95193aaa72d0869d6ef35dd15e26 | 2026-07-16T20:06:04+05:30 | chore: add `*.tmp`
 7fff64fb691325eb361eef4c61c4628e212c5792 | 2026-07-16T20:06:15+05:30 | chore: update stack name
 589976350a3d377bb39a52e565df5dd32975786a | 2026-07-16T20:06:30+05:30 | feat: create sqlite setup file
+fbd9f2cd02e62280b0372cc2481d98dcce8abbec | 2026-07-16T20:12:03+05:30 | Merge branch 'las-nish/fix-deployment-issues' into 'main'
