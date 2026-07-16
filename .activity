@@ -1097,3 +1097,4 @@ e44da5ba4902334afb0c90a4206d4ebb31703864 | 2026-07-16T09:29:46+05:30 | Merge bra
 38e1a6dd417f202b06959fc8221938797c6fb69a | 2026-07-16T11:15:02+05:30 | feat: update environment variables prefix to match the microservice
 698aa874fd5dfdd2ef9575819008dd28eebc0665 | 2026-07-16T11:23:07+05:30 | fix: fix sentry DSN not calling issue, remove shared server envs, and restructure envs
 adcc755021fd286d259ad33dd28b7373393b2073 | 2026-07-16T12:02:59+05:30 | refactor: re-order functions
+e31806a02ec306b4792c910d879e497592e2e498 | 2026-07-16T12:06:37+05:30 | Merge branch 'las-nish/update-envs' into 'main'
