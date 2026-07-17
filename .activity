@@ -1120,3 +1120,4 @@ fbd9f2cd02e62280b0372cc2481d98dcce8abbec | 2026-07-16T20:12:03+05:30 | Merge bra
 fa8d455843f6a9b1ab1bdc1ac9f7cf07f4226c92 | 2026-07-16T23:54:09+05:30 | fix: fix plan names
 37c08d8a9247750190eb544da7b1fd240a13bc3b | 2026-07-17T09:58:37+05:30 | fix: fix reference structure retrieval issue
 597a08a3797f2ffb259c9510387735912cd4217d | 2026-07-17T10:00:04+05:30 | Merge branch 'las-nish/fix-reference-content-structure' into 'main'
+1336fcb1f39a82d653616402c5a3d1a55496ca48 | 2026-07-17T10:54:13+05:30 | feat: add project create limitation on free plan for both production/sandbox projects
