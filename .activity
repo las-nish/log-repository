@@ -1123,3 +1123,4 @@ fa8d455843f6a9b1ab1bdc1ac9f7cf07f4226c92 | 2026-07-16T23:54:09+05:30 | fix: fix 
 1336fcb1f39a82d653616402c5a3d1a55496ca48 | 2026-07-17T10:54:13+05:30 | feat: add project create limitation on free plan for both production/sandbox projects
 c3cdbee6367c9e0e2d79f0790d33784e845b2260 | 2026-07-17T10:55:48+05:30 | Merge branch 'las-nish/add-project-creation-limitation' into 'main'
 abdd908f1835a4e60da36b242ef6c7a6f111a7ab | 2026-07-17T11:20:46+05:30 | feat: add document fragment support as the content
+1e9fab3a4ff73f4d3af256b37671eef9fdf65523 | 2026-07-17T11:32:00+05:30 | feat: add free plan page notification, and pricing page settings item
