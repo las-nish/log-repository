@@ -1135,3 +1135,4 @@ d416bb21a6b25999b2e429c4a075ed7f4cf35209 | 2026-07-17T23:27:47+05:30 | style: re
 9ee90e1c4fdf97005abb6cd770b34368f6bc135e | 2026-07-18T11:24:28+05:30 | feat: implement usage checking DB functions
 cc7e486765850e8c3c946fcc99bf3520dfd08f2b | 2026-07-18T11:57:57+05:30 | feat: add project create limitation based on the usage limitation
 72f7d719022f65d9012cdbd457ca0b35402715c3 | 2026-07-18T20:57:20+05:30 | feat: update team plan support to `Email`
+ba55d365ef1900b64fac5aab8a81bea47ed34709 | 2026-07-18T21:43:48+05:30 | feat: add intelligence user trust api architecture article
