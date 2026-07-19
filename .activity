@@ -1150,3 +1150,4 @@ b95db0e1c0618834de4693772d9998cc39c7e2ae | 2026-07-19T12:18:26+05:30 | style: up
 1850abd2b11528f9572606a63e4940f318e35036 | 2026-07-19T12:19:18+05:30 | style: update toast container gap to `lg`
 64271610b8eba8d96b3ce83ec2c6dd0b3e05329e | 2026-07-19T14:42:18+05:30 | feat: create compliance architecture first architecture document
 9d922b30b91063a0af857a4085ea20ae328bfc5b | 2026-07-19T20:07:29+05:30 | feat: update customer count
+0e9781ef401721b82991d052f4dcf4bf291144d3 | 2026-07-19T20:31:39+05:30 | feat: add about page
