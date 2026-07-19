@@ -1141,3 +1141,4 @@ ba55d365ef1900b64fac5aab8a81bea47ed34709 | 2026-07-18T21:43:48+05:30 | feat: add
 62184b0dcb6b730fc55aca20a59ae4c6570bc5e3 | 2026-07-19T01:09:33+05:30 | feat: integrate reference limitation
 40b76b9260f80cc23a8213727290763ed0e866b5 | 2026-07-19T10:56:26+05:30 | feat: set default field values to `0`
 02ff081278735db8f952b6752aac971fb56533e8 | 2026-07-19T10:56:52+05:30 | feat: update usage creation parameter to pass via API for more maintainability
+18fb604a134a625821f100c20738bebf589cca11 | 2026-07-19T10:57:16+05:30 | fix: empty reference data uncaught error
