@@ -1152,3 +1152,4 @@ b95db0e1c0618834de4693772d9998cc39c7e2ae | 2026-07-19T12:18:26+05:30 | style: up
 9d922b30b91063a0af857a4085ea20ae328bfc5b | 2026-07-19T20:07:29+05:30 | feat: update customer count
 0e9781ef401721b82991d052f4dcf4bf291144d3 | 2026-07-19T20:31:39+05:30 | feat: add about page
 8c6d0beb9dbdc7d6dc5753d67fdf5253e669bea5 | 2026-07-19T22:28:53+05:30 | Merge branch 'las-nish/implement-limitations' into 'main'
+672b112991cf2f50a1cbd455a3f3db73768823db | 2026-07-19T22:55:17+05:30 | style: fix authentication layout no-scrolling issue
