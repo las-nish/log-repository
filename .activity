@@ -1144,3 +1144,4 @@ ba55d365ef1900b64fac5aab8a81bea47ed34709 | 2026-07-18T21:43:48+05:30 | feat: add
 18fb604a134a625821f100c20738bebf589cca11 | 2026-07-19T10:57:16+05:30 | fix: empty reference data uncaught error
 a5e6577e2b458d9b6f34bc6542846d3ad6f040b8 | 2026-07-19T12:10:47+05:30 | fix: add unlimited condition
 3f4aa1c153982bdfe4f469b5df8d0364c93ac63f | 2026-07-19T12:11:05+05:30 | feat: create policy field extract helper function
+8ff8494633a1bcb7c5c203a27e1f55b099cd2972 | 2026-07-19T12:11:39+05:30 | feat: create `v1_usage_check_policy_fields()`
