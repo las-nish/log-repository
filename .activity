@@ -1158,3 +1158,4 @@ f0e4eb157f67f0075519d05f2fac119d2315b740 | 2026-07-19T22:56:45+05:30 | Merge bra
 190b6a6b01070f7d1da4136fee3904973311fb24 | 2026-07-20T00:36:32+05:30 | feat: update azure links
 5d960d0fe5284f39516c889180fd8986fd334d44 | 2026-07-20T10:38:16+05:30 | fix: update data loss preventaion process
 bc7f7e32b70215c513227035397ffb48dd0db79a | 2026-07-20T11:39:21+05:30 | feat: update pricing table structure and add feature details section
+d8ec6b61befd405d51f6d7abde5eeee9422c783c | 2026-07-20T11:49:40+05:30 | feat: add `v1.0.0` changelogs
