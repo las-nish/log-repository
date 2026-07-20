@@ -1156,3 +1156,4 @@ b95db0e1c0618834de4693772d9998cc39c7e2ae | 2026-07-19T12:18:26+05:30 | style: up
 f0e4eb157f67f0075519d05f2fac119d2315b740 | 2026-07-19T22:56:45+05:30 | Merge branch 'las-nish/fix-auth-layout-scrolling' into 'main'
 0dac51649a216ef6e261c81391b6977ae2d330f7 | 2026-07-20T00:28:45+05:30 | feat: remove sitemap from the navigation bar
 190b6a6b01070f7d1da4136fee3904973311fb24 | 2026-07-20T00:36:32+05:30 | feat: update azure links
+5d960d0fe5284f39516c889180fd8986fd334d44 | 2026-07-20T10:38:16+05:30 | fix: update data loss preventaion process
