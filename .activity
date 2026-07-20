@@ -1161,3 +1161,4 @@ bc7f7e32b70215c513227035397ffb48dd0db79a | 2026-07-20T11:39:21+05:30 | feat: upd
 d8ec6b61befd405d51f6d7abde5eeee9422c783c | 2026-07-20T11:49:40+05:30 | feat: add `v1.0.0` changelogs
 67e28e168f2d221d6e9cfc9edc2bcd2206177c57 | 2026-07-20T12:07:46+05:30 | feat: add codeblock syntax highlighting
 9309cbc6a87682a24c35f7d5373fbf86bf5fb4b6 | 2026-07-20T12:08:44+05:30 | docs: set `http` in relevant codeblocks
+dca47a32bafd650e1488ae12e392f72d35815206 | 2026-07-20T12:13:43+05:30 | style: update documentation sidebar styling
