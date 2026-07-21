@@ -1171,3 +1171,4 @@ dca47a32bafd650e1488ae12e392f72d35815206 | 2026-07-20T12:13:43+05:30 | style: up
 965a19dc3be1882e89450a3d81fe031181f76cca | 2026-07-21T20:45:26+05:30 | docs: add account, and dashbaord settings pages
 4f7f4974c23863ad7f578b956acce3dce8f3e058 | 2026-07-21T21:58:55+05:30 | feat: add AWS EC2/RDS security groups auto update script
 84e78265ae6f6d77fd2e91b44cbca2faa1edae2c | 2026-07-21T23:43:06+05:30 | feat: update enterprise access notice
+f7e4efb1bea0b5a7756b95c42a231794fa88c386 | 2026-07-21T23:49:26+05:30 | fix: fix cta button icon fill issue
