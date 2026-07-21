@@ -1169,3 +1169,4 @@ dca47a32bafd650e1488ae12e392f72d35815206 | 2026-07-20T12:13:43+05:30 | style: up
 6d4c4a9b138cbdc880d0e64897b94a5a06295d08 | 2026-07-20T20:55:35+05:30 | fix: fix og image copy
 44a7ab5f8e57e8a1cf053ecd8399cfef45a12b2f | 2026-07-21T01:08:26+05:30 | fix: update new og image with typo fix
 965a19dc3be1882e89450a3d81fe031181f76cca | 2026-07-21T20:45:26+05:30 | docs: add account, and dashbaord settings pages
+4f7f4974c23863ad7f578b956acce3dce8f3e058 | 2026-07-21T21:58:55+05:30 | feat: add AWS EC2/RDS security groups auto update script
