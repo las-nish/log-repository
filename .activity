@@ -1177,3 +1177,4 @@ f7e4efb1bea0b5a7756b95c42a231794fa88c386 | 2026-07-21T23:49:26+05:30 | fix: fix 
 83fb103c48a1493ccc7e18950b37965b7ef56ddf | 2026-07-23T01:59:46+05:30 | style: create core PDF theme
 cadffca0f900981c8d6ae5973e81468ad8cd5a15 | 2026-07-23T19:54:13+05:30 | feat: create tmpl file
 9922f3fd381a29f4a15722bbd139cc3ac88c5aa0 | 2026-07-23T19:54:30+05:30 | chore: create taskfile
+72609a44cf28fa33ee814eab60b7afb8b2d688dd | 2026-07-23T21:43:11+05:30 | fix: fix preview not updating issue
